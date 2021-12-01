@@ -1,0 +1,1117 @@
+﻿ID;Ano;Extrato_Ano;Variavel_Ano;Niveis_Ano;Percentual_Ano
+1;2012;Area Rural-1;Padrao Construtivo;Madeira;80
+2;2013;Area Rural-1;Padrao Construtivo;Madeira;88.2
+3;2014;Area Rural-1;Padrao Construtivo;Madeira;87.5
+4;2015;Area Rural-1;Padrao Construtivo;Madeira;88.8
+5;2016;Area Rural-1;Padrao Construtivo;Madeira;90
+6;2017;Area Rural-1;Padrao Construtivo;Madeira;91.5
+7;2018;Area Rural-1;Padrao Construtivo;Madeira;87.8
+8;2019;Area Rural-1;Padrao Construtivo;Madeira;93.8
+9;2020;Area Rural-1;Padrao Construtivo;Madeira;94.6
+10;2012;Area Rural-1;Padrao Construtivo;Tijolo;10
+11;2013;Area Rural-1;Padrao Construtivo;Tijolo;5.4
+12;2014;Area Rural-1;Padrao Construtivo;Tijolo;4.5
+13;2015;Area Rural-1;Padrao Construtivo;Tijolo;7.5
+14;2016;Area Rural-1;Padrao Construtivo;Tijolo;5
+15;2017;Area Rural-1;Padrao Construtivo;Tijolo;2.8
+16;2018;Area Rural-1;Padrao Construtivo;Tijolo;7.3
+17;2019;Area Rural-1;Padrao Construtivo;Tijolo;2.5
+18;2020;Area Rural-1;Padrao Construtivo;Tijolo;2.7
+19;2012;Area Rural-1;Padrao Construtivo;Adobe;10
+20;2013;Area Rural-1;Padrao Construtivo;Adobe;5.4
+21;2014;Area Rural-1;Padrao Construtivo;Adobe;4.5
+22;2015;Area Rural-1;Padrao Construtivo;Adobe;7.5
+23;2016;Area Rural-1;Padrao Construtivo;Adobe;2.5
+24;2017;Area Rural-1;Padrao Construtivo;Adobe;0
+25;2018;Area Rural-1;Padrao Construtivo;Adobe;0
+26;2019;Area Rural-1;Padrao Construtivo;Adobe;1.2
+27;2020;Area Rural-1;Padrao Construtivo;Adobe;0
+28;2012;Area Rural-1;Padrao Construtivo;Taipa;5
+29;2013;Area Rural-1;Padrao Construtivo;Taipa;7.5
+30;2014;Area Rural-1;Padrao Construtivo;Taipa;8
+31;2015;Area Rural-1;Padrao Construtivo;Taipa;6.2
+32;2016;Area Rural-1;Padrao Construtivo;Taipa;3.8
+33;2017;Area Rural-1;Padrao Construtivo;Taipa;1.4
+34;2018;Area Rural-1;Padrao Construtivo;Taipa;1.2
+35;2019;Area Rural-1;Padrao Construtivo;Taipa;1.2
+36;2020;Area Rural-1;Padrao Construtivo;Taipa;0
+37;2012;Area Rural-1;Padrao Construtivo;Outro;5
+38;2013;Area Rural-1;Padrao Construtivo;Outro;1.1
+39;2014;Area Rural-1;Padrao Construtivo;Outro;1.1
+40;2015;Area Rural-1;Padrao Construtivo;Outro;0
+41;2016;Area Rural-1;Padrao Construtivo;Outro;2.5
+42;2017;Area Rural-1;Padrao Construtivo;Outro;4.2
+43;2018;Area Rural-1;Padrao Construtivo;Outro;4.9
+44;2019;Area Rural-1;Padrao Construtivo;Outro;0
+45;2020;Area Rural-1;Padrao Construtivo;Outro;2.7
+46;2012;Area Rural-2;Padrao Construtivo;Madeira;78.3
+47;2013;Area Rural-2;Padrao Construtivo;Madeira;67.6
+48;2014;Area Rural-2;Padrao Construtivo;Madeira;82.6
+49;2015;Area Rural-2;Padrao Construtivo;Madeira;87.4
+50;2016;Area Rural-2;Padrao Construtivo;Madeira;88.5
+51;2017;Area Rural-2;Padrao Construtivo;Madeira;78.3
+52;2018;Area Rural-2;Padrao Construtivo;Madeira;83.3
+53;2019;Area Rural-2;Padrao Construtivo;Madeira;80.9
+54;2020;Area Rural-2;Padrao Construtivo;Madeira;83.7
+55;2012;Area Rural-2;Padrao Construtivo;Tijolo;0
+56;2013;Area Rural-2;Padrao Construtivo;Tijolo;2.7
+57;2014;Area Rural-2;Padrao Construtivo;Tijolo;1.2
+58;2015;Area Rural-2;Padrao Construtivo;Tijolo;1.1
+59;2016;Area Rural-2;Padrao Construtivo;Tijolo;1.3
+60;2017;Area Rural-2;Padrao Construtivo;Tijolo;0
+61;2018;Area Rural-2;Padrao Construtivo;Tijolo;0
+62;2019;Area Rural-2;Padrao Construtivo;Tijolo;1.1
+63;2020;Area Rural-2;Padrao Construtivo;Tijolo;4.1
+64;2012;Area Rural-2;Padrao Construtivo;Adobe;0
+65;2013;Area Rural-2;Padrao Construtivo;Adobe;2.7
+66;2014;Area Rural-2;Padrao Construtivo;Adobe;1.2
+67;2015;Area Rural-2;Padrao Construtivo;Adobe;1.1
+68;2016;Area Rural-2;Padrao Construtivo;Adobe;1.3
+69;2017;Area Rural-2;Padrao Construtivo;Adobe;1.1
+70;2018;Area Rural-2;Padrao Construtivo;Adobe;0
+71;2019;Area Rural-2;Padrao Construtivo;Adobe;0
+72;2020;Area Rural-2;Padrao Construtivo;Adobe;0
+73;2012;Area Rural-2;Padrao Construtivo;Taipa;17.4
+74;2013;Area Rural-2;Padrao Construtivo;Taipa;12.2
+75;2014;Area Rural-2;Padrao Construtivo;Taipa;9.3
+76;2015;Area Rural-2;Padrao Construtivo;Taipa;11.5
+77;2016;Area Rural-2;Padrao Construtivo;Taipa;11.5
+78;2017;Area Rural-2;Padrao Construtivo;Taipa;12
+79;2018;Area Rural-2;Padrao Construtivo;Taipa;10.7
+80;2019;Area Rural-2;Padrao Construtivo;Taipa;12.4
+81;2020;Area Rural-2;Padrao Construtivo;Taipa;10.2
+82;2012;Area Rural-2;Padrao Construtivo;Outro;4.3
+83;2013;Area Rural-2;Padrao Construtivo;Outro;18.9
+84;2014;Area Rural-2;Padrao Construtivo;Outro;8.1
+85;2015;Area Rural-2;Padrao Construtivo;Outro;2.3
+86;2016;Area Rural-2;Padrao Construtivo;Outro;1.3
+87;2017;Area Rural-2;Padrao Construtivo;Outro;8.7
+88;2018;Area Rural-2;Padrao Construtivo;Outro;6
+89;2019;Area Rural-2;Padrao Construtivo;Outro;5.6
+90;2020;Area Rural-2;Padrao Construtivo;Outro;2
+91;2012;Area Urbana-1;Padrao Construtivo;Madeira;96.3
+92;2013;Area Urbana-1;Padrao Construtivo;Madeira;96.8
+93;2014;Area Urbana-1;Padrao Construtivo;Madeira;93
+94;2015;Area Urbana-1;Padrao Construtivo;Madeira;93.7
+95;2016;Area Urbana-1;Padrao Construtivo;Madeira;97.2
+96;2017;Area Urbana-1;Padrao Construtivo;Madeira;95.5
+97;2018;Area Urbana-1;Padrao Construtivo;Madeira;96.4
+98;2019;Area Urbana-1;Padrao Construtivo;Madeira;96.7
+99;2020;Area Urbana-1;Padrao Construtivo;Madeira;100
+100;2012;Area Urbana-1;Padrao Construtivo;Tijolo;3.7
+101;2013;Area Urbana-1;Padrao Construtivo;Tijolo;4.2
+102;2014;Area Urbana-1;Padrao Construtivo;Tijolo;1.2
+103;2015;Area Urbana-1;Padrao Construtivo;Tijolo;3.8
+104;2016;Area Urbana-1;Padrao Construtivo;Tijolo;0.9
+105;2017;Area Urbana-1;Padrao Construtivo;Tijolo;0
+106;2018;Area Urbana-1;Padrao Construtivo;Tijolo;0
+107;2019;Area Urbana-1;Padrao Construtivo;Tijolo;0.8
+108;2020;Area Urbana-1;Padrao Construtivo;Tijolo;0
+109;2012;Area Urbana-1;Padrao Construtivo;Adobe;3.7
+110;2013;Area Urbana-1;Padrao Construtivo;Adobe;4.2
+111;2014;Area Urbana-1;Padrao Construtivo;Adobe;1.2
+112;2015;Area Urbana-1;Padrao Construtivo;Adobe;3.8
+113;2016;Area Urbana-1;Padrao Construtivo;Adobe;0
+114;2017;Area Urbana-1;Padrao Construtivo;Adobe;0.9
+115;2018;Area Urbana-1;Padrao Construtivo;Adobe;0
+116;2019;Area Urbana-1;Padrao Construtivo;Adobe;0
+117;2020;Area Urbana-1;Padrao Construtivo;Adobe;0
+118;2012;Area Urbana-1;Padrao Construtivo;Taipa;0
+119;2013;Area Urbana-1;Padrao Construtivo;Taipa;2.1
+120;2014;Area Urbana-1;Padrao Construtivo;Taipa;7
+121;2015;Area Urbana-1;Padrao Construtivo;Taipa;2.5
+122;2016;Area Urbana-1;Padrao Construtivo;Taipa;0.9
+123;2017;Area Urbana-1;Padrao Construtivo;Taipa;2.7
+124;2018;Area Urbana-1;Padrao Construtivo;Taipa;3.6
+125;2019;Area Urbana-1;Padrao Construtivo;Taipa;2.5
+126;2020;Area Urbana-1;Padrao Construtivo;Taipa;0
+127;2012;Area Urbana-1;Padrao Construtivo;Outro;0
+128;2013;Area Urbana-1;Padrao Construtivo;Outro;0
+129;2014;Area Urbana-1;Padrao Construtivo;Outro;0
+130;2015;Area Urbana-1;Padrao Construtivo;Outro;0
+131;2016;Area Urbana-1;Padrao Construtivo;Outro;0.9
+132;2017;Area Urbana-1;Padrao Construtivo;Outro;0.9
+133;2018;Area Urbana-1;Padrao Construtivo;Outro;0
+134;2019;Area Urbana-1;Padrao Construtivo;Outro;0
+135;2020;Area Urbana-1;Padrao Construtivo;Outro;0
+136;2012;Area Urbana-2;Padrao Construtivo;Madeira;88.9
+137;2013;Area Urbana-2;Padrao Construtivo;Madeira;90
+138;2014;Area Urbana-2;Padrao Construtivo;Madeira;81.7
+139;2015;Area Urbana-2;Padrao Construtivo;Madeira;89.3
+140;2016;Area Urbana-2;Padrao Construtivo;Madeira;82.9
+141;2017;Area Urbana-2;Padrao Construtivo;Madeira;88.5
+142;2018;Area Urbana-2;Padrao Construtivo;Madeira;81.1
+143;2019;Area Urbana-2;Padrao Construtivo;Madeira;74.5
+144;2020;Area Urbana-2;Padrao Construtivo;Madeira;72.7
+145;2012;Area Urbana-2;Padrao Construtivo;Tijolo;11.1
+146;2013;Area Urbana-2;Padrao Construtivo;Tijolo;10
+147;2014;Area Urbana-2;Padrao Construtivo;Tijolo;19.7
+148;2015;Area Urbana-2;Padrao Construtivo;Tijolo;11.4
+149;2016;Area Urbana-2;Padrao Construtivo;Tijolo;17.9
+150;2017;Area Urbana-2;Padrao Construtivo;Tijolo;10
+151;2018;Area Urbana-2;Padrao Construtivo;Tijolo;18.2
+152;2019;Area Urbana-2;Padrao Construtivo;Tijolo;25.5
+153;2020;Area Urbana-2;Padrao Construtivo;Tijolo;27.3
+154;2012;Area Urbana-2;Padrao Construtivo;Adobe;11.1
+155;2013;Area Urbana-2;Padrao Construtivo;Adobe;10
+156;2014;Area Urbana-2;Padrao Construtivo;Adobe;19.7
+157;2015;Area Urbana-2;Padrao Construtivo;Adobe;11.4
+158;2016;Area Urbana-2;Padrao Construtivo;Adobe;10.7
+159;2017;Area Urbana-2;Padrao Construtivo;Adobe;0.8
+160;2018;Area Urbana-2;Padrao Construtivo;Adobe;0
+161;2019;Area Urbana-2;Padrao Construtivo;Adobe;0.9
+162;2020;Area Urbana-2;Padrao Construtivo;Adobe;0
+163;2012;Area Urbana-2;Padrao Construtivo;Taipa;0
+164;2013;Area Urbana-2;Padrao Construtivo;Taipa;0
+165;2014;Area Urbana-2;Padrao Construtivo;Taipa;0
+166;2015;Area Urbana-2;Padrao Construtivo;Taipa;0
+167;2016;Area Urbana-2;Padrao Construtivo;Taipa;0
+168;2017;Area Urbana-2;Padrao Construtivo;Taipa;0.8
+169;2018;Area Urbana-2;Padrao Construtivo;Taipa;0.8
+170;2019;Area Urbana-2;Padrao Construtivo;Taipa;0
+171;2020;Area Urbana-2;Padrao Construtivo;Taipa;0
+172;2012;Area Urbana-2;Padrao Construtivo;Outro;0
+173;2013;Area Urbana-2;Padrao Construtivo;Outro;0
+174;2014;Area Urbana-2;Padrao Construtivo;Outro;0
+175;2015;Area Urbana-2;Padrao Construtivo;Outro;0
+176;2016;Area Urbana-2;Padrao Construtivo;Outro;0
+177;2017;Area Urbana-2;Padrao Construtivo;Outro;0
+178;2018;Area Urbana-2;Padrao Construtivo;Outro;3
+179;2019;Area Urbana-2;Padrao Construtivo;Outro;0
+180;2020;Area Urbana-2;Padrao Construtivo;Outro;0
+181;2012;Area Rural-1;Tipo de Pisos;Cimento;20
+182;2013;Area Rural-1;Tipo de Pisos;Cimento;39.8
+183;2014;Area Rural-1;Tipo de Pisos;Cimento;18.2
+184;2015;Area Rural-1;Tipo de Pisos;Cimento;18.8
+185;2016;Area Rural-1;Tipo de Pisos;Cimento;35
+186;2017;Area Rural-1;Tipo de Pisos;Cimento;35.2
+187;2018;Area Rural-1;Tipo de Pisos;Cimento;40.2
+188;2019;Area Rural-1;Tipo de Pisos;Cimento;32.1
+189;2020;Area Rural-1;Tipo de Pisos;Cimento;43.2
+190;2012;Area Rural-1;Tipo de Pisos;Terra;55
+191;2013;Area Rural-1;Tipo de Pisos;Terra;43
+192;2014;Area Rural-1;Tipo de Pisos;Terra;55.7
+193;2015;Area Rural-1;Tipo de Pisos;Terra;53.8
+194;2016;Area Rural-1;Tipo de Pisos;Terra;41.2
+195;2017;Area Rural-1;Tipo de Pisos;Terra;36.6
+196;2018;Area Rural-1;Tipo de Pisos;Terra;42.7
+197;2019;Area Rural-1;Tipo de Pisos;Terra;40.7
+198;2020;Area Rural-1;Tipo de Pisos;Terra;24.3
+199;2012;Area Rural-1;Tipo de Pisos;Madeira;20
+200;2013;Area Rural-1;Tipo de Pisos;Madeira;15.1
+201;2014;Area Rural-1;Tipo de Pisos;Madeira;20.5
+202;2015;Area Rural-1;Tipo de Pisos;Madeira;20
+203;2016;Area Rural-1;Tipo de Pisos;Madeira;22.5
+204;2017;Area Rural-1;Tipo de Pisos;Madeira;23.9
+205;2018;Area Rural-1;Tipo de Pisos;Madeira;15.9
+206;2019;Area Rural-1;Tipo de Pisos;Madeira;22.2
+207;2020;Area Rural-1;Tipo de Pisos;Madeira;27
+208;2012;Area Rural-1;Tipo de Pisos;Ceramica;5
+209;2013;Area Rural-1;Tipo de Pisos;Ceramica;5.4
+210;2014;Area Rural-1;Tipo de Pisos;Ceramica;5.7
+211;2015;Area Rural-1;Tipo de Pisos;Ceramica;8.8
+212;2016;Area Rural-1;Tipo de Pisos;Ceramica;2.5
+213;2017;Area Rural-1;Tipo de Pisos;Ceramica;4.2
+214;2018;Area Rural-1;Tipo de Pisos;Ceramica;6.1
+215;2019;Area Rural-1;Tipo de Pisos;Ceramica;3.7
+216;2020;Area Rural-1;Tipo de Pisos;Ceramica;8.1
+217;2012;Area Rural-1;Tipo de Pisos;Outro;0
+218;2013;Area Rural-1;Tipo de Pisos;Outro;0
+219;2014;Area Rural-1;Tipo de Pisos;Outro;0
+220;2015;Area Rural-1;Tipo de Pisos;Outro;0
+221;2016;Area Rural-1;Tipo de Pisos;Outro;0
+222;2017;Area Rural-1;Tipo de Pisos;Outro;0
+223;2018;Area Rural-1;Tipo de Pisos;Outro;0
+224;2019;Area Rural-1;Tipo de Pisos;Outro;0
+225;2020;Area Rural-1;Tipo de Pisos;Outro;0
+226;2012;Area Rural-2;Tipo de Pisos;Cimento;17.4
+227;2013;Area Rural-2;Tipo de Pisos;Cimento;24.3
+228;2014;Area Rural-2;Tipo de Pisos;Cimento;24.4
+229;2015;Area Rural-2;Tipo de Pisos;Cimento;27.6
+230;2016;Area Rural-2;Tipo de Pisos;Cimento;43.6
+231;2017;Area Rural-2;Tipo de Pisos;Cimento;47.8
+232;2018;Area Rural-2;Tipo de Pisos;Cimento;33.3
+233;2019;Area Rural-2;Tipo de Pisos;Cimento;34.8
+234;2020;Area Rural-2;Tipo de Pisos;Cimento;40.8
+235;2012;Area Rural-2;Tipo de Pisos;Terra;78.3
+236;2013;Area Rural-2;Tipo de Pisos;Terra;68.9
+237;2014;Area Rural-2;Tipo de Pisos;Terra;72.1
+238;2015;Area Rural-2;Tipo de Pisos;Terra;71.3
+239;2016;Area Rural-2;Tipo de Pisos;Terra;52.6
+240;2017;Area Rural-2;Tipo de Pisos;Terra;44.6
+241;2018;Area Rural-2;Tipo de Pisos;Terra;52.4
+242;2019;Area Rural-2;Tipo de Pisos;Terra;50.6
+243;2020;Area Rural-2;Tipo de Pisos;Terra;49
+244;2012;Area Rural-2;Tipo de Pisos;Madeira;0
+245;2013;Area Rural-2;Tipo de Pisos;Madeira;2.7
+246;2014;Area Rural-2;Tipo de Pisos;Madeira;3.5
+247;2015;Area Rural-2;Tipo de Pisos;Madeira;0
+248;2016;Area Rural-2;Tipo de Pisos;Madeira;2.6
+249;2017;Area Rural-2;Tipo de Pisos;Madeira;3.3
+250;2018;Area Rural-2;Tipo de Pisos;Madeira;9.5
+251;2019;Area Rural-2;Tipo de Pisos;Madeira;5.6
+252;2020;Area Rural-2;Tipo de Pisos;Madeira;2
+253;2012;Area Rural-2;Tipo de Pisos;Ceramica;4.3
+254;2013;Area Rural-2;Tipo de Pisos;Ceramica;4.1
+255;2014;Area Rural-2;Tipo de Pisos;Ceramica;0
+256;2015;Area Rural-2;Tipo de Pisos;Ceramica;1.1
+257;2016;Area Rural-2;Tipo de Pisos;Ceramica;1.3
+258;2017;Area Rural-2;Tipo de Pisos;Ceramica;2.2
+259;2018;Area Rural-2;Tipo de Pisos;Ceramica;7.1
+260;2019;Area Rural-2;Tipo de Pisos;Ceramica;9
+261;2020;Area Rural-2;Tipo de Pisos;Ceramica;8.2
+262;2012;Area Rural-2;Tipo de Pisos;Outro;0
+263;2013;Area Rural-2;Tipo de Pisos;Outro;0
+264;2014;Area Rural-2;Tipo de Pisos;Outro;0
+265;2015;Area Rural-2;Tipo de Pisos;Outro;0
+266;2016;Area Rural-2;Tipo de Pisos;Outro;0
+267;2017;Area Rural-2;Tipo de Pisos;Outro;2.2
+268;2018;Area Rural-2;Tipo de Pisos;Outro;0
+269;2019;Area Rural-2;Tipo de Pisos;Outro;0
+270;2020;Area Rural-2;Tipo de Pisos;Outro;0
+271;2012;Area Urbana-1;Tipo de Pisos;Cimento;88.9
+272;2013;Area Urbana-1;Tipo de Pisos;Cimento;84.2
+273;2014;Area Urbana-1;Tipo de Pisos;Cimento;81.4
+274;2015;Area Urbana-1;Tipo de Pisos;Cimento;91.1
+275;2016;Area Urbana-1;Tipo de Pisos;Cimento;85.8
+276;2017;Area Urbana-1;Tipo de Pisos;Cimento;83.6
+277;2018;Area Urbana-1;Tipo de Pisos;Cimento;81.8
+278;2019;Area Urbana-1;Tipo de Pisos;Cimento;83.3
+279;2020;Area Urbana-1;Tipo de Pisos;Cimento;83.6
+280;2012;Area Urbana-1;Tipo de Pisos;Terra;7.4
+281;2013;Area Urbana-1;Tipo de Pisos;Terra;13.7
+282;2014;Area Urbana-1;Tipo de Pisos;Terra;10.5
+283;2015;Area Urbana-1;Tipo de Pisos;Terra;6.3
+284;2016;Area Urbana-1;Tipo de Pisos;Terra;7.5
+285;2017;Area Urbana-1;Tipo de Pisos;Terra;11.8
+286;2018;Area Urbana-1;Tipo de Pisos;Terra;9.1
+287;2019;Area Urbana-1;Tipo de Pisos;Terra;9.2
+288;2020;Area Urbana-1;Tipo de Pisos;Terra;8.2
+289;2012;Area Urbana-1;Tipo de Pisos;Madeira;1.9
+290;2013;Area Urbana-1;Tipo de Pisos;Madeira;2.1
+291;2014;Area Urbana-1;Tipo de Pisos;Madeira;1.2
+292;2015;Area Urbana-1;Tipo de Pisos;Madeira;1.3
+293;2016;Area Urbana-1;Tipo de Pisos;Madeira;2.8
+294;2017;Area Urbana-1;Tipo de Pisos;Madeira;3.6
+295;2018;Area Urbana-1;Tipo de Pisos;Madeira;4.5
+296;2019;Area Urbana-1;Tipo de Pisos;Madeira;1.7
+297;2020;Area Urbana-1;Tipo de Pisos;Madeira;3.3
+298;2012;Area Urbana-1;Tipo de Pisos;Ceramica;3.7
+299;2013;Area Urbana-1;Tipo de Pisos;Ceramica;2.1
+300;2014;Area Urbana-1;Tipo de Pisos;Ceramica;7
+301;2015;Area Urbana-1;Tipo de Pisos;Ceramica;5.1
+302;2016;Area Urbana-1;Tipo de Pisos;Ceramica;3.8
+303;2017;Area Urbana-1;Tipo de Pisos;Ceramica;0.9
+304;2018;Area Urbana-1;Tipo de Pisos;Ceramica;5.5
+305;2019;Area Urbana-1;Tipo de Pisos;Ceramica;5.8
+306;2020;Area Urbana-1;Tipo de Pisos;Ceramica;4.9
+307;2012;Area Urbana-1;Tipo de Pisos;Outro;0
+308;2013;Area Urbana-1;Tipo de Pisos;Outro;0
+309;2014;Area Urbana-1;Tipo de Pisos;Outro;0
+310;2015;Area Urbana-1;Tipo de Pisos;Outro;0
+311;2016;Area Urbana-1;Tipo de Pisos;Outro;0
+312;2017;Area Urbana-1;Tipo de Pisos;Outro;0
+313;2018;Area Urbana-1;Tipo de Pisos;Outro;0
+314;2019;Area Urbana-1;Tipo de Pisos;Outro;0
+315;2020;Area Urbana-1;Tipo de Pisos;Outro;0
+316;2012;Area Urbana-2;Tipo de Pisos;Cimento;31.1
+317;2013;Area Urbana-2;Tipo de Pisos;Cimento;43.6
+318;2014;Area Urbana-2;Tipo de Pisos;Cimento;45.8
+319;2015;Area Urbana-2;Tipo de Pisos;Cimento;59.1
+320;2016;Area Urbana-2;Tipo de Pisos;Cimento;45
+321;2017;Area Urbana-2;Tipo de Pisos;Cimento;49.2
+322;2018;Area Urbana-2;Tipo de Pisos;Cimento;42.4
+323;2019;Area Urbana-2;Tipo de Pisos;Cimento;51.9
+324;2020;Area Urbana-2;Tipo de Pisos;Cimento;49.1
+325;2012;Area Urbana-2;Tipo de Pisos;Terra;0
+326;2013;Area Urbana-2;Tipo de Pisos;Terra;2.9
+327;2014;Area Urbana-2;Tipo de Pisos;Terra;7
+328;2015;Area Urbana-2;Tipo de Pisos;Terra;3.4
+329;2016;Area Urbana-2;Tipo de Pisos;Terra;5
+330;2017;Area Urbana-2;Tipo de Pisos;Terra;0.8
+331;2018;Area Urbana-2;Tipo de Pisos;Terra;3
+332;2019;Area Urbana-2;Tipo de Pisos;Terra;3.8
+333;2020;Area Urbana-2;Tipo de Pisos;Terra;5.5
+334;2012;Area Urbana-2;Tipo de Pisos;Madeira;57.8
+335;2013;Area Urbana-2;Tipo de Pisos;Madeira;48.6
+336;2014;Area Urbana-2;Tipo de Pisos;Madeira;31
+337;2015;Area Urbana-2;Tipo de Pisos;Madeira;26.8
+338;2016;Area Urbana-2;Tipo de Pisos;Madeira;30
+339;2017;Area Urbana-2;Tipo de Pisos;Madeira;36.2
+340;2018;Area Urbana-2;Tipo de Pisos;Madeira;40.9
+341;2019;Area Urbana-2;Tipo de Pisos;Madeira;27.4
+342;2020;Area Urbana-2;Tipo de Pisos;Madeira;20
+343;2012;Area Urbana-2;Tipo de Pisos;Ceramica;11.1
+344;2013;Area Urbana-2;Tipo de Pisos;Ceramica;9.3
+345;2014;Area Urbana-2;Tipo de Pisos;Ceramica;17.6
+346;2015;Area Urbana-2;Tipo de Pisos;Ceramica;12.8
+347;2016;Area Urbana-2;Tipo de Pisos;Ceramica;20.7
+348;2017;Area Urbana-2;Tipo de Pisos;Ceramica;13.8
+349;2018;Area Urbana-2;Tipo de Pisos;Ceramica;16.7
+350;2019;Area Urbana-2;Tipo de Pisos;Ceramica;17.9
+351;2020;Area Urbana-2;Tipo de Pisos;Ceramica;25.5
+352;2012;Area Urbana-2;Tipo de Pisos;Outro;0
+353;2013;Area Urbana-2;Tipo de Pisos;Outro;0
+354;2014;Area Urbana-2;Tipo de Pisos;Outro;0.7
+355;2015;Area Urbana-2;Tipo de Pisos;Outro;0
+356;2016;Area Urbana-2;Tipo de Pisos;Outro;0
+357;2017;Area Urbana-2;Tipo de Pisos;Outro;0
+358;2018;Area Urbana-2;Tipo de Pisos;Outro;0
+359;2019;Area Urbana-2;Tipo de Pisos;Outro;0
+360;2020;Area Urbana-2;Tipo de Pisos;Outro;0
+361;2012;Area Rural-1;Tipo de Cobertura;Amianto;50
+362;2012;Area Rural-1;Tipo de Cobertura;Palha;30
+363;2012;Area Rural-1;Tipo de Cobertura;Madeira;15
+364;2012;Area Rural-1;Tipo de Cobertura;Telha de Barro;5
+365;2012;Area Rural-1;Tipo de Cobertura;Outro;0
+366;2013;Area Rural-1;Tipo de Cobertura;Amianto;62.4
+367;2013;Area Rural-1;Tipo de Cobertura;Palha;23.7
+368;2013;Area Rural-1;Tipo de Cobertura;Madeira;17.2
+369;2013;Area Rural-1;Tipo de Cobertura;Telha de Barro;1.1
+370;2013;Area Rural-1;Tipo de Cobertura;Outro;0
+371;2014;Area Rural-1;Tipo de Cobertura;Amianto;61.4
+372;2014;Area Rural-1;Tipo de Cobertura;Palha;27.3
+373;2014;Area Rural-1;Tipo de Cobertura;Madeira;9.1
+374;2014;Area Rural-1;Tipo de Cobertura;Telha de Barro;1.1
+375;2014;Area Rural-1;Tipo de Cobertura;Outro;1.1
+376;2015;Area Rural-1;Tipo de Cobertura;Amianto;72.5
+377;2015;Area Rural-1;Tipo de Cobertura;Palha;18.8
+378;2015;Area Rural-1;Tipo de Cobertura;Madeira;7.5
+379;2015;Area Rural-1;Tipo de Cobertura;Telha de Barro;2.5
+380;2015;Area Rural-1;Tipo de Cobertura;Outro;0
+381;2016;Area Rural-1;Tipo de Cobertura;Amianto;75
+382;2016;Area Rural-1;Tipo de Cobertura;Palha;20
+383;2016;Area Rural-1;Tipo de Cobertura;Madeira;2.5
+384;2016;Area Rural-1;Tipo de Cobertura;Telha de Barro;1.2
+385;2016;Area Rural-1;Tipo de Cobertura;Outro;2.5
+386;2017;Area Rural-1;Tipo de Cobertura;Amianto;80.3
+387;2017;Area Rural-1;Tipo de Cobertura;Palha;9.9
+388;2017;Area Rural-1;Tipo de Cobertura;Madeira;8.5
+389;2017;Area Rural-1;Tipo de Cobertura;Telha de Barro;0
+390;2017;Area Rural-1;Tipo de Cobertura;Outro;1.4
+391;2018;Area Rural-1;Tipo de Cobertura;Amianto;79.3
+392;2018;Area Rural-1;Tipo de Cobertura;Palha;7.3
+393;2018;Area Rural-1;Tipo de Cobertura;Madeira;3.7
+394;2018;Area Rural-1;Tipo de Cobertura;Telha de Barro;2.4
+395;2018;Area Rural-1;Tipo de Cobertura;Outro;8.5
+396;2019;Area Rural-1;Tipo de Cobertura;Amianto;79
+397;2019;Area Rural-1;Tipo de Cobertura;Palha;12.3
+398;2019;Area Rural-1;Tipo de Cobertura;Madeira;6.2
+399;2019;Area Rural-1;Tipo de Cobertura;Telha de Barro;1.2
+400;2019;Area Rural-1;Tipo de Cobertura;Outro;1.2
+401;2020;Area Rural-1;Tipo de Cobertura;Amianto;94.6
+402;2020;Area Rural-1;Tipo de Cobertura;Palha;2.7
+403;2020;Area Rural-1;Tipo de Cobertura;Madeira;0
+404;2020;Area Rural-1;Tipo de Cobertura;Telha de Barro;0
+405;2020;Area Rural-1;Tipo de Cobertura;Outro;2.7
+406;2012;Area Rural-2;Tipo de Cobertura;Amianto;26.1
+407;2012;Area Rural-2;Tipo de Cobertura;Palha;30.4
+408;2012;Area Rural-2;Tipo de Cobertura;Madeira;26.1
+409;2012;Area Rural-2;Tipo de Cobertura;Telha de Barro;0
+410;2012;Area Rural-2;Tipo de Cobertura;Outro;17.4
+411;2013;Area Rural-2;Tipo de Cobertura;Amianto;28.4
+412;2013;Area Rural-2;Tipo de Cobertura;Palha;48.6
+413;2013;Area Rural-2;Tipo de Cobertura;Madeira;23
+414;2013;Area Rural-2;Tipo de Cobertura;Telha de Barro;1.4
+415;2013;Area Rural-2;Tipo de Cobertura;Outro;0
+416;2014;Area Rural-2;Tipo de Cobertura;Amianto;41.9
+417;2014;Area Rural-2;Tipo de Cobertura;Palha;33.7
+418;2014;Area Rural-2;Tipo de Cobertura;Madeira;22.1
+419;2014;Area Rural-2;Tipo de Cobertura;Telha de Barro;2.3
+420;2014;Area Rural-2;Tipo de Cobertura;Outro;0
+421;2015;Area Rural-2;Tipo de Cobertura;Amianto;49.4
+422;2015;Area Rural-2;Tipo de Cobertura;Palha;31
+423;2015;Area Rural-2;Tipo de Cobertura;Madeira;14.9
+424;2015;Area Rural-2;Tipo de Cobertura;Telha de Barro;4.6
+425;2015;Area Rural-2;Tipo de Cobertura;Outro;0
+426;2016;Area Rural-2;Tipo de Cobertura;Amianto;56.4
+427;2016;Area Rural-2;Tipo de Cobertura;Palha;19.2
+428;2016;Area Rural-2;Tipo de Cobertura;Madeira;17.9
+429;2016;Area Rural-2;Tipo de Cobertura;Telha de Barro;6.4
+430;2016;Area Rural-2;Tipo de Cobertura;Outro;1.3
+431;2017;Area Rural-2;Tipo de Cobertura;Amianto;66.3
+432;2017;Area Rural-2;Tipo de Cobertura;Palha;14.1
+433;2017;Area Rural-2;Tipo de Cobertura;Madeira;10.9
+434;2017;Area Rural-2;Tipo de Cobertura;Telha de Barro;7.6
+435;2017;Area Rural-2;Tipo de Cobertura;Outro;1.1
+436;2018;Area Rural-2;Tipo de Cobertura;Amianto;72.6
+437;2018;Area Rural-2;Tipo de Cobertura;Palha;16.7
+438;2018;Area Rural-2;Tipo de Cobertura;Madeira;7.1
+439;2018;Area Rural-2;Tipo de Cobertura;Telha de Barro;3.6
+440;2018;Area Rural-2;Tipo de Cobertura;Outro;0
+441;2019;Area Rural-2;Tipo de Cobertura;Amianto;74.2
+442;2019;Area Rural-2;Tipo de Cobertura;Palha;19.1
+443;2019;Area Rural-2;Tipo de Cobertura;Madeira;4.5
+444;2019;Area Rural-2;Tipo de Cobertura;Telha de Barro;3.4
+445;2019;Area Rural-2;Tipo de Cobertura;Outro;1.1
+446;2020;Area Rural-2;Tipo de Cobertura;Amianto;77.6
+447;2020;Area Rural-2;Tipo de Cobertura;Palha;12.2
+448;2020;Area Rural-2;Tipo de Cobertura;Madeira;4.1
+449;2020;Area Rural-2;Tipo de Cobertura;Telha de Barro;8.2
+450;2020;Area Rural-2;Tipo de Cobertura;Outro;0
+451;2012;Area Urbana-1;Tipo de Cobertura;Amianto;57.4
+452;2012;Area Urbana-1;Tipo de Cobertura;Palha;42.6
+453;2012;Area Urbana-1;Tipo de Cobertura;Madeira;1.9
+454;2012;Area Urbana-1;Tipo de Cobertura;Telha de Barro;0
+455;2012;Area Urbana-1;Tipo de Cobertura;Outro;0
+456;2013;Area Urbana-1;Tipo de Cobertura;Amianto;73.7
+457;2013;Area Urbana-1;Tipo de Cobertura;Palha;31.6
+458;2013;Area Urbana-1;Tipo de Cobertura;Madeira;1.1
+459;2013;Area Urbana-1;Tipo de Cobertura;Telha de Barro;0
+460;2013;Area Urbana-1;Tipo de Cobertura;Outro;0
+461;2014;Area Urbana-1;Tipo de Cobertura;Amianto;73.3
+462;2014;Area Urbana-1;Tipo de Cobertura;Palha;26.7
+463;2014;Area Urbana-1;Tipo de Cobertura;Madeira;1.2
+464;2014;Area Urbana-1;Tipo de Cobertura;Telha de Barro;0
+465;2014;Area Urbana-1;Tipo de Cobertura;Outro;0
+466;2015;Area Urbana-1;Tipo de Cobertura;Amianto;74.7
+467;2015;Area Urbana-1;Tipo de Cobertura;Palha;25.3
+468;2015;Area Urbana-1;Tipo de Cobertura;Madeira;1.3
+469;2015;Area Urbana-1;Tipo de Cobertura;Telha de Barro;0
+470;2015;Area Urbana-1;Tipo de Cobertura;Outro;0
+471;2016;Area Urbana-1;Tipo de Cobertura;Amianto;78.3
+472;2016;Area Urbana-1;Tipo de Cobertura;Palha;18.9
+473;2016;Area Urbana-1;Tipo de Cobertura;Madeira;0.9
+474;2016;Area Urbana-1;Tipo de Cobertura;Telha de Barro;0.9
+475;2016;Area Urbana-1;Tipo de Cobertura;Outro;0.9
+476;2017;Area Urbana-1;Tipo de Cobertura;Amianto;77.3
+477;2017;Area Urbana-1;Tipo de Cobertura;Palha;20.9
+478;2017;Area Urbana-1;Tipo de Cobertura;Madeira;0
+479;2017;Area Urbana-1;Tipo de Cobertura;Telha de Barro;1.8
+480;2017;Area Urbana-1;Tipo de Cobertura;Outro;0
+481;2018;Area Urbana-1;Tipo de Cobertura;Amianto;81.8
+482;2018;Area Urbana-1;Tipo de Cobertura;Palha;18.2
+483;2018;Area Urbana-1;Tipo de Cobertura;Madeira;0
+484;2018;Area Urbana-1;Tipo de Cobertura;Telha de Barro;0.9
+485;2018;Area Urbana-1;Tipo de Cobertura;Outro;0
+486;2019;Area Urbana-1;Tipo de Cobertura;Amianto;84.2
+487;2019;Area Urbana-1;Tipo de Cobertura;Palha;15
+488;2019;Area Urbana-1;Tipo de Cobertura;Madeira;0
+489;2019;Area Urbana-1;Tipo de Cobertura;Telha de Barro;0.8
+490;2019;Area Urbana-1;Tipo de Cobertura;Outro;0
+491;2020;Area Urbana-1;Tipo de Cobertura;Amianto;91.8
+492;2020;Area Urbana-1;Tipo de Cobertura;Palha;8.2
+493;2020;Area Urbana-1;Tipo de Cobertura;Madeira;0
+494;2020;Area Urbana-1;Tipo de Cobertura;Telha de Barro;0
+495;2020;Area Urbana-1;Tipo de Cobertura;Outro;0
+496;2012;Area Urbana-2;Tipo de Cobertura;Amianto;91.1
+497;2012;Area Urbana-2;Tipo de Cobertura;Palha;0
+498;2012;Area Urbana-2;Tipo de Cobertura;Madeira;4.4
+499;2012;Area Urbana-2;Tipo de Cobertura;Telha de Barro;2.2
+500;2012;Area Urbana-2;Tipo de Cobertura;Outro;2.2
+501;2013;Area Urbana-2;Tipo de Cobertura;Amianto;97.1
+502;2013;Area Urbana-2;Tipo de Cobertura;Palha;0.7
+503;2013;Area Urbana-2;Tipo de Cobertura;Madeira;0
+504;2013;Area Urbana-2;Tipo de Cobertura;Telha de Barro;3.6
+505;2013;Area Urbana-2;Tipo de Cobertura;Outro;0
+506;2014;Area Urbana-2;Tipo de Cobertura;Amianto;93.7
+507;2014;Area Urbana-2;Tipo de Cobertura;Palha;0.7
+508;2014;Area Urbana-2;Tipo de Cobertura;Madeira;0.7
+509;2014;Area Urbana-2;Tipo de Cobertura;Telha de Barro;4.2
+510;2014;Area Urbana-2;Tipo de Cobertura;Outro;0.7
+511;2015;Area Urbana-2;Tipo de Cobertura;Amianto;94.6
+512;2015;Area Urbana-2;Tipo de Cobertura;Palha;4
+513;2015;Area Urbana-2;Tipo de Cobertura;Madeira;0.7
+514;2015;Area Urbana-2;Tipo de Cobertura;Telha de Barro;1.3
+515;2015;Area Urbana-2;Tipo de Cobertura;Outro;2.7
+516;2016;Area Urbana-2;Tipo de Cobertura;Amianto;95.7
+517;2016;Area Urbana-2;Tipo de Cobertura;Palha;0
+518;2016;Area Urbana-2;Tipo de Cobertura;Madeira;0.7
+519;2016;Area Urbana-2;Tipo de Cobertura;Telha de Barro;3.6
+520;2016;Area Urbana-2;Tipo de Cobertura;Outro;0
+521;2017;Area Urbana-2;Tipo de Cobertura;Amianto;93.8
+522;2017;Area Urbana-2;Tipo de Cobertura;Palha;0.8
+523;2017;Area Urbana-2;Tipo de Cobertura;Madeira;1.5
+524;2017;Area Urbana-2;Tipo de Cobertura;Telha de Barro;3.1
+525;2017;Area Urbana-2;Tipo de Cobertura;Outro;0.8
+526;2018;Area Urbana-2;Tipo de Cobertura;Amianto;97.7
+527;2018;Area Urbana-2;Tipo de Cobertura;Palha;0.8
+528;2018;Area Urbana-2;Tipo de Cobertura;Madeira;0
+529;2018;Area Urbana-2;Tipo de Cobertura;Telha de Barro;1.5
+530;2018;Area Urbana-2;Tipo de Cobertura;Outro;0
+531;2019;Area Urbana-2;Tipo de Cobertura;Amianto;96.2
+532;2019;Area Urbana-2;Tipo de Cobertura;Palha;0
+533;2019;Area Urbana-2;Tipo de Cobertura;Madeira;0
+534;2019;Area Urbana-2;Tipo de Cobertura;Telha de Barro;3.8
+535;2019;Area Urbana-2;Tipo de Cobertura;Outro;0
+536;2020;Area Urbana-2;Tipo de Cobertura;Amianto;94.5
+537;2020;Area Urbana-2;Tipo de Cobertura;Palha;0
+538;2020;Area Urbana-2;Tipo de Cobertura;Madeira;0
+539;2020;Area Urbana-2;Tipo de Cobertura;Telha de Barro;5.5
+540;2020;Area Urbana-2;Tipo de Cobertura;Outro;0
+541;2012;Area Rural-1;Localizacao Instalacao Sanitaria;Fora de Casa;60
+542;2012;Area Rural-1;Localizacao Instalacao Sanitaria;Dentro de Casa;10
+543;2012;Area Rural-1;Localizacao Instalacao Sanitaria;Nao Possui Instalacao;30
+544;2013;Area Rural-1;Localizacao Instalacao Sanitaria;Fora de Casa;82.8
+545;2013;Area Rural-1;Localizacao Instalacao Sanitaria;Dentro de Casa;7.5
+546;2013;Area Rural-1;Localizacao Instalacao Sanitaria;Nao Possui Instalacao;9.7
+547;2014;Area Rural-1;Localizacao Instalacao Sanitaria;Fora de Casa;73.9
+548;2014;Area Rural-1;Localizacao Instalacao Sanitaria;Dentro de Casa;5.7
+549;2014;Area Rural-1;Localizacao Instalacao Sanitaria;Nao Possui Instalacao;20.5
+550;2015;Area Rural-1;Localizacao Instalacao Sanitaria;Fora de Casa;93.8
+551;2015;Area Rural-1;Localizacao Instalacao Sanitaria;Dentro de Casa;0
+552;2015;Area Rural-1;Localizacao Instalacao Sanitaria;Nao Possui Instalacao;6.2
+553;2016;Area Rural-1;Localizacao Instalacao Sanitaria;Fora de Casa;80
+554;2016;Area Rural-1;Localizacao Instalacao Sanitaria;Dentro de Casa;12.5
+555;2016;Area Rural-1;Localizacao Instalacao Sanitaria;Nao Possui Instalacao;7.5
+556;2017;Area Rural-1;Localizacao Instalacao Sanitaria;Fora de Casa;66.2
+557;2017;Area Rural-1;Localizacao Instalacao Sanitaria;Dentro de Casa;28.2
+558;2017;Area Rural-1;Localizacao Instalacao Sanitaria;Nao Possui Instalacao;7
+559;2018;Area Rural-1;Localizacao Instalacao Sanitaria;Fora de Casa;43.9
+560;2018;Area Rural-1;Localizacao Instalacao Sanitaria;Dentro de Casa;45.1
+561;2018;Area Rural-1;Localizacao Instalacao Sanitaria;Nao Possui Instalacao;13.4
+562;2019;Area Rural-1;Localizacao Instalacao Sanitaria;Fora de Casa;56.8
+563;2019;Area Rural-1;Localizacao Instalacao Sanitaria;Dentro de Casa;33.3
+564;2019;Area Rural-1;Localizacao Instalacao Sanitaria;Nao Possui Instalacao;13.6
+565;2020;Area Rural-1;Localizacao Instalacao Sanitaria;Fora de Casa;48.6
+566;2020;Area Rural-1;Localizacao Instalacao Sanitaria;Dentro de Casa;54.1
+567;2020;Area Rural-1;Localizacao Instalacao Sanitaria;Nao Possui Instalacao;10.8
+568;2012;Area Rural-2;Localizacao Instalacao Sanitaria;Fora de Casa;87
+569;2012;Area Rural-2;Localizacao Instalacao Sanitaria;Dentro de Casa;8.7
+570;2012;Area Rural-2;Localizacao Instalacao Sanitaria;Nao Possui Instalacao;4.3
+571;2013;Area Rural-2;Localizacao Instalacao Sanitaria;Fora de Casa;79.7
+572;2013;Area Rural-2;Localizacao Instalacao Sanitaria;Dentro de Casa;4.1
+573;2013;Area Rural-2;Localizacao Instalacao Sanitaria;Nao Possui Instalacao;16.2
+574;2014;Area Rural-2;Localizacao Instalacao Sanitaria;Fora de Casa;64
+575;2014;Area Rural-2;Localizacao Instalacao Sanitaria;Dentro de Casa;2.3
+576;2014;Area Rural-2;Localizacao Instalacao Sanitaria;Nao Possui Instalacao;33.7
+577;2015;Area Rural-2;Localizacao Instalacao Sanitaria;Fora de Casa;89.7
+578;2015;Area Rural-2;Localizacao Instalacao Sanitaria;Dentro de Casa;0
+579;2015;Area Rural-2;Localizacao Instalacao Sanitaria;Nao Possui Instalacao;10.3
+580;2016;Area Rural-2;Localizacao Instalacao Sanitaria;Fora de Casa;79.5
+581;2016;Area Rural-2;Localizacao Instalacao Sanitaria;Dentro de Casa;12.8
+582;2016;Area Rural-2;Localizacao Instalacao Sanitaria;Nao Possui Instalacao;7.7
+583;2017;Area Rural-2;Localizacao Instalacao Sanitaria;Fora de Casa;67.4
+584;2017;Area Rural-2;Localizacao Instalacao Sanitaria;Dentro de Casa;16.3
+585;2017;Area Rural-2;Localizacao Instalacao Sanitaria;Nao Possui Instalacao;17.4
+586;2018;Area Rural-2;Localizacao Instalacao Sanitaria;Fora de Casa;70.2
+587;2018;Area Rural-2;Localizacao Instalacao Sanitaria;Dentro de Casa;17.9
+588;2018;Area Rural-2;Localizacao Instalacao Sanitaria;Nao Possui Instalacao;11.9
+589;2019;Area Rural-2;Localizacao Instalacao Sanitaria;Fora de Casa;70.8
+590;2019;Area Rural-2;Localizacao Instalacao Sanitaria;Dentro de Casa;19.1
+591;2019;Area Rural-2;Localizacao Instalacao Sanitaria;Nao Possui Instalacao;13.5
+592;2020;Area Rural-2;Localizacao Instalacao Sanitaria;Fora de Casa;34.7
+593;2020;Area Rural-2;Localizacao Instalacao Sanitaria;Dentro de Casa;24.5
+594;2020;Area Rural-2;Localizacao Instalacao Sanitaria;Nao Possui Instalacao;40.8
+595;2012;Area Urbana-1;Localizacao Instalacao Sanitaria;Fora de Casa;57.4
+596;2012;Area Urbana-1;Localizacao Instalacao Sanitaria;Dentro de Casa;27.8
+597;2012;Area Urbana-1;Localizacao Instalacao Sanitaria;Nao Possui Instalacao;14.8
+598;2013;Area Urbana-1;Localizacao Instalacao Sanitaria;Fora de Casa;70.5
+599;2013;Area Urbana-1;Localizacao Instalacao Sanitaria;Dentro de Casa;23.2
+600;2013;Area Urbana-1;Localizacao Instalacao Sanitaria;Nao Possui Instalacao;6.3
+601;2014;Area Urbana-1;Localizacao Instalacao Sanitaria;Fora de Casa;81.4
+602;2014;Area Urbana-1;Localizacao Instalacao Sanitaria;Dentro de Casa;9.3
+603;2014;Area Urbana-1;Localizacao Instalacao Sanitaria;Nao Possui Instalacao;9.3
+604;2015;Area Urbana-1;Localizacao Instalacao Sanitaria;Fora de Casa;88.6
+605;2015;Area Urbana-1;Localizacao Instalacao Sanitaria;Dentro de Casa;8.9
+606;2015;Area Urbana-1;Localizacao Instalacao Sanitaria;Nao Possui Instalacao;2.5
+607;2016;Area Urbana-1;Localizacao Instalacao Sanitaria;Fora de Casa;68.9
+608;2016;Area Urbana-1;Localizacao Instalacao Sanitaria;Dentro de Casa;21.7
+609;2016;Area Urbana-1;Localizacao Instalacao Sanitaria;Nao Possui Instalacao;9.4
+610;2017;Area Urbana-1;Localizacao Instalacao Sanitaria;Fora de Casa;49.1
+611;2017;Area Urbana-1;Localizacao Instalacao Sanitaria;Dentro de Casa;40
+612;2017;Area Urbana-1;Localizacao Instalacao Sanitaria;Nao Possui Instalacao;11.8
+613;2018;Area Urbana-1;Localizacao Instalacao Sanitaria;Fora de Casa;45.5
+614;2018;Area Urbana-1;Localizacao Instalacao Sanitaria;Dentro de Casa;50
+615;2018;Area Urbana-1;Localizacao Instalacao Sanitaria;Nao Possui Instalacao;5.5
+616;2019;Area Urbana-1;Localizacao Instalacao Sanitaria;Fora de Casa;38.3
+617;2019;Area Urbana-1;Localizacao Instalacao Sanitaria;Dentro de Casa;45.8
+618;2019;Area Urbana-1;Localizacao Instalacao Sanitaria;Nao Possui Instalacao;17.5
+619;2020;Area Urbana-1;Localizacao Instalacao Sanitaria;Fora de Casa;32.8
+620;2020;Area Urbana-1;Localizacao Instalacao Sanitaria;Dentro de Casa;52.5
+621;2020;Area Urbana-1;Localizacao Instalacao Sanitaria;Nao Possui Instalacao;14.8
+622;2012;Area Urbana-2;Localizacao Instalacao Sanitaria;Fora de Casa;64.4
+623;2012;Area Urbana-2;Localizacao Instalacao Sanitaria;Dentro de Casa;33.3
+624;2012;Area Urbana-2;Localizacao Instalacao Sanitaria;Nao Possui Instalacao;2.2
+625;2013;Area Urbana-2;Localizacao Instalacao Sanitaria;Fora de Casa;62.9
+626;2013;Area Urbana-2;Localizacao Instalacao Sanitaria;Dentro de Casa;33.6
+627;2013;Area Urbana-2;Localizacao Instalacao Sanitaria;Nao Possui Instalacao;3.6
+628;2014;Area Urbana-2;Localizacao Instalacao Sanitaria;Fora de Casa;57
+629;2014;Area Urbana-2;Localizacao Instalacao Sanitaria;Dentro de Casa;42.3
+630;2014;Area Urbana-2;Localizacao Instalacao Sanitaria;Nao Possui Instalacao;0.7
+631;2015;Area Urbana-2;Localizacao Instalacao Sanitaria;Fora de Casa;65.8
+632;2015;Area Urbana-2;Localizacao Instalacao Sanitaria;Dentro de Casa;28.9
+633;2015;Area Urbana-2;Localizacao Instalacao Sanitaria;Nao Possui Instalacao;5.4
+634;2016;Area Urbana-2;Localizacao Instalacao Sanitaria;Fora de Casa;58.6
+635;2016;Area Urbana-2;Localizacao Instalacao Sanitaria;Dentro de Casa;38.6
+636;2016;Area Urbana-2;Localizacao Instalacao Sanitaria;Nao Possui Instalacao;4.3
+637;2017;Area Urbana-2;Localizacao Instalacao Sanitaria;Fora de Casa;31.5
+638;2017;Area Urbana-2;Localizacao Instalacao Sanitaria;Dentro de Casa;66.9
+639;2017;Area Urbana-2;Localizacao Instalacao Sanitaria;Nao Possui Instalacao;3.1
+640;2018;Area Urbana-2;Localizacao Instalacao Sanitaria;Fora de Casa;30.3
+641;2018;Area Urbana-2;Localizacao Instalacao Sanitaria;Dentro de Casa;70.5
+642;2018;Area Urbana-2;Localizacao Instalacao Sanitaria;Nao Possui Instalacao;1.5
+643;2019;Area Urbana-2;Localizacao Instalacao Sanitaria;Fora de Casa;31.1
+644;2019;Area Urbana-2;Localizacao Instalacao Sanitaria;Dentro de Casa;68.9
+645;2019;Area Urbana-2;Localizacao Instalacao Sanitaria;Nao Possui Instalacao;1.9
+646;2020;Area Urbana-2;Localizacao Instalacao Sanitaria;Fora de Casa;20
+647;2020;Area Urbana-2;Localizacao Instalacao Sanitaria;Dentro de Casa;67.3
+648;2020;Area Urbana-2;Localizacao Instalacao Sanitaria;Nao Possui Instalacao;16.4
+649;2012;Area Rural-1;Disposicao dos Efluentes Domesticos;Fossa Septica;5
+650;2012;Area Rural-1;Disposicao dos Efluentes Domesticos;Nao Tem Instalacao;75
+651;2012;Area Rural-1;Disposicao dos Efluentes Domesticos;Vala Negra;20
+652;2012;Area Rural-1;Disposicao dos Efluentes Domesticos;Rede Geral;0
+653;2012;Area Rural-1;Disposicao dos Efluentes Domesticos;Outros;0
+654;2013;Area Rural-1;Disposicao dos Efluentes Domesticos;Fossa Septica;6.5
+655;2013;Area Rural-1;Disposicao dos Efluentes Domesticos;Nao Tem Instalacao;68.8
+656;2013;Area Rural-1;Disposicao dos Efluentes Domesticos;Vala Negra;24.7
+657;2013;Area Rural-1;Disposicao dos Efluentes Domesticos;Rede Geral;0
+658;2013;Area Rural-1;Disposicao dos Efluentes Domesticos;Outros;0
+659;2014;Area Rural-1;Disposicao dos Efluentes Domesticos;Fossa Septica;0
+660;2014;Area Rural-1;Disposicao dos Efluentes Domesticos;Nao Tem Instalacao;45.5
+661;2014;Area Rural-1;Disposicao dos Efluentes Domesticos;Vala Negra;54.5
+662;2014;Area Rural-1;Disposicao dos Efluentes Domesticos;Rede Geral;0
+663;2014;Area Rural-1;Disposicao dos Efluentes Domesticos;Outros;0
+664;2015;Area Rural-1;Disposicao dos Efluentes Domesticos;Fossa Septica;0
+665;2015;Area Rural-1;Disposicao dos Efluentes Domesticos;Nao Tem Instalacao;26.2
+666;2015;Area Rural-1;Disposicao dos Efluentes Domesticos;Vala Negra;73.8
+667;2015;Area Rural-1;Disposicao dos Efluentes Domesticos;Rede Geral;0
+668;2015;Area Rural-1;Disposicao dos Efluentes Domesticos;Outros;0
+669;2016;Area Rural-1;Disposicao dos Efluentes Domesticos;Fossa Septica;6.2
+670;2016;Area Rural-1;Disposicao dos Efluentes Domesticos;Nao Tem Instalacao;33.8
+671;2016;Area Rural-1;Disposicao dos Efluentes Domesticos;Vala Negra;33.8
+672;2016;Area Rural-1;Disposicao dos Efluentes Domesticos;Rede Geral;1.2
+673;2016;Area Rural-1;Disposicao dos Efluentes Domesticos;Outros;25
+674;2017;Area Rural-1;Disposicao dos Efluentes Domesticos;Fossa Septica;29.6
+675;2017;Area Rural-1;Disposicao dos Efluentes Domesticos;Nao Tem Instalacao;64.8
+676;2017;Area Rural-1;Disposicao dos Efluentes Domesticos;Vala Negra;4.2
+677;2017;Area Rural-1;Disposicao dos Efluentes Domesticos;Rede Geral;0
+678;2017;Area Rural-1;Disposicao dos Efluentes Domesticos;Outros;1.4
+679;2018;Area Rural-1;Disposicao dos Efluentes Domesticos;Fossa Septica;11
+680;2018;Area Rural-1;Disposicao dos Efluentes Domesticos;Nao Tem Instalacao;64.6
+681;2018;Area Rural-1;Disposicao dos Efluentes Domesticos;Vala Negra;24.4
+682;2018;Area Rural-1;Disposicao dos Efluentes Domesticos;Rede Geral;0
+683;2018;Area Rural-1;Disposicao dos Efluentes Domesticos;Outros;0
+684;2019;Area Rural-1;Disposicao dos Efluentes Domesticos;Fossa Septica;24.7
+685;2019;Area Rural-1;Disposicao dos Efluentes Domesticos;Nao Tem Instalacao;58
+686;2019;Area Rural-1;Disposicao dos Efluentes Domesticos;Vala Negra;16
+687;2019;Area Rural-1;Disposicao dos Efluentes Domesticos;Rede Geral;0
+688;2019;Area Rural-1;Disposicao dos Efluentes Domesticos;Outros;1.2
+689;2020;Area Rural-1;Disposicao dos Efluentes Domesticos;Fossa Septica;43.2
+690;2020;Area Rural-1;Disposicao dos Efluentes Domesticos;Nao Tem Instalacao;10.8
+691;2020;Area Rural-1;Disposicao dos Efluentes Domesticos;Vala Negra;45.9
+692;2020;Area Rural-1;Disposicao dos Efluentes Domesticos;Rede Geral;0
+693;2020;Area Rural-1;Disposicao dos Efluentes Domesticos;Outros;0
+694;2012;Area Rural-2;Disposicao dos Efluentes Domesticos;Fossa Septica;0
+695;2012;Area Rural-2;Disposicao dos Efluentes Domesticos;Nao Tem Instalacao;95.7
+696;2012;Area Rural-2;Disposicao dos Efluentes Domesticos;Vala Negra;4.3
+697;2012;Area Rural-2;Disposicao dos Efluentes Domesticos;Rede Geral;0
+698;2012;Area Rural-2;Disposicao dos Efluentes Domesticos;Outros;0
+699;2013;Area Rural-2;Disposicao dos Efluentes Domesticos;Fossa Septica;0
+700;2013;Area Rural-2;Disposicao dos Efluentes Domesticos;Nao Tem Instalacao;71.6
+701;2013;Area Rural-2;Disposicao dos Efluentes Domesticos;Vala Negra;28.4
+702;2013;Area Rural-2;Disposicao dos Efluentes Domesticos;Rede Geral;0
+703;2013;Area Rural-2;Disposicao dos Efluentes Domesticos;Outros;0
+704;2014;Area Rural-2;Disposicao dos Efluentes Domesticos;Fossa Septica;0
+705;2014;Area Rural-2;Disposicao dos Efluentes Domesticos;Nao Tem Instalacao;43
+706;2014;Area Rural-2;Disposicao dos Efluentes Domesticos;Vala Negra;57
+707;2014;Area Rural-2;Disposicao dos Efluentes Domesticos;Rede Geral;0
+708;2014;Area Rural-2;Disposicao dos Efluentes Domesticos;Outros;0
+709;2015;Area Rural-2;Disposicao dos Efluentes Domesticos;Fossa Septica;0
+710;2015;Area Rural-2;Disposicao dos Efluentes Domesticos;Nao Tem Instalacao;21.8
+711;2015;Area Rural-2;Disposicao dos Efluentes Domesticos;Vala Negra;78.2
+712;2015;Area Rural-2;Disposicao dos Efluentes Domesticos;Rede Geral;0
+713;2015;Area Rural-2;Disposicao dos Efluentes Domesticos;Outros;0
+714;2016;Area Rural-2;Disposicao dos Efluentes Domesticos;Fossa Septica;6.4
+715;2016;Area Rural-2;Disposicao dos Efluentes Domesticos;Nao Tem Instalacao;35.9
+716;2016;Area Rural-2;Disposicao dos Efluentes Domesticos;Vala Negra;48.7
+717;2016;Area Rural-2;Disposicao dos Efluentes Domesticos;Rede Geral;0
+718;2016;Area Rural-2;Disposicao dos Efluentes Domesticos;Outros;9
+719;2017;Area Rural-2;Disposicao dos Efluentes Domesticos;Fossa Septica;9.8
+720;2017;Area Rural-2;Disposicao dos Efluentes Domesticos;Nao Tem Instalacao;76.1
+721;2017;Area Rural-2;Disposicao dos Efluentes Domesticos;Vala Negra;14.1
+722;2017;Area Rural-2;Disposicao dos Efluentes Domesticos;Rede Geral;0
+723;2017;Area Rural-2;Disposicao dos Efluentes Domesticos;Outros;0
+724;2018;Area Rural-2;Disposicao dos Efluentes Domesticos;Fossa Septica;4.8
+725;2018;Area Rural-2;Disposicao dos Efluentes Domesticos;Nao Tem Instalacao;75
+726;2018;Area Rural-2;Disposicao dos Efluentes Domesticos;Vala Negra;19
+727;2018;Area Rural-2;Disposicao dos Efluentes Domesticos;Rede Geral;1.2
+728;2018;Area Rural-2;Disposicao dos Efluentes Domesticos;Outros;0
+729;2019;Area Rural-2;Disposicao dos Efluentes Domesticos;Fossa Septica;20.2
+730;2019;Area Rural-2;Disposicao dos Efluentes Domesticos;Nao Tem Instalacao;43.8
+731;2019;Area Rural-2;Disposicao dos Efluentes Domesticos;Vala Negra;34.8
+732;2019;Area Rural-2;Disposicao dos Efluentes Domesticos;Rede Geral;0
+733;2019;Area Rural-2;Disposicao dos Efluentes Domesticos;Outros;1.1
+734;2020;Area Rural-2;Disposicao dos Efluentes Domesticos;Fossa Septica;24.5
+735;2020;Area Rural-2;Disposicao dos Efluentes Domesticos;Nao Tem Instalacao;40.8
+736;2020;Area Rural-2;Disposicao dos Efluentes Domesticos;Vala Negra;34.7
+737;2020;Area Rural-2;Disposicao dos Efluentes Domesticos;Rede Geral;0
+738;2020;Area Rural-2;Disposicao dos Efluentes Domesticos;Outros;0
+739;2012;Area Urbana-1;Disposicao dos Efluentes Domesticos;Fossa Septica;20.4
+740;2012;Area Urbana-1;Disposicao dos Efluentes Domesticos;Nao Tem Instalacao;59.3
+741;2012;Area Urbana-1;Disposicao dos Efluentes Domesticos;Vala Negra;20.4
+742;2012;Area Urbana-1;Disposicao dos Efluentes Domesticos;Rede Geral;0
+743;2012;Area Urbana-1;Disposicao dos Efluentes Domesticos;Outros;0
+744;2013;Area Urbana-1;Disposicao dos Efluentes Domesticos;Fossa Septica;16.8
+745;2013;Area Urbana-1;Disposicao dos Efluentes Domesticos;Nao Tem Instalacao;67.4
+746;2013;Area Urbana-1;Disposicao dos Efluentes Domesticos;Vala Negra;15.8
+747;2013;Area Urbana-1;Disposicao dos Efluentes Domesticos;Rede Geral;0
+748;2013;Area Urbana-1;Disposicao dos Efluentes Domesticos;Outros;0
+749;2014;Area Urbana-1;Disposicao dos Efluentes Domesticos;Fossa Septica;1.2
+750;2014;Area Urbana-1;Disposicao dos Efluentes Domesticos;Nao Tem Instalacao;44.2
+751;2014;Area Urbana-1;Disposicao dos Efluentes Domesticos;Vala Negra;54.7
+752;2014;Area Urbana-1;Disposicao dos Efluentes Domesticos;Rede Geral;0
+753;2014;Area Urbana-1;Disposicao dos Efluentes Domesticos;Outros;0
+754;2015;Area Urbana-1;Disposicao dos Efluentes Domesticos;Fossa Septica;0
+755;2015;Area Urbana-1;Disposicao dos Efluentes Domesticos;Nao Tem Instalacao;45.6
+756;2015;Area Urbana-1;Disposicao dos Efluentes Domesticos;Vala Negra;54.4
+757;2015;Area Urbana-1;Disposicao dos Efluentes Domesticos;Rede Geral;0
+758;2015;Area Urbana-1;Disposicao dos Efluentes Domesticos;Outros;0
+759;2016;Area Urbana-1;Disposicao dos Efluentes Domesticos;Fossa Septica;12.3
+760;2016;Area Urbana-1;Disposicao dos Efluentes Domesticos;Nao Tem Instalacao;45.3
+761;2016;Area Urbana-1;Disposicao dos Efluentes Domesticos;Vala Negra;35.8
+762;2016;Area Urbana-1;Disposicao dos Efluentes Domesticos;Rede Geral;1.9
+763;2016;Area Urbana-1;Disposicao dos Efluentes Domesticos;Outros;4.7
+764;2017;Area Urbana-1;Disposicao dos Efluentes Domesticos;Fossa Septica;21.8
+765;2017;Area Urbana-1;Disposicao dos Efluentes Domesticos;Nao Tem Instalacao;69.1
+766;2017;Area Urbana-1;Disposicao dos Efluentes Domesticos;Vala Negra;7.3
+767;2017;Area Urbana-1;Disposicao dos Efluentes Domesticos;Rede Geral;0
+768;2017;Area Urbana-1;Disposicao dos Efluentes Domesticos;Outros;1.8
+769;2018;Area Urbana-1;Disposicao dos Efluentes Domesticos;Fossa Septica;19.1
+770;2018;Area Urbana-1;Disposicao dos Efluentes Domesticos;Nao Tem Instalacao;56.4
+771;2018;Area Urbana-1;Disposicao dos Efluentes Domesticos;Vala Negra;23.6
+772;2018;Area Urbana-1;Disposicao dos Efluentes Domesticos;Rede Geral;0
+773;2018;Area Urbana-1;Disposicao dos Efluentes Domesticos;Outros;0.9
+774;2019;Area Urbana-1;Disposicao dos Efluentes Domesticos;Fossa Septica;30
+775;2019;Area Urbana-1;Disposicao dos Efluentes Domesticos;Nao Tem Instalacao;40
+776;2019;Area Urbana-1;Disposicao dos Efluentes Domesticos;Vala Negra;21.7
+777;2019;Area Urbana-1;Disposicao dos Efluentes Domesticos;Rede Geral;1.7
+778;2019;Area Urbana-1;Disposicao dos Efluentes Domesticos;Outros;6.7
+779;2020;Area Urbana-1;Disposicao dos Efluentes Domesticos;Fossa Septica;50.8
+780;2020;Area Urbana-1;Disposicao dos Efluentes Domesticos;Nao Tem Instalacao;14.8
+781;2020;Area Urbana-1;Disposicao dos Efluentes Domesticos;Vala Negra;32.8
+782;2020;Area Urbana-1;Disposicao dos Efluentes Domesticos;Rede Geral;0
+783;2020;Area Urbana-1;Disposicao dos Efluentes Domesticos;Outros;1.6
+784;2012;Area Urbana-2;Disposicao dos Efluentes Domesticos;Fossa Septica;31.1
+785;2012;Area Urbana-2;Disposicao dos Efluentes Domesticos;Nao Tem Instalacao;48.9
+786;2012;Area Urbana-2;Disposicao dos Efluentes Domesticos;Vala Negra;20
+787;2012;Area Urbana-2;Disposicao dos Efluentes Domesticos;Rede Geral;0
+788;2012;Area Urbana-2;Disposicao dos Efluentes Domesticos;Outros;0
+789;2013;Area Urbana-2;Disposicao dos Efluentes Domesticos;Fossa Septica;14.3
+790;2013;Area Urbana-2;Disposicao dos Efluentes Domesticos;Nao Tem Instalacao;65.7
+791;2013;Area Urbana-2;Disposicao dos Efluentes Domesticos;Vala Negra;20
+792;2013;Area Urbana-2;Disposicao dos Efluentes Domesticos;Rede Geral;0
+793;2013;Area Urbana-2;Disposicao dos Efluentes Domesticos;Outros;0
+794;2014;Area Urbana-2;Disposicao dos Efluentes Domesticos;Fossa Septica;0
+795;2014;Area Urbana-2;Disposicao dos Efluentes Domesticos;Nao Tem Instalacao;61.3
+796;2014;Area Urbana-2;Disposicao dos Efluentes Domesticos;Vala Negra;38.7
+797;2014;Area Urbana-2;Disposicao dos Efluentes Domesticos;Rede Geral;0
+798;2014;Area Urbana-2;Disposicao dos Efluentes Domesticos;Outros;0
+799;2015;Area Urbana-2;Disposicao dos Efluentes Domesticos;Fossa Septica;0
+800;2015;Area Urbana-2;Disposicao dos Efluentes Domesticos;Nao Tem Instalacao;65.8
+801;2015;Area Urbana-2;Disposicao dos Efluentes Domesticos;Vala Negra;34.2
+802;2015;Area Urbana-2;Disposicao dos Efluentes Domesticos;Rede Geral;0
+803;2015;Area Urbana-2;Disposicao dos Efluentes Domesticos;Outros;0
+804;2016;Area Urbana-2;Disposicao dos Efluentes Domesticos;Fossa Septica;30.7
+805;2016;Area Urbana-2;Disposicao dos Efluentes Domesticos;Nao Tem Instalacao;43.6
+806;2016;Area Urbana-2;Disposicao dos Efluentes Domesticos;Vala Negra;19.3
+807;2016;Area Urbana-2;Disposicao dos Efluentes Domesticos;Rede Geral;5
+808;2016;Area Urbana-2;Disposicao dos Efluentes Domesticos;Outros;1.4
+809;2017;Area Urbana-2;Disposicao dos Efluentes Domesticos;Fossa Septica;58.5
+810;2017;Area Urbana-2;Disposicao dos Efluentes Domesticos;Nao Tem Instalacao;29.2
+811;2017;Area Urbana-2;Disposicao dos Efluentes Domesticos;Vala Negra;10.8
+812;2017;Area Urbana-2;Disposicao dos Efluentes Domesticos;Rede Geral;1.5
+813;2017;Area Urbana-2;Disposicao dos Efluentes Domesticos;Outros;0
+814;2018;Area Urbana-2;Disposicao dos Efluentes Domesticos;Fossa Septica;62.9
+815;2018;Area Urbana-2;Disposicao dos Efluentes Domesticos;Nao Tem Instalacao;16.7
+816;2018;Area Urbana-2;Disposicao dos Efluentes Domesticos;Vala Negra;9.8
+817;2018;Area Urbana-2;Disposicao dos Efluentes Domesticos;Rede Geral;10.6
+818;2018;Area Urbana-2;Disposicao dos Efluentes Domesticos;Outros;0
+819;2019;Area Urbana-2;Disposicao dos Efluentes Domesticos;Fossa Septica;45.3
+820;2019;Area Urbana-2;Disposicao dos Efluentes Domesticos;Nao Tem Instalacao;28.3
+821;2019;Area Urbana-2;Disposicao dos Efluentes Domesticos;Vala Negra;13.2
+822;2019;Area Urbana-2;Disposicao dos Efluentes Domesticos;Rede Geral;10.4
+823;2019;Area Urbana-2;Disposicao dos Efluentes Domesticos;Outros;2.8
+824;2020;Area Urbana-2;Disposicao dos Efluentes Domesticos;Fossa Septica;70.9
+825;2020;Area Urbana-2;Disposicao dos Efluentes Domesticos;Nao Tem Instalacao;16.4
+826;2020;Area Urbana-2;Disposicao dos Efluentes Domesticos;Vala Negra;9.1
+827;2020;Area Urbana-2;Disposicao dos Efluentes Domesticos;Rede Geral;3.6
+828;2020;Area Urbana-2;Disposicao dos Efluentes Domesticos;Outros;0
+829;2012;Area Rural-1;Tipo de Energia;Rede Geral;0
+830;2012;Area Rural-1;Tipo de Energia;Gerador Motor;65
+831;2012;Area Rural-1;Tipo de Energia;Nao Possui Energia;35
+832;2012;Area Rural-1;Tipo de Energia;Placa Solar;0
+833;2013;Area Rural-1;Tipo de Energia;Rede Geral;3.2
+834;2013;Area Rural-1;Tipo de Energia;Gerador Motor;55.9
+835;2013;Area Rural-1;Tipo de Energia;Nao Possui Energia;40.9
+836;2013;Area Rural-1;Tipo de Energia;Placa Solar;0
+837;2014;Area Rural-1;Tipo de Energia;Rede Geral;14.8
+838;2014;Area Rural-1;Tipo de Energia;Gerador Motor;50
+839;2014;Area Rural-1;Tipo de Energia;Nao Possui Energia;34.1
+840;2014;Area Rural-1;Tipo de Energia;Placa Solar;1.1
+841;2015;Area Rural-1;Tipo de Energia;Rede Geral;16.2
+842;2015;Area Rural-1;Tipo de Energia;Gerador Motor;45
+843;2015;Area Rural-1;Tipo de Energia;Nao Possui Energia;37.5
+844;2015;Area Rural-1;Tipo de Energia;Placa Solar;1.2
+845;2016;Area Rural-1;Tipo de Energia;Rede Geral;31.2
+846;2016;Area Rural-1;Tipo de Energia;Gerador Motor;36.2
+847;2016;Area Rural-1;Tipo de Energia;Nao Possui Energia;31.2
+848;2016;Area Rural-1;Tipo de Energia;Placa Solar;5
+849;2017;Area Rural-1;Tipo de Energia;Rede Geral;54.9
+850;2017;Area Rural-1;Tipo de Energia;Gerador Motor;18.3
+851;2017;Area Rural-1;Tipo de Energia;Nao Possui Energia;21.1
+852;2017;Area Rural-1;Tipo de Energia;Placa Solar;7
+853;2018;Area Rural-1;Tipo de Energia;Rede Geral;56.1
+854;2018;Area Rural-1;Tipo de Energia;Gerador Motor;20.7
+855;2018;Area Rural-1;Tipo de Energia;Nao Possui Energia;22
+856;2018;Area Rural-1;Tipo de Energia;Placa Solar;4.9
+857;2019;Area Rural-1;Tipo de Energia;Rede Geral;63
+858;2019;Area Rural-1;Tipo de Energia;Gerador Motor;21
+859;2019;Area Rural-1;Tipo de Energia;Nao Possui Energia;8.6
+860;2019;Area Rural-1;Tipo de Energia;Placa Solar;7.4
+861;2020;Area Rural-1;Tipo de Energia;Rede Geral;73
+862;2020;Area Rural-1;Tipo de Energia;Gerador Motor;13.5
+863;2020;Area Rural-1;Tipo de Energia;Nao Possui Energia;10.8
+864;2020;Area Rural-1;Tipo de Energia;Placa Solar;5.4
+865;2012;Area Rural-2;Tipo de Energia;Rede Geral;0
+866;2012;Area Rural-2;Tipo de Energia;Gerador Motor;26.1
+867;2012;Area Rural-2;Tipo de Energia;Nao Possui Energia;65.2
+868;2012;Area Rural-2;Tipo de Energia;Placa Solar;8.7
+869;2013;Area Rural-2;Tipo de Energia;Rede Geral;5.4
+870;2013;Area Rural-2;Tipo de Energia;Gerador Motor;32.4
+871;2013;Area Rural-2;Tipo de Energia;Nao Possui Energia;60.8
+872;2013;Area Rural-2;Tipo de Energia;Placa Solar;1.4
+873;2014;Area Rural-2;Tipo de Energia;Rede Geral;11.6
+874;2014;Area Rural-2;Tipo de Energia;Gerador Motor;32.6
+875;2014;Area Rural-2;Tipo de Energia;Nao Possui Energia;45.3
+876;2014;Area Rural-2;Tipo de Energia;Placa Solar;10.5
+877;2015;Area Rural-2;Tipo de Energia;Rede Geral;4.6
+878;2015;Area Rural-2;Tipo de Energia;Gerador Motor;29.9
+879;2015;Area Rural-2;Tipo de Energia;Nao Possui Energia;46
+880;2015;Area Rural-2;Tipo de Energia;Placa Solar;19.5
+881;2016;Area Rural-2;Tipo de Energia;Rede Geral;42.3
+882;2016;Area Rural-2;Tipo de Energia;Gerador Motor;24.4
+883;2016;Area Rural-2;Tipo de Energia;Nao Possui Energia;23.1
+884;2016;Area Rural-2;Tipo de Energia;Placa Solar;11.5
+885;2017;Area Rural-2;Tipo de Energia;Rede Geral;63
+886;2017;Area Rural-2;Tipo de Energia;Gerador Motor;12
+887;2017;Area Rural-2;Tipo de Energia;Nao Possui Energia;14.1
+888;2017;Area Rural-2;Tipo de Energia;Placa Solar;13
+889;2018;Area Rural-2;Tipo de Energia;Rede Geral;66.7
+890;2018;Area Rural-2;Tipo de Energia;Gerador Motor;9.5
+891;2018;Area Rural-2;Tipo de Energia;Nao Possui Energia;16.7
+892;2018;Area Rural-2;Tipo de Energia;Placa Solar;8.3
+893;2019;Area Rural-2;Tipo de Energia;Rede Geral;57.3
+894;2019;Area Rural-2;Tipo de Energia;Gerador Motor;14.6
+895;2019;Area Rural-2;Tipo de Energia;Nao Possui Energia;21.3
+896;2019;Area Rural-2;Tipo de Energia;Placa Solar;7.9
+897;2020;Area Rural-2;Tipo de Energia;Rede Geral;69.4
+898;2020;Area Rural-2;Tipo de Energia;Gerador Motor;18.4
+899;2020;Area Rural-2;Tipo de Energia;Nao Possui Energia;10.2
+900;2020;Area Rural-2;Tipo de Energia;Placa Solar;8.2
+901;2012;Area Urbana-1;Tipo de Energia;Rede Geral;0
+902;2012;Area Urbana-1;Tipo de Energia;Gerador Motor;87
+903;2012;Area Urbana-1;Tipo de Energia;Nao Possui Energia;13
+904;2012;Area Urbana-1;Tipo de Energia;Placa Solar;0
+905;2013;Area Urbana-1;Tipo de Energia;Rede Geral;0
+906;2013;Area Urbana-1;Tipo de Energia;Gerador Motor;89.5
+907;2013;Area Urbana-1;Tipo de Energia;Nao Possui Energia;10.5
+908;2013;Area Urbana-1;Tipo de Energia;Placa Solar;0
+909;2014;Area Urbana-1;Tipo de Energia;Rede Geral;59.3
+910;2014;Area Urbana-1;Tipo de Energia;Gerador Motor;38.4
+911;2014;Area Urbana-1;Tipo de Energia;Nao Possui Energia;2.3
+912;2014;Area Urbana-1;Tipo de Energia;Placa Solar;0
+913;2015;Area Urbana-1;Tipo de Energia;Rede Geral;64.6
+914;2015;Area Urbana-1;Tipo de Energia;Gerador Motor;34.2
+915;2015;Area Urbana-1;Tipo de Energia;Nao Possui Energia;1.3
+916;2015;Area Urbana-1;Tipo de Energia;Placa Solar;0
+917;2016;Area Urbana-1;Tipo de Energia;Rede Geral;67
+918;2016;Area Urbana-1;Tipo de Energia;Gerador Motor;28.3
+919;2016;Area Urbana-1;Tipo de Energia;Nao Possui Energia;4.7
+920;2016;Area Urbana-1;Tipo de Energia;Placa Solar;0
+921;2017;Area Urbana-1;Tipo de Energia;Rede Geral;83.6
+922;2017;Area Urbana-1;Tipo de Energia;Gerador Motor;13.6
+923;2017;Area Urbana-1;Tipo de Energia;Nao Possui Energia;2.7
+924;2017;Area Urbana-1;Tipo de Energia;Placa Solar;0
+925;2018;Area Urbana-1;Tipo de Energia;Rede Geral;98.2
+926;2018;Area Urbana-1;Tipo de Energia;Gerador Motor;0
+927;2018;Area Urbana-1;Tipo de Energia;Nao Possui Energia;1.8
+928;2018;Area Urbana-1;Tipo de Energia;Placa Solar;0
+929;2019;Area Urbana-1;Tipo de Energia;Rede Geral;100
+930;2019;Area Urbana-1;Tipo de Energia;Gerador Motor;0
+931;2019;Area Urbana-1;Tipo de Energia;Nao Possui Energia;0
+932;2019;Area Urbana-1;Tipo de Energia;Placa Solar;0.8
+933;2020;Area Urbana-1;Tipo de Energia;Rede Geral;100
+934;2020;Area Urbana-1;Tipo de Energia;Gerador Motor;1.6
+935;2020;Area Urbana-1;Tipo de Energia;Nao Possui Energia;0
+936;2020;Area Urbana-1;Tipo de Energia;Placa Solar;0
+937;2012;Area Urbana-2;Tipo de Energia;Rede Geral;97.8
+938;2012;Area Urbana-2;Tipo de Energia;Gerador Motor;0
+939;2012;Area Urbana-2;Tipo de Energia;Nao Possui Energia;2.2
+940;2012;Area Urbana-2;Tipo de Energia;Placa Solar;0
+941;2013;Area Urbana-2;Tipo de Energia;Rede Geral;99.3
+942;2013;Area Urbana-2;Tipo de Energia;Gerador Motor;0.7
+943;2013;Area Urbana-2;Tipo de Energia;Nao Possui Energia;0
+944;2013;Area Urbana-2;Tipo de Energia;Placa Solar;0
+945;2014;Area Urbana-2;Tipo de Energia;Rede Geral;100
+946;2014;Area Urbana-2;Tipo de Energia;Gerador Motor;0
+947;2014;Area Urbana-2;Tipo de Energia;Nao Possui Energia;0
+948;2014;Area Urbana-2;Tipo de Energia;Placa Solar;0
+949;2015;Area Urbana-2;Tipo de Energia;Rede Geral;99.3
+950;2015;Area Urbana-2;Tipo de Energia;Gerador Motor;0
+951;2015;Area Urbana-2;Tipo de Energia;Nao Possui Energia;0.7
+952;2015;Area Urbana-2;Tipo de Energia;Placa Solar;0
+953;2016;Area Urbana-2;Tipo de Energia;Rede Geral;99.3
+954;2016;Area Urbana-2;Tipo de Energia;Gerador Motor;0
+955;2016;Area Urbana-2;Tipo de Energia;Nao Possui Energia;0.7
+956;2016;Area Urbana-2;Tipo de Energia;Placa Solar;0
+957;2017;Area Urbana-2;Tipo de Energia;Rede Geral;96.9
+958;2017;Area Urbana-2;Tipo de Energia;Gerador Motor;3.1
+959;2017;Area Urbana-2;Tipo de Energia;Nao Possui Energia;0
+960;2017;Area Urbana-2;Tipo de Energia;Placa Solar;0
+961;2018;Area Urbana-2;Tipo de Energia;Rede Geral;100
+962;2018;Area Urbana-2;Tipo de Energia;Gerador Motor;0
+963;2018;Area Urbana-2;Tipo de Energia;Nao Possui Energia;0
+964;2018;Area Urbana-2;Tipo de Energia;Placa Solar;0
+965;2019;Area Urbana-2;Tipo de Energia;Rede Geral;91.5
+966;2019;Area Urbana-2;Tipo de Energia;Gerador Motor;0.9
+967;2019;Area Urbana-2;Tipo de Energia;Nao Possui Energia;1.9
+968;2019;Area Urbana-2;Tipo de Energia;Placa Solar;5.7
+969;2020;Area Urbana-2;Tipo de Energia;Rede Geral;74.5
+970;2020;Area Urbana-2;Tipo de Energia;Gerador Motor;1.8
+971;2020;Area Urbana-2;Tipo de Energia;Nao Possui Energia;5.5
+972;2020;Area Urbana-2;Tipo de Energia;Placa Solar;18.2
+973;2012;Area Rural-1;Tipo de Acesso;Terrestre;15
+974;2012;Area Rural-1;Tipo de Acesso;Fluvial;95
+975;2012;Area Rural-1;Tipo de Acesso;Nao Informado;0
+976;2013;Area Rural-1;Tipo de Acesso;Terrestre;29
+977;2013;Area Rural-1;Tipo de Acesso;Fluvial;95.7
+978;2013;Area Rural-1;Tipo de Acesso;Nao Informado;0
+979;2014;Area Rural-1;Tipo de Acesso;Terrestre;31.8
+980;2014;Area Rural-1;Tipo de Acesso;Fluvial;98.9
+981;2014;Area Rural-1;Tipo de Acesso;Nao Informado;0
+982;2015;Area Rural-1;Tipo de Acesso;Terrestre;22.5
+983;2015;Area Rural-1;Tipo de Acesso;Fluvial;98.8
+984;2015;Area Rural-1;Tipo de Acesso;Nao Informado;0
+985;2016;Area Rural-1;Tipo de Acesso;Terrestre;43.8
+986;2016;Area Rural-1;Tipo de Acesso;Fluvial;95
+987;2016;Area Rural-1;Tipo de Acesso;Nao Informado;0
+988;2017;Area Rural-1;Tipo de Acesso;Terrestre;57.7
+989;2017;Area Rural-1;Tipo de Acesso;Fluvial;98.6
+990;2017;Area Rural-1;Tipo de Acesso;Nao Informado;0
+991;2018;Area Rural-1;Tipo de Acesso;Terrestre;50
+992;2018;Area Rural-1;Tipo de Acesso;Fluvial;97.6
+993;2018;Area Rural-1;Tipo de Acesso;Nao Informado;0
+994;2019;Area Rural-1;Tipo de Acesso;Terrestre;70.4
+995;2019;Area Rural-1;Tipo de Acesso;Fluvial;97.5
+996;2019;Area Rural-1;Tipo de Acesso;Nao Informado;0
+997;2020;Area Rural-1;Tipo de Acesso;Terrestre;59.5
+998;2020;Area Rural-1;Tipo de Acesso;Fluvial;81.1
+999;2020;Area Rural-1;Tipo de Acesso;Nao Informado;0
+1000;2012;Area Rural-2;Tipo de Acesso;Terrestre;69.6
+1001;2012;Area Rural-2;Tipo de Acesso;Fluvial;78.3
+1002;2012;Area Rural-2;Tipo de Acesso;Nao Informado;0
+1003;2013;Area Rural-2;Tipo de Acesso;Terrestre;44.6
+1004;2013;Area Rural-2;Tipo de Acesso;Fluvial;77
+1005;2013;Area Rural-2;Tipo de Acesso;Nao Informado;0
+1006;2014;Area Rural-2;Tipo de Acesso;Terrestre;64
+1007;2014;Area Rural-2;Tipo de Acesso;Fluvial;80.2
+1008;2014;Area Rural-2;Tipo de Acesso;Nao Informado;0
+1009;2015;Area Rural-2;Tipo de Acesso;Terrestre;52.9
+1010;2015;Area Rural-2;Tipo de Acesso;Fluvial;73.6
+1011;2015;Area Rural-2;Tipo de Acesso;Nao Informado;0
+1012;2016;Area Rural-2;Tipo de Acesso;Terrestre;71.8
+1013;2016;Area Rural-2;Tipo de Acesso;Fluvial;57.7
+1014;2016;Area Rural-2;Tipo de Acesso;Nao Informado;0
+1015;2017;Area Rural-2;Tipo de Acesso;Terrestre;79.3
+1016;2017;Area Rural-2;Tipo de Acesso;Fluvial;58.7
+1017;2017;Area Rural-2;Tipo de Acesso;Nao Informado;0
+1018;2018;Area Rural-2;Tipo de Acesso;Terrestre;92.9
+1019;2018;Area Rural-2;Tipo de Acesso;Fluvial;64.3
+1020;2018;Area Rural-2;Tipo de Acesso;Nao Informado;0
+1021;2019;Area Rural-2;Tipo de Acesso;Terrestre;88.8
+1022;2019;Area Rural-2;Tipo de Acesso;Fluvial;75.3
+1023;2019;Area Rural-2;Tipo de Acesso;Nao Informado;0
+1024;2020;Area Rural-2;Tipo de Acesso;Terrestre;85.7
+1025;2020;Area Rural-2;Tipo de Acesso;Fluvial;44.9
+1026;2020;Area Rural-2;Tipo de Acesso;Nao Informado;0
+1027;2012;Area Urbana-1;Tipo de Acesso;Terrestre;22.2
+1028;2012;Area Urbana-1;Tipo de Acesso;Fluvial;94.4
+1029;2012;Area Urbana-1;Tipo de Acesso;Nao Informado;0
+1030;2013;Area Urbana-1;Tipo de Acesso;Terrestre;48.4
+1031;2013;Area Urbana-1;Tipo de Acesso;Fluvial;98.9
+1032;2013;Area Urbana-1;Tipo de Acesso;Nao Informado;0
+1033;2014;Area Urbana-1;Tipo de Acesso;Terrestre;33.7
+1034;2014;Area Urbana-1;Tipo de Acesso;Fluvial;95.3
+1035;2014;Area Urbana-1;Tipo de Acesso;Nao Informado;0
+1036;2015;Area Urbana-1;Tipo de Acesso;Terrestre;15.2
+1037;2015;Area Urbana-1;Tipo de Acesso;Fluvial;96.2
+1038;2015;Area Urbana-1;Tipo de Acesso;Nao Informado;0
+1039;2016;Area Urbana-1;Tipo de Acesso;Terrestre;37.7
+1040;2016;Area Urbana-1;Tipo de Acesso;Fluvial;93.4
+1041;2016;Area Urbana-1;Tipo de Acesso;Nao Informado;0
+1042;2017;Area Urbana-1;Tipo de Acesso;Terrestre;57.3
+1043;2017;Area Urbana-1;Tipo de Acesso;Fluvial;98.2
+1044;2017;Area Urbana-1;Tipo de Acesso;Nao Informado;0
+1045;2018;Area Urbana-1;Tipo de Acesso;Terrestre;36.4
+1046;2018;Area Urbana-1;Tipo de Acesso;Fluvial;96.4
+1047;2018;Area Urbana-1;Tipo de Acesso;Nao Informado;0
+1048;2019;Area Urbana-1;Tipo de Acesso;Terrestre;50
+1049;2019;Area Urbana-1;Tipo de Acesso;Fluvial;100
+1050;2019;Area Urbana-1;Tipo de Acesso;Nao Informado;0
+1051;2020;Area Urbana-1;Tipo de Acesso;Terrestre;54.1
+1052;2020;Area Urbana-1;Tipo de Acesso;Fluvial;98.4
+1053;2020;Area Urbana-1;Tipo de Acesso;Nao Informado;0
+1054;2012;Area Urbana-2;Tipo de Acesso;Terrestre;93.3
+1055;2012;Area Urbana-2;Tipo de Acesso;Fluvial;20
+1056;2012;Area Urbana-2;Tipo de Acesso;Nao Informado;0
+1057;2013;Area Urbana-2;Tipo de Acesso;Terrestre;100
+1058;2013;Area Urbana-2;Tipo de Acesso;Fluvial;20.7
+1059;2013;Area Urbana-2;Tipo de Acesso;Nao Informado;0
+1060;2014;Area Urbana-2;Tipo de Acesso;Terrestre;100
+1061;2014;Area Urbana-2;Tipo de Acesso;Fluvial;0.7
+1062;2014;Area Urbana-2;Tipo de Acesso;Nao Informado;0
+1063;2015;Area Urbana-2;Tipo de Acesso;Terrestre;96.6
+1064;2015;Area Urbana-2;Tipo de Acesso;Fluvial;8.7
+1065;2015;Area Urbana-2;Tipo de Acesso;Nao Informado;0
+1066;2016;Area Urbana-2;Tipo de Acesso;Terrestre;100
+1067;2016;Area Urbana-2;Tipo de Acesso;Fluvial;13.6
+1068;2016;Area Urbana-2;Tipo de Acesso;Nao Informado;0
+1069;2017;Area Urbana-2;Tipo de Acesso;Terrestre;99.2
+1070;2017;Area Urbana-2;Tipo de Acesso;Fluvial;37.7
+1071;2017;Area Urbana-2;Tipo de Acesso;Nao Informado;0
+1072;2018;Area Urbana-2;Tipo de Acesso;Terrestre;100
+1073;2018;Area Urbana-2;Tipo de Acesso;Fluvial;37.9
+1074;2018;Area Urbana-2;Tipo de Acesso;Nao Informado;0
+1075;2019;Area Urbana-2;Tipo de Acesso;Terrestre;94.3
+1076;2019;Area Urbana-2;Tipo de Acesso;Fluvial;53.8
+1077;2019;Area Urbana-2;Tipo de Acesso;Nao Informado;0
+1078;2020;Area Urbana-2;Tipo de Acesso;Terrestre;76.4
+1079;2020;Area Urbana-2;Tipo de Acesso;Fluvial;38.2
+1080;2020;Area Urbana-2;Tipo de Acesso;Nao Informado;0
+1081;2012;Area Rural-1;Producao Agropecuaria;Tem Producao Agropecuaria;70
+1082;2013;Area Rural-1;Producao Agropecuaria;Tem Producao Agropecuaria;64.5
+1083;2014;Area Rural-1;Producao Agropecuaria;Tem Producao Agropecuaria;69.3
+1084;2015;Area Rural-1;Producao Agropecuaria;Tem Producao Agropecuaria;62.5
+1085;2016;Area Rural-1;Producao Agropecuaria;Tem Producao Agropecuaria;88.8
+1086;2017;Area Rural-1;Producao Agropecuaria;Tem Producao Agropecuaria;81.7
+1087;2018;Area Rural-1;Producao Agropecuaria;Tem Producao Agropecuaria;76.8
+1088;2019;Area Rural-1;Producao Agropecuaria;Tem Producao Agropecuaria;72.8
+1089;2020;Area Rural-1;Producao Agropecuaria;Tem Producao Agropecuaria;78.4
+1090;2012;Area Rural-2;Producao Agropecuaria;Tem Producao Agropecuaria;91.3
+1091;2013;Area Rural-2;Producao Agropecuaria;Tem Producao Agropecuaria;81.1
+1092;2014;Area Rural-2;Producao Agropecuaria;Tem Producao Agropecuaria;81.4
+1093;2015;Area Rural-2;Producao Agropecuaria;Tem Producao Agropecuaria;77
+1094;2016;Area Rural-2;Producao Agropecuaria;Tem Producao Agropecuaria;88.5
+1095;2017;Area Rural-2;Producao Agropecuaria;Tem Producao Agropecuaria;89.1
+1096;2018;Area Rural-2;Producao Agropecuaria;Tem Producao Agropecuaria;86.9
+1097;2019;Area Rural-2;Producao Agropecuaria;Tem Producao Agropecuaria;95.5
+1098;2020;Area Rural-2;Producao Agropecuaria;Tem Producao Agropecuaria;81.6
+1099;2012;Area Urbana-1;Producao Agropecuaria;Tem Producao Agropecuaria;25.9
+1100;2013;Area Urbana-1;Producao Agropecuaria;Tem Producao Agropecuaria;14.7
+1101;2014;Area Urbana-1;Producao Agropecuaria;Tem Producao Agropecuaria;5.8
+1102;2015;Area Urbana-1;Producao Agropecuaria;Tem Producao Agropecuaria;2.5
+1103;2016;Area Urbana-1;Producao Agropecuaria;Tem Producao Agropecuaria;37.7
+1104;2017;Area Urbana-1;Producao Agropecuaria;Tem Producao Agropecuaria;54.5
+1105;2018;Area Urbana-1;Producao Agropecuaria;Tem Producao Agropecuaria;30
+1106;2019;Area Urbana-1;Producao Agropecuaria;Tem Producao Agropecuaria;45
+1107;2020;Area Urbana-1;Producao Agropecuaria;Tem Producao Agropecuaria;41
+1108;2012;Area Urbana-2;Producao Agropecuaria;Tem Producao Agropecuaria;28.9
+1109;2013;Area Urbana-2;Producao Agropecuaria;Tem Producao Agropecuaria;2.1
+1110;2014;Area Urbana-2;Producao Agropecuaria;Tem Producao Agropecuaria;1.4
+1111;2015;Area Urbana-2;Producao Agropecuaria;Tem Producao Agropecuaria;0
+1112;2016;Area Urbana-2;Producao Agropecuaria;Tem Producao Agropecuaria;19.3
+1113;2017;Area Urbana-2;Producao Agropecuaria;Tem Producao Agropecuaria;34.6
+1114;2018;Area Urbana-2;Producao Agropecuaria;Tem Producao Agropecuaria;4.5
+1115;2019;Area Urbana-2;Producao Agropecuaria;Tem Producao Agropecuaria;22.6
+1116;2020;Area Urbana-2;Producao Agropecuaria;Tem Producao Agropecuaria;27.3

@@ -1,0 +1,1409 @@
+﻿ID;Campanha;Extrato_Campanha;Variavel_Campanha;Niveis_Campanha;Percentual_Campanha
+1;Seca 2012;Area Rural-1;Formas do Abastecimento de Agua;Poco;65
+2;Seca 2012;Area Rural-1;Formas do Abastecimento de Agua;Rio;20
+3;Seca 2012;Area Rural-1;Formas do Abastecimento de Agua;Nascente;10
+4;Seca 2012;Area Rural-1;Formas do Abastecimento de Agua;Rede Geral;0
+5;Seca 2012;Area Rural-1;Formas do Abastecimento de Agua;Igarape;5
+6;Seca 2012;Area Rural-1;Formas do Abastecimento de Agua;Outros;0
+7;Cheia 2013;Area Rural-1;Formas do Abastecimento de Agua;Poco;64.7
+8;Cheia 2013;Area Rural-1;Formas do Abastecimento de Agua;Rio;23.5
+9;Cheia 2013;Area Rural-1;Formas do Abastecimento de Agua;Nascente;11.8
+10;Cheia 2013;Area Rural-1;Formas do Abastecimento de Agua;Rede Geral;0
+11;Cheia 2013;Area Rural-1;Formas do Abastecimento de Agua;Igarape;0
+12;Cheia 2013;Area Rural-1;Formas do Abastecimento de Agua;Outros;0
+13;Seca 2013;Area Rural-1;Formas do Abastecimento de Agua;Poco;45.2
+14;Seca 2013;Area Rural-1;Formas do Abastecimento de Agua;Rio;28.6
+15;Seca 2013;Area Rural-1;Formas do Abastecimento de Agua;Nascente;4.8
+16;Seca 2013;Area Rural-1;Formas do Abastecimento de Agua;Rede Geral;4.8
+17;Seca 2013;Area Rural-1;Formas do Abastecimento de Agua;Igarape;16.7
+18;Seca 2013;Area Rural-1;Formas do Abastecimento de Agua;Outros;0
+19;Cheia 2014;Area Rural-1;Formas do Abastecimento de Agua;Poco;61.2
+20;Cheia 2014;Area Rural-1;Formas do Abastecimento de Agua;Rio;22.4
+21;Cheia 2014;Area Rural-1;Formas do Abastecimento de Agua;Nascente;2
+22;Cheia 2014;Area Rural-1;Formas do Abastecimento de Agua;Rede Geral;0
+23;Cheia 2014;Area Rural-1;Formas do Abastecimento de Agua;Igarape;14.3
+24;Cheia 2014;Area Rural-1;Formas do Abastecimento de Agua;Outros;0
+25;Seca 2014;Area Rural-1;Formas do Abastecimento de Agua;Poco;59
+26;Seca 2014;Area Rural-1;Formas do Abastecimento de Agua;Rio;25.6
+27;Seca 2014;Area Rural-1;Formas do Abastecimento de Agua;Nascente;5.1
+28;Seca 2014;Area Rural-1;Formas do Abastecimento de Agua;Rede Geral;2.6
+29;Seca 2014;Area Rural-1;Formas do Abastecimento de Agua;Igarape;7.7
+30;Seca 2014;Area Rural-1;Formas do Abastecimento de Agua;Outros;0
+31;Cheia 2015;Area Rural-1;Formas do Abastecimento de Agua;Poco;73.8
+32;Cheia 2015;Area Rural-1;Formas do Abastecimento de Agua;Rio;19
+33;Cheia 2015;Area Rural-1;Formas do Abastecimento de Agua;Nascente;4.8
+34;Cheia 2015;Area Rural-1;Formas do Abastecimento de Agua;Rede Geral;2.4
+35;Cheia 2015;Area Rural-1;Formas do Abastecimento de Agua;Igarape;0
+36;Cheia 2015;Area Rural-1;Formas do Abastecimento de Agua;Outros;0
+37;Seca 2015;Area Rural-1;Formas do Abastecimento de Agua;Poco;55.3
+38;Seca 2015;Area Rural-1;Formas do Abastecimento de Agua;Rio;34.2
+39;Seca 2015;Area Rural-1;Formas do Abastecimento de Agua;Nascente;7.9
+40;Seca 2015;Area Rural-1;Formas do Abastecimento de Agua;Rede Geral;0
+41;Seca 2015;Area Rural-1;Formas do Abastecimento de Agua;Igarape;2.6
+42;Seca 2015;Area Rural-1;Formas do Abastecimento de Agua;Outros;0
+43;Cheia 2016;Area Rural-1;Formas do Abastecimento de Agua;Poco;34.3
+44;Cheia 2016;Area Rural-1;Formas do Abastecimento de Agua;Rio;48.6
+45;Cheia 2016;Area Rural-1;Formas do Abastecimento de Agua;Nascente;17.1
+46;Cheia 2016;Area Rural-1;Formas do Abastecimento de Agua;Rede Geral;0
+47;Cheia 2016;Area Rural-1;Formas do Abastecimento de Agua;Igarape;0
+48;Cheia 2016;Area Rural-1;Formas do Abastecimento de Agua;Outros;0
+49;Seca 2016;Area Rural-1;Formas do Abastecimento de Agua;Poco;46.7
+50;Seca 2016;Area Rural-1;Formas do Abastecimento de Agua;Rio;6.7
+51;Seca 2016;Area Rural-1;Formas do Abastecimento de Agua;Nascente;22.2
+52;Seca 2016;Area Rural-1;Formas do Abastecimento de Agua;Rede Geral;0
+53;Seca 2016;Area Rural-1;Formas do Abastecimento de Agua;Igarape;2.2
+54;Seca 2016;Area Rural-1;Formas do Abastecimento de Agua;Outros;0
+55;Cheia 2017;Area Rural-1;Formas do Abastecimento de Agua;Poco;58.3
+56;Cheia 2017;Area Rural-1;Formas do Abastecimento de Agua;Rio;0
+57;Cheia 2017;Area Rural-1;Formas do Abastecimento de Agua;Nascente;5.6
+58;Cheia 2017;Area Rural-1;Formas do Abastecimento de Agua;Rede Geral;0
+59;Cheia 2017;Area Rural-1;Formas do Abastecimento de Agua;Igarape;8.3
+60;Cheia 2017;Area Rural-1;Formas do Abastecimento de Agua;Outros;0
+61;Seca 2017;Area Rural-1;Formas do Abastecimento de Agua;Poco;51.4
+62;Seca 2017;Area Rural-1;Formas do Abastecimento de Agua;Rio;2.9
+63;Seca 2017;Area Rural-1;Formas do Abastecimento de Agua;Nascente;11.4
+64;Seca 2017;Area Rural-1;Formas do Abastecimento de Agua;Rede Geral;0
+65;Seca 2017;Area Rural-1;Formas do Abastecimento de Agua;Igarape;2.9
+66;Seca 2017;Area Rural-1;Formas do Abastecimento de Agua;Outros;0
+67;Cheia 2018;Area Rural-1;Formas do Abastecimento de Agua;Poco;57.9
+68;Cheia 2018;Area Rural-1;Formas do Abastecimento de Agua;Rio;0
+69;Cheia 2018;Area Rural-1;Formas do Abastecimento de Agua;Nascente;7.9
+70;Cheia 2018;Area Rural-1;Formas do Abastecimento de Agua;Rede Geral;0
+71;Cheia 2018;Area Rural-1;Formas do Abastecimento de Agua;Igarape;2.6
+72;Cheia 2018;Area Rural-1;Formas do Abastecimento de Agua;Outros;0
+73;Seca 2018;Area Rural-1;Formas do Abastecimento de Agua;Poco;54.5
+74;Seca 2018;Area Rural-1;Formas do Abastecimento de Agua;Rio;0
+75;Seca 2018;Area Rural-1;Formas do Abastecimento de Agua;Nascente;15.9
+76;Seca 2018;Area Rural-1;Formas do Abastecimento de Agua;Rede Geral;0
+77;Seca 2018;Area Rural-1;Formas do Abastecimento de Agua;Igarape;4.5
+78;Seca 2018;Area Rural-1;Formas do Abastecimento de Agua;Outros;0
+79;Cheia 2019;Area Rural-1;Formas do Abastecimento de Agua;Poco;68.6
+80;Cheia 2019;Area Rural-1;Formas do Abastecimento de Agua;Rio;0
+81;Cheia 2019;Area Rural-1;Formas do Abastecimento de Agua;Nascente;2.9
+82;Cheia 2019;Area Rural-1;Formas do Abastecimento de Agua;Rede Geral;0
+83;Cheia 2019;Area Rural-1;Formas do Abastecimento de Agua;Igarape;2.9
+84;Cheia 2019;Area Rural-1;Formas do Abastecimento de Agua;Outros;0
+85;Seca 2019;Area Rural-1;Formas do Abastecimento de Agua;Poco;71.7
+86;Seca 2019;Area Rural-1;Formas do Abastecimento de Agua;Rio;0
+87;Seca 2019;Area Rural-1;Formas do Abastecimento de Agua;Nascente;0
+88;Seca 2019;Area Rural-1;Formas do Abastecimento de Agua;Rede Geral;0
+89;Seca 2019;Area Rural-1;Formas do Abastecimento de Agua;Igarape;2.2
+90;Seca 2019;Area Rural-1;Formas do Abastecimento de Agua;Outros;2.2
+91;Seca 2020;Area Rural-1;Formas do Abastecimento de Agua;Poco;64.9
+92;Seca 2020;Area Rural-1;Formas do Abastecimento de Agua;Rio;0
+93;Seca 2020;Area Rural-1;Formas do Abastecimento de Agua;Nascente;2.7
+94;Seca 2020;Area Rural-1;Formas do Abastecimento de Agua;Rede Geral;0
+95;Seca 2020;Area Rural-1;Formas do Abastecimento de Agua;Igarape;2.7
+96;Seca 2020;Area Rural-1;Formas do Abastecimento de Agua;Outros;0
+97;Seca 2012;Area Rural-2;Formas do Abastecimento de Agua;Poco;78.3
+98;Seca 2012;Area Rural-2;Formas do Abastecimento de Agua;Rio;17.4
+99;Seca 2012;Area Rural-2;Formas do Abastecimento de Agua;Nascente;4.3
+100;Seca 2012;Area Rural-2;Formas do Abastecimento de Agua;Rede Geral;0
+101;Seca 2012;Area Rural-2;Formas do Abastecimento de Agua;Igarape;0
+102;Seca 2012;Area Rural-2;Formas do Abastecimento de Agua;Outros;0
+103;Cheia 2013;Area Rural-2;Formas do Abastecimento de Agua;Poco;67.9
+104;Cheia 2013;Area Rural-2;Formas do Abastecimento de Agua;Rio;28.6
+105;Cheia 2013;Area Rural-2;Formas do Abastecimento de Agua;Nascente;3.6
+106;Cheia 2013;Area Rural-2;Formas do Abastecimento de Agua;Rede Geral;0
+107;Cheia 2013;Area Rural-2;Formas do Abastecimento de Agua;Igarape;0
+108;Cheia 2013;Area Rural-2;Formas do Abastecimento de Agua;Outros;0
+109;Seca 2013;Area Rural-2;Formas do Abastecimento de Agua;Poco;67.4
+110;Seca 2013;Area Rural-2;Formas do Abastecimento de Agua;Rio;10.9
+111;Seca 2013;Area Rural-2;Formas do Abastecimento de Agua;Nascente;13
+112;Seca 2013;Area Rural-2;Formas do Abastecimento de Agua;Rede Geral;2.2
+113;Seca 2013;Area Rural-2;Formas do Abastecimento de Agua;Igarape;6.5
+114;Seca 2013;Area Rural-2;Formas do Abastecimento de Agua;Outros;0
+115;Cheia 2014;Area Rural-2;Formas do Abastecimento de Agua;Poco;61.1
+116;Cheia 2014;Area Rural-2;Formas do Abastecimento de Agua;Rio;27.8
+117;Cheia 2014;Area Rural-2;Formas do Abastecimento de Agua;Nascente;8.3
+118;Cheia 2014;Area Rural-2;Formas do Abastecimento de Agua;Rede Geral;2.8
+119;Cheia 2014;Area Rural-2;Formas do Abastecimento de Agua;Igarape;0
+120;Cheia 2014;Area Rural-2;Formas do Abastecimento de Agua;Outros;0
+121;Seca 2014;Area Rural-2;Formas do Abastecimento de Agua;Poco;70
+122;Seca 2014;Area Rural-2;Formas do Abastecimento de Agua;Rio;26
+123;Seca 2014;Area Rural-2;Formas do Abastecimento de Agua;Nascente;2
+124;Seca 2014;Area Rural-2;Formas do Abastecimento de Agua;Rede Geral;0
+125;Seca 2014;Area Rural-2;Formas do Abastecimento de Agua;Igarape;2
+126;Seca 2014;Area Rural-2;Formas do Abastecimento de Agua;Outros;0
+127;Cheia 2015;Area Rural-2;Formas do Abastecimento de Agua;Poco;76.7
+128;Cheia 2015;Area Rural-2;Formas do Abastecimento de Agua;Rio;20.9
+129;Cheia 2015;Area Rural-2;Formas do Abastecimento de Agua;Nascente;0
+130;Cheia 2015;Area Rural-2;Formas do Abastecimento de Agua;Rede Geral;0
+131;Cheia 2015;Area Rural-2;Formas do Abastecimento de Agua;Igarape;2.3
+132;Cheia 2015;Area Rural-2;Formas do Abastecimento de Agua;Outros;0
+133;Seca 2015;Area Rural-2;Formas do Abastecimento de Agua;Poco;65.9
+134;Seca 2015;Area Rural-2;Formas do Abastecimento de Agua;Rio;34.1
+135;Seca 2015;Area Rural-2;Formas do Abastecimento de Agua;Nascente;0
+136;Seca 2015;Area Rural-2;Formas do Abastecimento de Agua;Rede Geral;0
+137;Seca 2015;Area Rural-2;Formas do Abastecimento de Agua;Igarape;0
+138;Seca 2015;Area Rural-2;Formas do Abastecimento de Agua;Outros;0
+139;Cheia 2016;Area Rural-2;Formas do Abastecimento de Agua;Poco;72.3
+140;Cheia 2016;Area Rural-2;Formas do Abastecimento de Agua;Rio;27.7
+141;Cheia 2016;Area Rural-2;Formas do Abastecimento de Agua;Nascente;0
+142;Cheia 2016;Area Rural-2;Formas do Abastecimento de Agua;Rede Geral;0
+143;Cheia 2016;Area Rural-2;Formas do Abastecimento de Agua;Igarape;0
+144;Cheia 2016;Area Rural-2;Formas do Abastecimento de Agua;Outros;0
+145;Seca 2016;Area Rural-2;Formas do Abastecimento de Agua;Poco;96.8
+146;Seca 2016;Area Rural-2;Formas do Abastecimento de Agua;Rio;0
+147;Seca 2016;Area Rural-2;Formas do Abastecimento de Agua;Nascente;0
+148;Seca 2016;Area Rural-2;Formas do Abastecimento de Agua;Rede Geral;0
+149;Seca 2016;Area Rural-2;Formas do Abastecimento de Agua;Igarape;0
+150;Seca 2016;Area Rural-2;Formas do Abastecimento de Agua;Outros;0
+151;Cheia 2017;Area Rural-2;Formas do Abastecimento de Agua;Poco;88.9
+152;Cheia 2017;Area Rural-2;Formas do Abastecimento de Agua;Rio;0
+153;Cheia 2017;Area Rural-2;Formas do Abastecimento de Agua;Nascente;0
+154;Cheia 2017;Area Rural-2;Formas do Abastecimento de Agua;Rede Geral;0
+155;Cheia 2017;Area Rural-2;Formas do Abastecimento de Agua;Igarape;0
+156;Cheia 2017;Area Rural-2;Formas do Abastecimento de Agua;Outros;0
+157;Seca 2017;Area Rural-2;Formas do Abastecimento de Agua;Poco;89.4
+158;Seca 2017;Area Rural-2;Formas do Abastecimento de Agua;Rio;0
+159;Seca 2017;Area Rural-2;Formas do Abastecimento de Agua;Nascente;0
+160;Seca 2017;Area Rural-2;Formas do Abastecimento de Agua;Rede Geral;0
+161;Seca 2017;Area Rural-2;Formas do Abastecimento de Agua;Igarape;0
+162;Seca 2017;Area Rural-2;Formas do Abastecimento de Agua;Outros;0
+163;Cheia 2018;Area Rural-2;Formas do Abastecimento de Agua;Poco;86
+164;Cheia 2018;Area Rural-2;Formas do Abastecimento de Agua;Rio;0
+165;Cheia 2018;Area Rural-2;Formas do Abastecimento de Agua;Nascente;0
+166;Cheia 2018;Area Rural-2;Formas do Abastecimento de Agua;Rede Geral;0
+167;Cheia 2018;Area Rural-2;Formas do Abastecimento de Agua;Igarape;0
+168;Cheia 2018;Area Rural-2;Formas do Abastecimento de Agua;Outros;0
+169;Seca 2018;Area Rural-2;Formas do Abastecimento de Agua;Poco;85.4
+170;Seca 2018;Area Rural-2;Formas do Abastecimento de Agua;Rio;0
+171;Seca 2018;Area Rural-2;Formas do Abastecimento de Agua;Nascente;0
+172;Seca 2018;Area Rural-2;Formas do Abastecimento de Agua;Rede Geral;0
+173;Seca 2018;Area Rural-2;Formas do Abastecimento de Agua;Igarape;0
+174;Seca 2018;Area Rural-2;Formas do Abastecimento de Agua;Outros;0
+175;Cheia 2019;Area Rural-2;Formas do Abastecimento de Agua;Poco;88.6
+176;Cheia 2019;Area Rural-2;Formas do Abastecimento de Agua;Rio;2.9
+177;Cheia 2019;Area Rural-2;Formas do Abastecimento de Agua;Nascente;0
+178;Cheia 2019;Area Rural-2;Formas do Abastecimento de Agua;Rede Geral;5.7
+179;Cheia 2019;Area Rural-2;Formas do Abastecimento de Agua;Igarape;0
+180;Cheia 2019;Area Rural-2;Formas do Abastecimento de Agua;Outros;0
+181;Seca 2019;Area Rural-2;Formas do Abastecimento de Agua;Poco;87
+182;Seca 2019;Area Rural-2;Formas do Abastecimento de Agua;Rio;0
+183;Seca 2019;Area Rural-2;Formas do Abastecimento de Agua;Nascente;0
+184;Seca 2019;Area Rural-2;Formas do Abastecimento de Agua;Rede Geral;0
+185;Seca 2019;Area Rural-2;Formas do Abastecimento de Agua;Igarape;1.9
+186;Seca 2019;Area Rural-2;Formas do Abastecimento de Agua;Outros;0
+187;Seca 2020;Area Rural-2;Formas do Abastecimento de Agua;Poco;83.7
+188;Seca 2020;Area Rural-2;Formas do Abastecimento de Agua;Rio;0
+189;Seca 2020;Area Rural-2;Formas do Abastecimento de Agua;Nascente;0
+190;Seca 2020;Area Rural-2;Formas do Abastecimento de Agua;Rede Geral;0
+191;Seca 2020;Area Rural-2;Formas do Abastecimento de Agua;Igarape;0
+192;Seca 2020;Area Rural-2;Formas do Abastecimento de Agua;Outros;2
+193;Seca 2012;Area Urbana-1;Formas do Abastecimento de Agua;Poco;92.6
+194;Seca 2012;Area Urbana-1;Formas do Abastecimento de Agua;Rio;3.7
+195;Seca 2012;Area Urbana-1;Formas do Abastecimento de Agua;Nascente;1.9
+196;Seca 2012;Area Urbana-1;Formas do Abastecimento de Agua;Rede Geral;1.9
+197;Seca 2012;Area Urbana-1;Formas do Abastecimento de Agua;Igarape;0
+198;Seca 2012;Area Urbana-1;Formas do Abastecimento de Agua;Outros;0
+199;Cheia 2013;Area Urbana-1;Formas do Abastecimento de Agua;Poco;93.9
+200;Cheia 2013;Area Urbana-1;Formas do Abastecimento de Agua;Rio;2
+201;Cheia 2013;Area Urbana-1;Formas do Abastecimento de Agua;Nascente;4.1
+202;Cheia 2013;Area Urbana-1;Formas do Abastecimento de Agua;Rede Geral;0
+203;Cheia 2013;Area Urbana-1;Formas do Abastecimento de Agua;Igarape;0
+204;Cheia 2013;Area Urbana-1;Formas do Abastecimento de Agua;Outros;0
+205;Seca 2013;Area Urbana-1;Formas do Abastecimento de Agua;Poco;93.5
+206;Seca 2013;Area Urbana-1;Formas do Abastecimento de Agua;Rio;0
+207;Seca 2013;Area Urbana-1;Formas do Abastecimento de Agua;Nascente;6.5
+208;Seca 2013;Area Urbana-1;Formas do Abastecimento de Agua;Rede Geral;0
+209;Seca 2013;Area Urbana-1;Formas do Abastecimento de Agua;Igarape;0
+210;Seca 2013;Area Urbana-1;Formas do Abastecimento de Agua;Outros;0
+211;Cheia 2014;Area Urbana-1;Formas do Abastecimento de Agua;Poco;84.4
+212;Cheia 2014;Area Urbana-1;Formas do Abastecimento de Agua;Rio;4.4
+213;Cheia 2014;Area Urbana-1;Formas do Abastecimento de Agua;Nascente;11.1
+214;Cheia 2014;Area Urbana-1;Formas do Abastecimento de Agua;Rede Geral;0
+215;Cheia 2014;Area Urbana-1;Formas do Abastecimento de Agua;Igarape;0
+216;Cheia 2014;Area Urbana-1;Formas do Abastecimento de Agua;Outros;0
+217;Seca 2014;Area Urbana-1;Formas do Abastecimento de Agua;Poco;70.7
+218;Seca 2014;Area Urbana-1;Formas do Abastecimento de Agua;Rio;2.4
+219;Seca 2014;Area Urbana-1;Formas do Abastecimento de Agua;Nascente;14.6
+220;Seca 2014;Area Urbana-1;Formas do Abastecimento de Agua;Rede Geral;12.2
+221;Seca 2014;Area Urbana-1;Formas do Abastecimento de Agua;Igarape;0
+222;Seca 2014;Area Urbana-1;Formas do Abastecimento de Agua;Outros;0
+223;Cheia 2015;Area Urbana-1;Formas do Abastecimento de Agua;Poco;91.4
+224;Cheia 2015;Area Urbana-1;Formas do Abastecimento de Agua;Rio;2.9
+225;Cheia 2015;Area Urbana-1;Formas do Abastecimento de Agua;Nascente;2.9
+226;Cheia 2015;Area Urbana-1;Formas do Abastecimento de Agua;Rede Geral;2.9
+227;Cheia 2015;Area Urbana-1;Formas do Abastecimento de Agua;Igarape;0
+228;Cheia 2015;Area Urbana-1;Formas do Abastecimento de Agua;Outros;0
+229;Seca 2015;Area Urbana-1;Formas do Abastecimento de Agua;Poco;59.1
+230;Seca 2015;Area Urbana-1;Formas do Abastecimento de Agua;Rio;0
+231;Seca 2015;Area Urbana-1;Formas do Abastecimento de Agua;Nascente;11.4
+232;Seca 2015;Area Urbana-1;Formas do Abastecimento de Agua;Rede Geral;29.5
+233;Seca 2015;Area Urbana-1;Formas do Abastecimento de Agua;Igarape;0
+234;Seca 2015;Area Urbana-1;Formas do Abastecimento de Agua;Outros;0
+235;Cheia 2016;Area Urbana-1;Formas do Abastecimento de Agua;Poco;59.6
+236;Cheia 2016;Area Urbana-1;Formas do Abastecimento de Agua;Rio;0
+237;Cheia 2016;Area Urbana-1;Formas do Abastecimento de Agua;Nascente;6.4
+238;Cheia 2016;Area Urbana-1;Formas do Abastecimento de Agua;Rede Geral;34
+239;Cheia 2016;Area Urbana-1;Formas do Abastecimento de Agua;Igarape;0
+240;Cheia 2016;Area Urbana-1;Formas do Abastecimento de Agua;Outros;0
+241;Seca 2016;Area Urbana-1;Formas do Abastecimento de Agua;Poco;86.4
+242;Seca 2016;Area Urbana-1;Formas do Abastecimento de Agua;Rio;0
+243;Seca 2016;Area Urbana-1;Formas do Abastecimento de Agua;Nascente;8.5
+244;Seca 2016;Area Urbana-1;Formas do Abastecimento de Agua;Rede Geral;1.7
+245;Seca 2016;Area Urbana-1;Formas do Abastecimento de Agua;Igarape;0
+246;Seca 2016;Area Urbana-1;Formas do Abastecimento de Agua;Outros;0
+247;Cheia 2017;Area Urbana-1;Formas do Abastecimento de Agua;Poco;83.3
+248;Cheia 2017;Area Urbana-1;Formas do Abastecimento de Agua;Rio;0
+249;Cheia 2017;Area Urbana-1;Formas do Abastecimento de Agua;Nascente;3.7
+250;Cheia 2017;Area Urbana-1;Formas do Abastecimento de Agua;Rede Geral;13
+251;Cheia 2017;Area Urbana-1;Formas do Abastecimento de Agua;Igarape;0
+252;Cheia 2017;Area Urbana-1;Formas do Abastecimento de Agua;Outros;0
+253;Seca 2017;Area Urbana-1;Formas do Abastecimento de Agua;Poco;87.5
+254;Seca 2017;Area Urbana-1;Formas do Abastecimento de Agua;Rio;0
+255;Seca 2017;Area Urbana-1;Formas do Abastecimento de Agua;Nascente;0
+256;Seca 2017;Area Urbana-1;Formas do Abastecimento de Agua;Rede Geral;8.9
+257;Seca 2017;Area Urbana-1;Formas do Abastecimento de Agua;Igarape;1.8
+258;Seca 2017;Area Urbana-1;Formas do Abastecimento de Agua;Outros;0
+259;Cheia 2018;Area Urbana-1;Formas do Abastecimento de Agua;Poco;83.6
+260;Cheia 2018;Area Urbana-1;Formas do Abastecimento de Agua;Rio;0
+261;Cheia 2018;Area Urbana-1;Formas do Abastecimento de Agua;Nascente;3.6
+262;Cheia 2018;Area Urbana-1;Formas do Abastecimento de Agua;Rede Geral;9.1
+263;Cheia 2018;Area Urbana-1;Formas do Abastecimento de Agua;Igarape;0
+264;Cheia 2018;Area Urbana-1;Formas do Abastecimento de Agua;Outros;0
+265;Seca 2018;Area Urbana-1;Formas do Abastecimento de Agua;Poco;61.8
+266;Seca 2018;Area Urbana-1;Formas do Abastecimento de Agua;Rio;0
+267;Seca 2018;Area Urbana-1;Formas do Abastecimento de Agua;Nascente;16.4
+268;Seca 2018;Area Urbana-1;Formas do Abastecimento de Agua;Rede Geral;18.2
+269;Seca 2018;Area Urbana-1;Formas do Abastecimento de Agua;Igarape;0
+270;Seca 2018;Area Urbana-1;Formas do Abastecimento de Agua;Outros;0
+271;Cheia 2019;Area Urbana-1;Formas do Abastecimento de Agua;Poco;81.4
+272;Cheia 2019;Area Urbana-1;Formas do Abastecimento de Agua;Rio;0
+273;Cheia 2019;Area Urbana-1;Formas do Abastecimento de Agua;Nascente;0
+274;Cheia 2019;Area Urbana-1;Formas do Abastecimento de Agua;Rede Geral;16.9
+275;Cheia 2019;Area Urbana-1;Formas do Abastecimento de Agua;Igarape;0
+276;Cheia 2019;Area Urbana-1;Formas do Abastecimento de Agua;Outros;0
+277;Seca 2019;Area Urbana-1;Formas do Abastecimento de Agua;Poco;54.1
+278;Seca 2019;Area Urbana-1;Formas do Abastecimento de Agua;Rio;0
+279;Seca 2019;Area Urbana-1;Formas do Abastecimento de Agua;Nascente;3.3
+280;Seca 2019;Area Urbana-1;Formas do Abastecimento de Agua;Rede Geral;39.3
+281;Seca 2019;Area Urbana-1;Formas do Abastecimento de Agua;Igarape;0
+282;Seca 2019;Area Urbana-1;Formas do Abastecimento de Agua;Outros;0
+283;Seca 2020;Area Urbana-1;Formas do Abastecimento de Agua;Poco;42.6
+284;Seca 2020;Area Urbana-1;Formas do Abastecimento de Agua;Rio;0
+285;Seca 2020;Area Urbana-1;Formas do Abastecimento de Agua;Nascente;0
+286;Seca 2020;Area Urbana-1;Formas do Abastecimento de Agua;Rede Geral;49.2
+287;Seca 2020;Area Urbana-1;Formas do Abastecimento de Agua;Igarape;1.6
+288;Seca 2020;Area Urbana-1;Formas do Abastecimento de Agua;Outros;0
+289;Seca 2012;Area Urbana-2;Formas do Abastecimento de Agua;Poco;44.4
+290;Seca 2012;Area Urbana-2;Formas do Abastecimento de Agua;Rio;13.3
+291;Seca 2012;Area Urbana-2;Formas do Abastecimento de Agua;Nascente;0
+292;Seca 2012;Area Urbana-2;Formas do Abastecimento de Agua;Rede Geral;42.2
+293;Seca 2012;Area Urbana-2;Formas do Abastecimento de Agua;Igarape;0
+294;Seca 2012;Area Urbana-2;Formas do Abastecimento de Agua;Outros;0
+295;Cheia 2013;Area Urbana-2;Formas do Abastecimento de Agua;Poco;63
+296;Cheia 2013;Area Urbana-2;Formas do Abastecimento de Agua;Rio;0
+297;Cheia 2013;Area Urbana-2;Formas do Abastecimento de Agua;Nascente;0
+298;Cheia 2013;Area Urbana-2;Formas do Abastecimento de Agua;Rede Geral;37
+299;Cheia 2013;Area Urbana-2;Formas do Abastecimento de Agua;Igarape;0
+300;Cheia 2013;Area Urbana-2;Formas do Abastecimento de Agua;Outros;0
+301;Seca 2013;Area Urbana-2;Formas do Abastecimento de Agua;Poco;29.9
+302;Seca 2013;Area Urbana-2;Formas do Abastecimento de Agua;Rio;0
+303;Seca 2013;Area Urbana-2;Formas do Abastecimento de Agua;Nascente;0
+304;Seca 2013;Area Urbana-2;Formas do Abastecimento de Agua;Rede Geral;70.1
+305;Seca 2013;Area Urbana-2;Formas do Abastecimento de Agua;Igarape;0
+306;Seca 2013;Area Urbana-2;Formas do Abastecimento de Agua;Outros;0
+307;Cheia 2014;Area Urbana-2;Formas do Abastecimento de Agua;Poco;34.7
+308;Cheia 2014;Area Urbana-2;Formas do Abastecimento de Agua;Rio;1.4
+309;Cheia 2014;Area Urbana-2;Formas do Abastecimento de Agua;Nascente;0
+310;Cheia 2014;Area Urbana-2;Formas do Abastecimento de Agua;Rede Geral;63.9
+311;Cheia 2014;Area Urbana-2;Formas do Abastecimento de Agua;Igarape;0
+312;Cheia 2014;Area Urbana-2;Formas do Abastecimento de Agua;Outros;0
+313;Seca 2014;Area Urbana-2;Formas do Abastecimento de Agua;Poco;45.7
+314;Seca 2014;Area Urbana-2;Formas do Abastecimento de Agua;Rio;0
+315;Seca 2014;Area Urbana-2;Formas do Abastecimento de Agua;Nascente;0
+316;Seca 2014;Area Urbana-2;Formas do Abastecimento de Agua;Rede Geral;54.3
+317;Seca 2014;Area Urbana-2;Formas do Abastecimento de Agua;Igarape;0
+318;Seca 2014;Area Urbana-2;Formas do Abastecimento de Agua;Outros;0
+319;Cheia 2015;Area Urbana-2;Formas do Abastecimento de Agua;Poco;54.1
+320;Cheia 2015;Area Urbana-2;Formas do Abastecimento de Agua;Rio;0
+321;Cheia 2015;Area Urbana-2;Formas do Abastecimento de Agua;Nascente;0
+322;Cheia 2015;Area Urbana-2;Formas do Abastecimento de Agua;Rede Geral;45.9
+323;Cheia 2015;Area Urbana-2;Formas do Abastecimento de Agua;Igarape;0
+324;Cheia 2015;Area Urbana-2;Formas do Abastecimento de Agua;Outros;0
+325;Seca 2015;Area Urbana-2;Formas do Abastecimento de Agua;Poco;21.3
+326;Seca 2015;Area Urbana-2;Formas do Abastecimento de Agua;Rio;4
+327;Seca 2015;Area Urbana-2;Formas do Abastecimento de Agua;Nascente;0
+328;Seca 2015;Area Urbana-2;Formas do Abastecimento de Agua;Rede Geral;74.7
+329;Seca 2015;Area Urbana-2;Formas do Abastecimento de Agua;Igarape;0
+330;Seca 2015;Area Urbana-2;Formas do Abastecimento de Agua;Outros;0
+331;Cheia 2016;Area Urbana-2;Formas do Abastecimento de Agua;Poco;36
+332;Cheia 2016;Area Urbana-2;Formas do Abastecimento de Agua;Rio;0
+333;Cheia 2016;Area Urbana-2;Formas do Abastecimento de Agua;Nascente;0
+334;Cheia 2016;Area Urbana-2;Formas do Abastecimento de Agua;Rede Geral;64
+335;Cheia 2016;Area Urbana-2;Formas do Abastecimento de Agua;Igarape;0
+336;Cheia 2016;Area Urbana-2;Formas do Abastecimento de Agua;Outros;0
+337;Seca 2016;Area Urbana-2;Formas do Abastecimento de Agua;Poco;18.5
+338;Seca 2016;Area Urbana-2;Formas do Abastecimento de Agua;Rio;0
+339;Seca 2016;Area Urbana-2;Formas do Abastecimento de Agua;Nascente;0
+340;Seca 2016;Area Urbana-2;Formas do Abastecimento de Agua;Rede Geral;81.5
+341;Seca 2016;Area Urbana-2;Formas do Abastecimento de Agua;Igarape;0
+342;Seca 2016;Area Urbana-2;Formas do Abastecimento de Agua;Outros;0
+343;Cheia 2017;Area Urbana-2;Formas do Abastecimento de Agua;Poco;24.6
+344;Cheia 2017;Area Urbana-2;Formas do Abastecimento de Agua;Rio;0
+345;Cheia 2017;Area Urbana-2;Formas do Abastecimento de Agua;Nascente;0
+346;Cheia 2017;Area Urbana-2;Formas do Abastecimento de Agua;Rede Geral;73.8
+347;Cheia 2017;Area Urbana-2;Formas do Abastecimento de Agua;Igarape;0
+348;Cheia 2017;Area Urbana-2;Formas do Abastecimento de Agua;Outros;1.5
+349;Seca 2017;Area Urbana-2;Formas do Abastecimento de Agua;Poco;32.3
+350;Seca 2017;Area Urbana-2;Formas do Abastecimento de Agua;Rio;0
+351;Seca 2017;Area Urbana-2;Formas do Abastecimento de Agua;Nascente;0
+352;Seca 2017;Area Urbana-2;Formas do Abastecimento de Agua;Rede Geral;38.5
+353;Seca 2017;Area Urbana-2;Formas do Abastecimento de Agua;Igarape;0
+354;Seca 2017;Area Urbana-2;Formas do Abastecimento de Agua;Outros;0
+355;Cheia 2018;Area Urbana-2;Formas do Abastecimento de Agua;Poco;29.2
+356;Cheia 2018;Area Urbana-2;Formas do Abastecimento de Agua;Rio;0
+357;Cheia 2018;Area Urbana-2;Formas do Abastecimento de Agua;Nascente;0
+358;Cheia 2018;Area Urbana-2;Formas do Abastecimento de Agua;Rede Geral;70.8
+359;Cheia 2018;Area Urbana-2;Formas do Abastecimento de Agua;Igarape;0
+360;Cheia 2018;Area Urbana-2;Formas do Abastecimento de Agua;Outros;0
+361;Seca 2018;Area Urbana-2;Formas do Abastecimento de Agua;Poco;16.4
+362;Seca 2018;Area Urbana-2;Formas do Abastecimento de Agua;Rio;0
+363;Seca 2018;Area Urbana-2;Formas do Abastecimento de Agua;Nascente;0
+364;Seca 2018;Area Urbana-2;Formas do Abastecimento de Agua;Rede Geral;80.6
+365;Seca 2018;Area Urbana-2;Formas do Abastecimento de Agua;Igarape;0
+366;Seca 2018;Area Urbana-2;Formas do Abastecimento de Agua;Outros;1.5
+367;Cheia 2019;Area Urbana-2;Formas do Abastecimento de Agua;Poco;19.4
+368;Cheia 2019;Area Urbana-2;Formas do Abastecimento de Agua;Rio;0
+369;Cheia 2019;Area Urbana-2;Formas do Abastecimento de Agua;Nascente;0
+370;Cheia 2019;Area Urbana-2;Formas do Abastecimento de Agua;Rede Geral;68.7
+371;Cheia 2019;Area Urbana-2;Formas do Abastecimento de Agua;Igarape;0
+372;Cheia 2019;Area Urbana-2;Formas do Abastecimento de Agua;Outros;4.5
+373;Seca 2019;Area Urbana-2;Formas do Abastecimento de Agua;Poco;33.3
+374;Seca 2019;Area Urbana-2;Formas do Abastecimento de Agua;Rio;0
+375;Seca 2019;Area Urbana-2;Formas do Abastecimento de Agua;Nascente;0
+376;Seca 2019;Area Urbana-2;Formas do Abastecimento de Agua;Rede Geral;46.2
+377;Seca 2019;Area Urbana-2;Formas do Abastecimento de Agua;Igarape;0
+378;Seca 2019;Area Urbana-2;Formas do Abastecimento de Agua;Outros;0
+379;Seca 2020;Area Urbana-2;Formas do Abastecimento de Agua;Poco;25.5
+380;Seca 2020;Area Urbana-2;Formas do Abastecimento de Agua;Rio;0
+381;Seca 2020;Area Urbana-2;Formas do Abastecimento de Agua;Nascente;0
+382;Seca 2020;Area Urbana-2;Formas do Abastecimento de Agua;Rede Geral;56.4
+383;Seca 2020;Area Urbana-2;Formas do Abastecimento de Agua;Igarape;0
+384;Seca 2020;Area Urbana-2;Formas do Abastecimento de Agua;Outros;0
+385;Seca 2012;Area Rural-1;Avaliacao do Abastecimento de Agua;Houve Alteracao;45
+386;Cheia 2013;Area Rural-1;Avaliacao do Abastecimento de Agua;Houve Alteracao;47.1
+387;Seca 2013;Area Rural-1;Avaliacao do Abastecimento de Agua;Houve Alteracao;45.2
+388;Cheia 2014;Area Rural-1;Avaliacao do Abastecimento de Agua;Houve Alteracao;30.6
+389;Seca 2014;Area Rural-1;Avaliacao do Abastecimento de Agua;Houve Alteracao;30.8
+390;Cheia 2015;Area Rural-1;Avaliacao do Abastecimento de Agua;Houve Alteracao;26.2
+391;Seca 2015;Area Rural-1;Avaliacao do Abastecimento de Agua;Houve Alteracao;52.6
+392;Cheia 2016;Area Rural-1;Avaliacao do Abastecimento de Agua;Houve Alteracao;45.7
+393;Seca 2016;Area Rural-1;Avaliacao do Abastecimento de Agua;Houve Alteracao;64.4
+394;Cheia 2017;Area Rural-1;Avaliacao do Abastecimento de Agua;Houve Alteracao;58.3
+395;Seca 2017;Area Rural-1;Avaliacao do Abastecimento de Agua;Houve Alteracao;71.4
+396;Cheia 2018;Area Rural-1;Avaliacao do Abastecimento de Agua;Houve Alteracao;0
+397;Seca 2018;Area Rural-1;Avaliacao do Abastecimento de Agua;Houve Alteracao;34.1
+398;Cheia 2019;Area Rural-1;Avaliacao do Abastecimento de Agua;Houve Alteracao;0
+399;Seca 2019;Area Rural-1;Avaliacao do Abastecimento de Agua;Houve Alteracao;0
+400;Seca 2020;Area Rural-1;Avaliacao do Abastecimento de Agua;Houve Alteracao;0
+401;Seca 2012;Area Rural-2;Avaliacao do Abastecimento de Agua;Houve Alteracao;30.4
+402;Cheia 2013;Area Rural-2;Avaliacao do Abastecimento de Agua;Houve Alteracao;42.9
+403;Seca 2013;Area Rural-2;Avaliacao do Abastecimento de Agua;Houve Alteracao;19.6
+404;Cheia 2014;Area Rural-2;Avaliacao do Abastecimento de Agua;Houve Alteracao;33.3
+405;Seca 2014;Area Rural-2;Avaliacao do Abastecimento de Agua;Houve Alteracao;28
+406;Cheia 2015;Area Rural-2;Avaliacao do Abastecimento de Agua;Houve Alteracao;41.9
+407;Seca 2015;Area Rural-2;Avaliacao do Abastecimento de Agua;Houve Alteracao;63.6
+408;Cheia 2016;Area Rural-2;Avaliacao do Abastecimento de Agua;Houve Alteracao;76.6
+409;Seca 2016;Area Rural-2;Avaliacao do Abastecimento de Agua;Houve Alteracao;38.7
+410;Cheia 2017;Area Rural-2;Avaliacao do Abastecimento de Agua;Houve Alteracao;31.1
+411;Seca 2017;Area Rural-2;Avaliacao do Abastecimento de Agua;Houve Alteracao;85.1
+412;Cheia 2018;Area Rural-2;Avaliacao do Abastecimento de Agua;Houve Alteracao;0
+413;Seca 2018;Area Rural-2;Avaliacao do Abastecimento de Agua;Houve Alteracao;29.3
+414;Cheia 2019;Area Rural-2;Avaliacao do Abastecimento de Agua;Houve Alteracao;0
+415;Seca 2019;Area Rural-2;Avaliacao do Abastecimento de Agua;Houve Alteracao;0
+416;Seca 2020;Area Rural-2;Avaliacao do Abastecimento de Agua;Houve Alteracao;0
+417;Seca 2012;Area Urbana-1;Avaliacao do Abastecimento de Agua;Houve Alteracao;61.1
+418;Cheia 2013;Area Urbana-1;Avaliacao do Abastecimento de Agua;Houve Alteracao;36.7
+419;Seca 2013;Area Urbana-1;Avaliacao do Abastecimento de Agua;Houve Alteracao;23.9
+420;Cheia 2014;Area Urbana-1;Avaliacao do Abastecimento de Agua;Houve Alteracao;20
+421;Seca 2014;Area Urbana-1;Avaliacao do Abastecimento de Agua;Houve Alteracao;7.3
+422;Cheia 2015;Area Urbana-1;Avaliacao do Abastecimento de Agua;Houve Alteracao;8.6
+423;Seca 2015;Area Urbana-1;Avaliacao do Abastecimento de Agua;Houve Alteracao;20.5
+424;Cheia 2016;Area Urbana-1;Avaliacao do Abastecimento de Agua;Houve Alteracao;31.9
+425;Seca 2016;Area Urbana-1;Avaliacao do Abastecimento de Agua;Houve Alteracao;54.2
+426;Cheia 2017;Area Urbana-1;Avaliacao do Abastecimento de Agua;Houve Alteracao;20.4
+427;Seca 2017;Area Urbana-1;Avaliacao do Abastecimento de Agua;Houve Alteracao;57.1
+428;Cheia 2018;Area Urbana-1;Avaliacao do Abastecimento de Agua;Houve Alteracao;0
+429;Seca 2018;Area Urbana-1;Avaliacao do Abastecimento de Agua;Houve Alteracao;14.5
+430;Cheia 2019;Area Urbana-1;Avaliacao do Abastecimento de Agua;Houve Alteracao;5.1
+431;Seca 2019;Area Urbana-1;Avaliacao do Abastecimento de Agua;Houve Alteracao;9.8
+432;Seca 2020;Area Urbana-1;Avaliacao do Abastecimento de Agua;Houve Alteracao;49.2
+433;Seca 2012;Area Urbana-2;Avaliacao do Abastecimento de Agua;Houve Alteracao;51.1
+434;Cheia 2013;Area Urbana-2;Avaliacao do Abastecimento de Agua;Houve Alteracao;21.9
+435;Seca 2013;Area Urbana-2;Avaliacao do Abastecimento de Agua;Houve Alteracao;56.7
+436;Cheia 2014;Area Urbana-2;Avaliacao do Abastecimento de Agua;Houve Alteracao;34.7
+437;Seca 2014;Area Urbana-2;Avaliacao do Abastecimento de Agua;Houve Alteracao;47.1
+438;Cheia 2015;Area Urbana-2;Avaliacao do Abastecimento de Agua;Houve Alteracao;32.4
+439;Seca 2015;Area Urbana-2;Avaliacao do Abastecimento de Agua;Houve Alteracao;56
+440;Cheia 2016;Area Urbana-2;Avaliacao do Abastecimento de Agua;Houve Alteracao;48
+441;Seca 2016;Area Urbana-2;Avaliacao do Abastecimento de Agua;Houve Alteracao;43.1
+442;Cheia 2017;Area Urbana-2;Avaliacao do Abastecimento de Agua;Houve Alteracao;47.7
+443;Seca 2017;Area Urbana-2;Avaliacao do Abastecimento de Agua;Houve Alteracao;50.8
+444;Cheia 2018;Area Urbana-2;Avaliacao do Abastecimento de Agua;Houve Alteracao;30.8
+445;Seca 2018;Area Urbana-2;Avaliacao do Abastecimento de Agua;Houve Alteracao;95.5
+446;Cheia 2019;Area Urbana-2;Avaliacao do Abastecimento de Agua;Houve Alteracao;41.8
+447;Seca 2019;Area Urbana-2;Avaliacao do Abastecimento de Agua;Houve Alteracao;17.9
+448;Seca 2020;Area Urbana-2;Avaliacao do Abastecimento de Agua;Houve Alteracao;52.7
+449;Seca 2012;Area Rural-1;Destino do Lixo;Queimado;90
+450;Seca 2012;Area Rural-1;Destino do Lixo;Coletado Servico de Limpeza;0
+451;Seca 2012;Area Rural-1;Destino do Lixo;Enterrado;15
+452;Seca 2012;Area Rural-1;Destino do Lixo;Joagado Ceu Aberto;0
+453;Seca 2012;Area Rural-1;Destino do Lixo;Outro;0
+454;Cheia 2013;Area Rural-1;Destino do Lixo;Queimado;80.4
+455;Cheia 2013;Area Rural-1;Destino do Lixo;Coletado Servico de Limpeza;0
+456;Cheia 2013;Area Rural-1;Destino do Lixo;Enterrado;15.7
+457;Cheia 2013;Area Rural-1;Destino do Lixo;Joagado Ceu Aberto;19.6
+458;Cheia 2013;Area Rural-1;Destino do Lixo;Outro;0
+459;Seca 2013;Area Rural-1;Destino do Lixo;Queimado;90.5
+460;Seca 2013;Area Rural-1;Destino do Lixo;Coletado Servico de Limpeza;4.8
+461;Seca 2013;Area Rural-1;Destino do Lixo;Enterrado;4.8
+462;Seca 2013;Area Rural-1;Destino do Lixo;Joagado Ceu Aberto;2.4
+463;Seca 2013;Area Rural-1;Destino do Lixo;Outro;0
+464;Cheia 2014;Area Rural-1;Destino do Lixo;Queimado;83.7
+465;Cheia 2014;Area Rural-1;Destino do Lixo;Coletado Servico de Limpeza;2
+466;Cheia 2014;Area Rural-1;Destino do Lixo;Enterrado;4.1
+467;Cheia 2014;Area Rural-1;Destino do Lixo;Joagado Ceu Aberto;12.2
+468;Cheia 2014;Area Rural-1;Destino do Lixo;Outro;0
+469;Seca 2014;Area Rural-1;Destino do Lixo;Queimado;97.4
+470;Seca 2014;Area Rural-1;Destino do Lixo;Coletado Servico de Limpeza;0
+471;Seca 2014;Area Rural-1;Destino do Lixo;Enterrado;5.1
+472;Seca 2014;Area Rural-1;Destino do Lixo;Joagado Ceu Aberto;12.8
+473;Seca 2014;Area Rural-1;Destino do Lixo;Outro;0
+474;Cheia 2015;Area Rural-1;Destino do Lixo;Queimado;88.1
+475;Cheia 2015;Area Rural-1;Destino do Lixo;Coletado Servico de Limpeza;2.4
+476;Cheia 2015;Area Rural-1;Destino do Lixo;Enterrado;23.8
+477;Cheia 2015;Area Rural-1;Destino do Lixo;Joagado Ceu Aberto;2.4
+478;Cheia 2015;Area Rural-1;Destino do Lixo;Outro;2.4
+479;Seca 2015;Area Rural-1;Destino do Lixo;Queimado;92.1
+480;Seca 2015;Area Rural-1;Destino do Lixo;Coletado Servico de Limpeza;0
+481;Seca 2015;Area Rural-1;Destino do Lixo;Enterrado;13.2
+482;Seca 2015;Area Rural-1;Destino do Lixo;Joagado Ceu Aberto;5.3
+483;Seca 2015;Area Rural-1;Destino do Lixo;Outro;0
+484;Cheia 2016;Area Rural-1;Destino do Lixo;Queimado;97.1
+485;Cheia 2016;Area Rural-1;Destino do Lixo;Coletado Servico de Limpeza;0
+486;Cheia 2016;Area Rural-1;Destino do Lixo;Enterrado;14.3
+487;Cheia 2016;Area Rural-1;Destino do Lixo;Joagado Ceu Aberto;8.6
+488;Cheia 2016;Area Rural-1;Destino do Lixo;Outro;0
+489;Seca 2016;Area Rural-1;Destino do Lixo;Queimado;97.8
+490;Seca 2016;Area Rural-1;Destino do Lixo;Coletado Servico de Limpeza;0
+491;Seca 2016;Area Rural-1;Destino do Lixo;Enterrado;0
+492;Seca 2016;Area Rural-1;Destino do Lixo;Joagado Ceu Aberto;2.2
+493;Seca 2016;Area Rural-1;Destino do Lixo;Outro;0
+494;Cheia 2017;Area Rural-1;Destino do Lixo;Queimado;97.2
+495;Cheia 2017;Area Rural-1;Destino do Lixo;Coletado Servico de Limpeza;5.6
+496;Cheia 2017;Area Rural-1;Destino do Lixo;Enterrado;11.1
+497;Cheia 2017;Area Rural-1;Destino do Lixo;Joagado Ceu Aberto;0
+498;Cheia 2017;Area Rural-1;Destino do Lixo;Outro;0
+499;Seca 2017;Area Rural-1;Destino do Lixo;Queimado;97.1
+500;Seca 2017;Area Rural-1;Destino do Lixo;Coletado Servico de Limpeza;0
+501;Seca 2017;Area Rural-1;Destino do Lixo;Enterrado;2.9
+502;Seca 2017;Area Rural-1;Destino do Lixo;Joagado Ceu Aberto;0
+503;Seca 2017;Area Rural-1;Destino do Lixo;Outro;0
+504;Cheia 2018;Area Rural-1;Destino do Lixo;Queimado;97.4
+505;Cheia 2018;Area Rural-1;Destino do Lixo;Coletado Servico de Limpeza;2.6
+506;Cheia 2018;Area Rural-1;Destino do Lixo;Enterrado;2.6
+507;Cheia 2018;Area Rural-1;Destino do Lixo;Joagado Ceu Aberto;0
+508;Cheia 2018;Area Rural-1;Destino do Lixo;Outro;0
+509;Seca 2018;Area Rural-1;Destino do Lixo;Queimado;88.6
+510;Seca 2018;Area Rural-1;Destino do Lixo;Coletado Servico de Limpeza;0
+511;Seca 2018;Area Rural-1;Destino do Lixo;Enterrado;9.1
+512;Seca 2018;Area Rural-1;Destino do Lixo;Joagado Ceu Aberto;13.6
+513;Seca 2018;Area Rural-1;Destino do Lixo;Outro;0
+514;Cheia 2019;Area Rural-1;Destino do Lixo;Queimado;100
+515;Cheia 2019;Area Rural-1;Destino do Lixo;Coletado Servico de Limpeza;0
+516;Cheia 2019;Area Rural-1;Destino do Lixo;Enterrado;0
+517;Cheia 2019;Area Rural-1;Destino do Lixo;Joagado Ceu Aberto;2.9
+518;Cheia 2019;Area Rural-1;Destino do Lixo;Outro;0
+519;Seca 2019;Area Rural-1;Destino do Lixo;Queimado;97.8
+520;Seca 2019;Area Rural-1;Destino do Lixo;Coletado Servico de Limpeza;0
+521;Seca 2019;Area Rural-1;Destino do Lixo;Enterrado;2.2
+522;Seca 2019;Area Rural-1;Destino do Lixo;Joagado Ceu Aberto;0
+523;Seca 2019;Area Rural-1;Destino do Lixo;Outro;0
+524;Seca 2020;Area Rural-1;Destino do Lixo;Queimado;91.9
+525;Seca 2020;Area Rural-1;Destino do Lixo;Coletado Servico de Limpeza;0
+526;Seca 2020;Area Rural-1;Destino do Lixo;Enterrado;2.7
+527;Seca 2020;Area Rural-1;Destino do Lixo;Joagado Ceu Aberto;0
+528;Seca 2020;Area Rural-1;Destino do Lixo;Outro;0
+529;Seca 2012;Area Rural-2;Destino do Lixo;Queimado;91.3
+530;Seca 2012;Area Rural-2;Destino do Lixo;Coletado Servico de Limpeza;0
+531;Seca 2012;Area Rural-2;Destino do Lixo;Enterrado;4.3
+532;Seca 2012;Area Rural-2;Destino do Lixo;Joagado Ceu Aberto;4.3
+533;Seca 2012;Area Rural-2;Destino do Lixo;Outro;0
+534;Cheia 2013;Area Rural-2;Destino do Lixo;Queimado;82.1
+535;Cheia 2013;Area Rural-2;Destino do Lixo;Coletado Servico de Limpeza;3.6
+536;Cheia 2013;Area Rural-2;Destino do Lixo;Enterrado;14.3
+537;Cheia 2013;Area Rural-2;Destino do Lixo;Joagado Ceu Aberto;14.3
+538;Cheia 2013;Area Rural-2;Destino do Lixo;Outro;0
+539;Seca 2013;Area Rural-2;Destino do Lixo;Queimado;78.3
+540;Seca 2013;Area Rural-2;Destino do Lixo;Coletado Servico de Limpeza;2.2
+541;Seca 2013;Area Rural-2;Destino do Lixo;Enterrado;26.1
+542;Seca 2013;Area Rural-2;Destino do Lixo;Joagado Ceu Aberto;8.7
+543;Seca 2013;Area Rural-2;Destino do Lixo;Outro;0
+544;Cheia 2014;Area Rural-2;Destino do Lixo;Queimado;83.3
+545;Cheia 2014;Area Rural-2;Destino do Lixo;Coletado Servico de Limpeza;5.6
+546;Cheia 2014;Area Rural-2;Destino do Lixo;Enterrado;11.1
+547;Cheia 2014;Area Rural-2;Destino do Lixo;Joagado Ceu Aberto;13.9
+548;Cheia 2014;Area Rural-2;Destino do Lixo;Outro;0
+549;Seca 2014;Area Rural-2;Destino do Lixo;Queimado;94
+550;Seca 2014;Area Rural-2;Destino do Lixo;Coletado Servico de Limpeza;0
+551;Seca 2014;Area Rural-2;Destino do Lixo;Enterrado;10
+552;Seca 2014;Area Rural-2;Destino do Lixo;Joagado Ceu Aberto;10
+553;Seca 2014;Area Rural-2;Destino do Lixo;Outro;0
+554;Cheia 2015;Area Rural-2;Destino do Lixo;Queimado;90.7
+555;Cheia 2015;Area Rural-2;Destino do Lixo;Coletado Servico de Limpeza;0
+556;Cheia 2015;Area Rural-2;Destino do Lixo;Enterrado;14
+557;Cheia 2015;Area Rural-2;Destino do Lixo;Joagado Ceu Aberto;9.3
+558;Cheia 2015;Area Rural-2;Destino do Lixo;Outro;0
+559;Seca 2015;Area Rural-2;Destino do Lixo;Queimado;93.2
+560;Seca 2015;Area Rural-2;Destino do Lixo;Coletado Servico de Limpeza;0
+561;Seca 2015;Area Rural-2;Destino do Lixo;Enterrado;9.1
+562;Seca 2015;Area Rural-2;Destino do Lixo;Joagado Ceu Aberto;9.1
+563;Seca 2015;Area Rural-2;Destino do Lixo;Outro;0
+564;Cheia 2016;Area Rural-2;Destino do Lixo;Queimado;97.9
+565;Cheia 2016;Area Rural-2;Destino do Lixo;Coletado Servico de Limpeza;0
+566;Cheia 2016;Area Rural-2;Destino do Lixo;Enterrado;4.3
+567;Cheia 2016;Area Rural-2;Destino do Lixo;Joagado Ceu Aberto;6.4
+568;Cheia 2016;Area Rural-2;Destino do Lixo;Outro;0
+569;Seca 2016;Area Rural-2;Destino do Lixo;Queimado;96.8
+570;Seca 2016;Area Rural-2;Destino do Lixo;Coletado Servico de Limpeza;0
+571;Seca 2016;Area Rural-2;Destino do Lixo;Enterrado;6.5
+572;Seca 2016;Area Rural-2;Destino do Lixo;Joagado Ceu Aberto;3.2
+573;Seca 2016;Area Rural-2;Destino do Lixo;Outro;0
+574;Cheia 2017;Area Rural-2;Destino do Lixo;Queimado;97.8
+575;Cheia 2017;Area Rural-2;Destino do Lixo;Coletado Servico de Limpeza;0
+576;Cheia 2017;Area Rural-2;Destino do Lixo;Enterrado;2.2
+577;Cheia 2017;Area Rural-2;Destino do Lixo;Joagado Ceu Aberto;4.4
+578;Cheia 2017;Area Rural-2;Destino do Lixo;Outro;0
+579;Seca 2017;Area Rural-2;Destino do Lixo;Queimado;95.7
+580;Seca 2017;Area Rural-2;Destino do Lixo;Coletado Servico de Limpeza;0
+581;Seca 2017;Area Rural-2;Destino do Lixo;Enterrado;2.1
+582;Seca 2017;Area Rural-2;Destino do Lixo;Joagado Ceu Aberto;4.3
+583;Seca 2017;Area Rural-2;Destino do Lixo;Outro;0
+584;Cheia 2018;Area Rural-2;Destino do Lixo;Queimado;100
+585;Cheia 2018;Area Rural-2;Destino do Lixo;Coletado Servico de Limpeza;0
+586;Cheia 2018;Area Rural-2;Destino do Lixo;Enterrado;2.3
+587;Cheia 2018;Area Rural-2;Destino do Lixo;Joagado Ceu Aberto;2.3
+588;Cheia 2018;Area Rural-2;Destino do Lixo;Outro;0
+589;Seca 2018;Area Rural-2;Destino do Lixo;Queimado;97.6
+590;Seca 2018;Area Rural-2;Destino do Lixo;Coletado Servico de Limpeza;0
+591;Seca 2018;Area Rural-2;Destino do Lixo;Enterrado;4.9
+592;Seca 2018;Area Rural-2;Destino do Lixo;Joagado Ceu Aberto;2.4
+593;Seca 2018;Area Rural-2;Destino do Lixo;Outro;0
+594;Cheia 2019;Area Rural-2;Destino do Lixo;Queimado;100
+595;Cheia 2019;Area Rural-2;Destino do Lixo;Coletado Servico de Limpeza;0
+596;Cheia 2019;Area Rural-2;Destino do Lixo;Enterrado;5.7
+597;Cheia 2019;Area Rural-2;Destino do Lixo;Joagado Ceu Aberto;5.7
+598;Cheia 2019;Area Rural-2;Destino do Lixo;Outro;0
+599;Seca 2019;Area Rural-2;Destino do Lixo;Queimado;96.3
+600;Seca 2019;Area Rural-2;Destino do Lixo;Coletado Servico de Limpeza;0
+601;Seca 2019;Area Rural-2;Destino do Lixo;Enterrado;1.9
+602;Seca 2019;Area Rural-2;Destino do Lixo;Joagado Ceu Aberto;11.1
+603;Seca 2019;Area Rural-2;Destino do Lixo;Outro;0
+604;Seca 2020;Area Rural-2;Destino do Lixo;Queimado;87.8
+605;Seca 2020;Area Rural-2;Destino do Lixo;Coletado Servico de Limpeza;0
+606;Seca 2020;Area Rural-2;Destino do Lixo;Enterrado;2
+607;Seca 2020;Area Rural-2;Destino do Lixo;Joagado Ceu Aberto;0
+608;Seca 2020;Area Rural-2;Destino do Lixo;Outro;0
+609;Seca 2012;Area Urbana-1;Destino do Lixo;Queimado;92.6
+610;Seca 2012;Area Urbana-1;Destino do Lixo;Coletado Servico de Limpeza;3.7
+611;Seca 2012;Area Urbana-1;Destino do Lixo;Enterrado;3.7
+612;Seca 2012;Area Urbana-1;Destino do Lixo;Joagado Ceu Aberto;1.9
+613;Seca 2012;Area Urbana-1;Destino do Lixo;Outro;0
+614;Cheia 2013;Area Urbana-1;Destino do Lixo;Queimado;67.3
+615;Cheia 2013;Area Urbana-1;Destino do Lixo;Coletado Servico de Limpeza;18.4
+616;Cheia 2013;Area Urbana-1;Destino do Lixo;Enterrado;0
+617;Cheia 2013;Area Urbana-1;Destino do Lixo;Joagado Ceu Aberto;14.3
+618;Cheia 2013;Area Urbana-1;Destino do Lixo;Outro;4.1
+619;Seca 2013;Area Urbana-1;Destino do Lixo;Queimado;78.3
+620;Seca 2013;Area Urbana-1;Destino do Lixo;Coletado Servico de Limpeza;8.7
+621;Seca 2013;Area Urbana-1;Destino do Lixo;Enterrado;2.2
+622;Seca 2013;Area Urbana-1;Destino do Lixo;Joagado Ceu Aberto;10.9
+623;Seca 2013;Area Urbana-1;Destino do Lixo;Outro;2.2
+624;Cheia 2014;Area Urbana-1;Destino do Lixo;Queimado;82.2
+625;Cheia 2014;Area Urbana-1;Destino do Lixo;Coletado Servico de Limpeza;11.1
+626;Cheia 2014;Area Urbana-1;Destino do Lixo;Enterrado;2.2
+627;Cheia 2014;Area Urbana-1;Destino do Lixo;Joagado Ceu Aberto;2.2
+628;Cheia 2014;Area Urbana-1;Destino do Lixo;Outro;6.7
+629;Seca 2014;Area Urbana-1;Destino do Lixo;Queimado;56.1
+630;Seca 2014;Area Urbana-1;Destino do Lixo;Coletado Servico de Limpeza;43.9
+631;Seca 2014;Area Urbana-1;Destino do Lixo;Enterrado;0
+632;Seca 2014;Area Urbana-1;Destino do Lixo;Joagado Ceu Aberto;4.9
+633;Seca 2014;Area Urbana-1;Destino do Lixo;Outro;4.9
+634;Cheia 2015;Area Urbana-1;Destino do Lixo;Queimado;54.3
+635;Cheia 2015;Area Urbana-1;Destino do Lixo;Coletado Servico de Limpeza;51.4
+636;Cheia 2015;Area Urbana-1;Destino do Lixo;Enterrado;5.7
+637;Cheia 2015;Area Urbana-1;Destino do Lixo;Joagado Ceu Aberto;0
+638;Cheia 2015;Area Urbana-1;Destino do Lixo;Outro;5.7
+639;Seca 2015;Area Urbana-1;Destino do Lixo;Queimado;70.5
+640;Seca 2015;Area Urbana-1;Destino do Lixo;Coletado Servico de Limpeza;25
+641;Seca 2015;Area Urbana-1;Destino do Lixo;Enterrado;2.3
+642;Seca 2015;Area Urbana-1;Destino do Lixo;Joagado Ceu Aberto;2.3
+643;Seca 2015;Area Urbana-1;Destino do Lixo;Outro;6.8
+644;Cheia 2016;Area Urbana-1;Destino do Lixo;Queimado;93.6
+645;Cheia 2016;Area Urbana-1;Destino do Lixo;Coletado Servico de Limpeza;4.3
+646;Cheia 2016;Area Urbana-1;Destino do Lixo;Enterrado;2.1
+647;Cheia 2016;Area Urbana-1;Destino do Lixo;Joagado Ceu Aberto;0
+648;Cheia 2016;Area Urbana-1;Destino do Lixo;Outro;4.3
+649;Seca 2016;Area Urbana-1;Destino do Lixo;Queimado;93.2
+650;Seca 2016;Area Urbana-1;Destino do Lixo;Coletado Servico de Limpeza;3.4
+651;Seca 2016;Area Urbana-1;Destino do Lixo;Enterrado;1.7
+652;Seca 2016;Area Urbana-1;Destino do Lixo;Joagado Ceu Aberto;3.4
+653;Seca 2016;Area Urbana-1;Destino do Lixo;Outro;0
+654;Cheia 2017;Area Urbana-1;Destino do Lixo;Queimado;88.9
+655;Cheia 2017;Area Urbana-1;Destino do Lixo;Coletado Servico de Limpeza;3.7
+656;Cheia 2017;Area Urbana-1;Destino do Lixo;Enterrado;7.4
+657;Cheia 2017;Area Urbana-1;Destino do Lixo;Joagado Ceu Aberto;3.7
+658;Cheia 2017;Area Urbana-1;Destino do Lixo;Outro;3.7
+659;Seca 2017;Area Urbana-1;Destino do Lixo;Queimado;91.1
+660;Seca 2017;Area Urbana-1;Destino do Lixo;Coletado Servico de Limpeza;7.1
+661;Seca 2017;Area Urbana-1;Destino do Lixo;Enterrado;1.8
+662;Seca 2017;Area Urbana-1;Destino do Lixo;Joagado Ceu Aberto;3.6
+663;Seca 2017;Area Urbana-1;Destino do Lixo;Outro;0
+664;Cheia 2018;Area Urbana-1;Destino do Lixo;Queimado;92.7
+665;Cheia 2018;Area Urbana-1;Destino do Lixo;Coletado Servico de Limpeza;5.5
+666;Cheia 2018;Area Urbana-1;Destino do Lixo;Enterrado;1.8
+667;Cheia 2018;Area Urbana-1;Destino do Lixo;Joagado Ceu Aberto;1.8
+668;Cheia 2018;Area Urbana-1;Destino do Lixo;Outro;0
+669;Seca 2018;Area Urbana-1;Destino do Lixo;Queimado;72.7
+670;Seca 2018;Area Urbana-1;Destino do Lixo;Coletado Servico de Limpeza;20
+671;Seca 2018;Area Urbana-1;Destino do Lixo;Enterrado;0
+672;Seca 2018;Area Urbana-1;Destino do Lixo;Joagado Ceu Aberto;7.3
+673;Seca 2018;Area Urbana-1;Destino do Lixo;Outro;0
+674;Cheia 2019;Area Urbana-1;Destino do Lixo;Queimado;84.7
+675;Cheia 2019;Area Urbana-1;Destino do Lixo;Coletado Servico de Limpeza;22
+676;Cheia 2019;Area Urbana-1;Destino do Lixo;Enterrado;1.7
+677;Cheia 2019;Area Urbana-1;Destino do Lixo;Joagado Ceu Aberto;3.4
+678;Cheia 2019;Area Urbana-1;Destino do Lixo;Outro;0
+679;Seca 2019;Area Urbana-1;Destino do Lixo;Queimado;80.3
+680;Seca 2019;Area Urbana-1;Destino do Lixo;Coletado Servico de Limpeza;21.3
+681;Seca 2019;Area Urbana-1;Destino do Lixo;Enterrado;0
+682;Seca 2019;Area Urbana-1;Destino do Lixo;Joagado Ceu Aberto;0
+683;Seca 2019;Area Urbana-1;Destino do Lixo;Outro;0
+684;Seca 2020;Area Urbana-1;Destino do Lixo;Queimado;88.5
+685;Seca 2020;Area Urbana-1;Destino do Lixo;Coletado Servico de Limpeza;18
+686;Seca 2020;Area Urbana-1;Destino do Lixo;Enterrado;0
+687;Seca 2020;Area Urbana-1;Destino do Lixo;Joagado Ceu Aberto;0
+688;Seca 2020;Area Urbana-1;Destino do Lixo;Outro;0
+689;Seca 2012;Area Urbana-2;Destino do Lixo;Queimado;31.1
+690;Seca 2012;Area Urbana-2;Destino do Lixo;Coletado Servico de Limpeza;57.8
+691;Seca 2012;Area Urbana-2;Destino do Lixo;Enterrado;0
+692;Seca 2012;Area Urbana-2;Destino do Lixo;Joagado Ceu Aberto;11.1
+693;Seca 2012;Area Urbana-2;Destino do Lixo;Outro;0
+694;Cheia 2013;Area Urbana-2;Destino do Lixo;Queimado;28.8
+695;Cheia 2013;Area Urbana-2;Destino do Lixo;Coletado Servico de Limpeza;78.1
+696;Cheia 2013;Area Urbana-2;Destino do Lixo;Enterrado;2.7
+697;Cheia 2013;Area Urbana-2;Destino do Lixo;Joagado Ceu Aberto;0
+698;Cheia 2013;Area Urbana-2;Destino do Lixo;Outro;0
+699;Seca 2013;Area Urbana-2;Destino do Lixo;Queimado;10.4
+700;Seca 2013;Area Urbana-2;Destino do Lixo;Coletado Servico de Limpeza;92.5
+701;Seca 2013;Area Urbana-2;Destino do Lixo;Enterrado;0
+702;Seca 2013;Area Urbana-2;Destino do Lixo;Joagado Ceu Aberto;1.5
+703;Seca 2013;Area Urbana-2;Destino do Lixo;Outro;0
+704;Cheia 2014;Area Urbana-2;Destino do Lixo;Queimado;12.5
+705;Cheia 2014;Area Urbana-2;Destino do Lixo;Coletado Servico de Limpeza;90.3
+706;Cheia 2014;Area Urbana-2;Destino do Lixo;Enterrado;0
+707;Cheia 2014;Area Urbana-2;Destino do Lixo;Joagado Ceu Aberto;0
+708;Cheia 2014;Area Urbana-2;Destino do Lixo;Outro;0
+709;Seca 2014;Area Urbana-2;Destino do Lixo;Queimado;21.4
+710;Seca 2014;Area Urbana-2;Destino do Lixo;Coletado Servico de Limpeza;78.6
+711;Seca 2014;Area Urbana-2;Destino do Lixo;Enterrado;0
+712;Seca 2014;Area Urbana-2;Destino do Lixo;Joagado Ceu Aberto;1.4
+713;Seca 2014;Area Urbana-2;Destino do Lixo;Outro;0
+714;Cheia 2015;Area Urbana-2;Destino do Lixo;Queimado;18.9
+715;Cheia 2015;Area Urbana-2;Destino do Lixo;Coletado Servico de Limpeza;81.1
+716;Cheia 2015;Area Urbana-2;Destino do Lixo;Enterrado;1.4
+717;Cheia 2015;Area Urbana-2;Destino do Lixo;Joagado Ceu Aberto;1.4
+718;Cheia 2015;Area Urbana-2;Destino do Lixo;Outro;4.1
+719;Seca 2015;Area Urbana-2;Destino do Lixo;Queimado;12
+720;Seca 2015;Area Urbana-2;Destino do Lixo;Coletado Servico de Limpeza;90.7
+721;Seca 2015;Area Urbana-2;Destino do Lixo;Enterrado;0
+722;Seca 2015;Area Urbana-2;Destino do Lixo;Joagado Ceu Aberto;0
+723;Seca 2015;Area Urbana-2;Destino do Lixo;Outro;0
+724;Cheia 2016;Area Urbana-2;Destino do Lixo;Queimado;9.3
+725;Cheia 2016;Area Urbana-2;Destino do Lixo;Coletado Servico de Limpeza;93.3
+726;Cheia 2016;Area Urbana-2;Destino do Lixo;Enterrado;0
+727;Cheia 2016;Area Urbana-2;Destino do Lixo;Joagado Ceu Aberto;0
+728;Cheia 2016;Area Urbana-2;Destino do Lixo;Outro;0
+729;Seca 2016;Area Urbana-2;Destino do Lixo;Queimado;20
+730;Seca 2016;Area Urbana-2;Destino do Lixo;Coletado Servico de Limpeza;83.1
+731;Seca 2016;Area Urbana-2;Destino do Lixo;Enterrado;1.5
+732;Seca 2016;Area Urbana-2;Destino do Lixo;Joagado Ceu Aberto;4.6
+733;Seca 2016;Area Urbana-2;Destino do Lixo;Outro;0
+734;Cheia 2017;Area Urbana-2;Destino do Lixo;Queimado;29.2
+735;Cheia 2017;Area Urbana-2;Destino do Lixo;Coletado Servico de Limpeza;80
+736;Cheia 2017;Area Urbana-2;Destino do Lixo;Enterrado;0
+737;Cheia 2017;Area Urbana-2;Destino do Lixo;Joagado Ceu Aberto;0
+738;Cheia 2017;Area Urbana-2;Destino do Lixo;Outro;0
+739;Seca 2017;Area Urbana-2;Destino do Lixo;Queimado;24.6
+740;Seca 2017;Area Urbana-2;Destino do Lixo;Coletado Servico de Limpeza;80
+741;Seca 2017;Area Urbana-2;Destino do Lixo;Enterrado;0
+742;Seca 2017;Area Urbana-2;Destino do Lixo;Joagado Ceu Aberto;0
+743;Seca 2017;Area Urbana-2;Destino do Lixo;Outro;0
+744;Cheia 2018;Area Urbana-2;Destino do Lixo;Queimado;20
+745;Cheia 2018;Area Urbana-2;Destino do Lixo;Coletado Servico de Limpeza;86.2
+746;Cheia 2018;Area Urbana-2;Destino do Lixo;Enterrado;0
+747;Cheia 2018;Area Urbana-2;Destino do Lixo;Joagado Ceu Aberto;0
+748;Cheia 2018;Area Urbana-2;Destino do Lixo;Outro;0
+749;Seca 2018;Area Urbana-2;Destino do Lixo;Queimado;4.5
+750;Seca 2018;Area Urbana-2;Destino do Lixo;Coletado Servico de Limpeza;98.5
+751;Seca 2018;Area Urbana-2;Destino do Lixo;Enterrado;0
+752;Seca 2018;Area Urbana-2;Destino do Lixo;Joagado Ceu Aberto;0
+753;Seca 2018;Area Urbana-2;Destino do Lixo;Outro;0
+754;Cheia 2019;Area Urbana-2;Destino do Lixo;Queimado;14.9
+755;Cheia 2019;Area Urbana-2;Destino do Lixo;Coletado Servico de Limpeza;91
+756;Cheia 2019;Area Urbana-2;Destino do Lixo;Enterrado;0
+757;Cheia 2019;Area Urbana-2;Destino do Lixo;Joagado Ceu Aberto;0
+758;Cheia 2019;Area Urbana-2;Destino do Lixo;Outro;0
+759;Seca 2019;Area Urbana-2;Destino do Lixo;Queimado;35.9
+760;Seca 2019;Area Urbana-2;Destino do Lixo;Coletado Servico de Limpeza;69.2
+761;Seca 2019;Area Urbana-2;Destino do Lixo;Enterrado;0
+762;Seca 2019;Area Urbana-2;Destino do Lixo;Joagado Ceu Aberto;0
+763;Seca 2019;Area Urbana-2;Destino do Lixo;Outro;0
+764;Seca 2020;Area Urbana-2;Destino do Lixo;Queimado;25.5
+765;Seca 2020;Area Urbana-2;Destino do Lixo;Coletado Servico de Limpeza;78.2
+766;Seca 2020;Area Urbana-2;Destino do Lixo;Enterrado;0
+767;Seca 2020;Area Urbana-2;Destino do Lixo;Joagado Ceu Aberto;0
+768;Seca 2020;Area Urbana-2;Destino do Lixo;Outro;0
+769;Seca 2012;Area Rural-1;Atividade Economica Principal;Agricultura / Agropecuaria;55
+770;Cheia 2013;Area Rural-1;Atividade Economica Principal;Agricultura / Agropecuaria;51
+771;Seca 2013;Area Rural-1;Atividade Economica Principal;Agricultura / Agropecuaria;52.4
+772;Cheia 2014;Area Rural-1;Atividade Economica Principal;Agricultura / Agropecuaria;55.1
+773;Seca 2014;Area Rural-1;Atividade Economica Principal;Agricultura / Agropecuaria;66.7
+774;Cheia 2015;Area Rural-1;Atividade Economica Principal;Agricultura / Agropecuaria;81
+775;Seca 2015;Area Rural-1;Atividade Economica Principal;Agricultura / Agropecuaria;76.3
+776;Cheia 2016;Area Rural-1;Atividade Economica Principal;Agricultura / Agropecuaria;65.7
+777;Seca 2016;Area Rural-1;Atividade Economica Principal;Agricultura / Agropecuaria;46.7
+778;Cheia 2017;Area Rural-1;Atividade Economica Principal;Agricultura / Agropecuaria;58.3
+779;Seca 2017;Area Rural-1;Atividade Economica Principal;Agricultura / Agropecuaria;68.6
+780;Cheia 2018;Area Rural-1;Atividade Economica Principal;Agricultura / Agropecuaria;55.3
+781;Seca 2018;Area Rural-1;Atividade Economica Principal;Agricultura / Agropecuaria;65.9
+782;Cheia 2019;Area Rural-1;Atividade Economica Principal;Agricultura / Agropecuaria;57.1
+783;Seca 2019;Area Rural-1;Atividade Economica Principal;Agricultura / Agropecuaria;54.3
+784;Seca 2020;Area Rural-1;Atividade Economica Principal;Agricultura / Agropecuaria;67.6
+785;Seca 2012;Area Rural-1;Atividade Economica Principal;Pesca;25
+786;Cheia 2013;Area Rural-1;Atividade Economica Principal;Pesca;11.8
+787;Seca 2013;Area Rural-1;Atividade Economica Principal;Pesca;11.9
+788;Cheia 2014;Area Rural-1;Atividade Economica Principal;Pesca;10.2
+789;Seca 2014;Area Rural-1;Atividade Economica Principal;Pesca;7.7
+790;Cheia 2015;Area Rural-1;Atividade Economica Principal;Pesca;4.8
+791;Seca 2015;Area Rural-1;Atividade Economica Principal;Pesca;7.9
+792;Cheia 2016;Area Rural-1;Atividade Economica Principal;Pesca;0
+793;Seca 2016;Area Rural-1;Atividade Economica Principal;Pesca;8.9
+794;Cheia 2017;Area Rural-1;Atividade Economica Principal;Pesca;11.1
+795;Seca 2017;Area Rural-1;Atividade Economica Principal;Pesca;5.7
+796;Cheia 2018;Area Rural-1;Atividade Economica Principal;Pesca;13.2
+797;Seca 2018;Area Rural-1;Atividade Economica Principal;Pesca;6.8
+798;Cheia 2019;Area Rural-1;Atividade Economica Principal;Pesca;11.4
+799;Seca 2019;Area Rural-1;Atividade Economica Principal;Pesca;13
+800;Seca 2020;Area Rural-1;Atividade Economica Principal;Pesca;2.7
+801;Seca 2012;Area Rural-1;Atividade Economica Principal;Funcionalismo Publico;0
+802;Cheia 2013;Area Rural-1;Atividade Economica Principal;Funcionalismo Publico;2
+803;Seca 2013;Area Rural-1;Atividade Economica Principal;Funcionalismo Publico;14.3
+804;Cheia 2014;Area Rural-1;Atividade Economica Principal;Funcionalismo Publico;10.2
+805;Seca 2014;Area Rural-1;Atividade Economica Principal;Funcionalismo Publico;5.1
+806;Cheia 2015;Area Rural-1;Atividade Economica Principal;Funcionalismo Publico;2.4
+807;Seca 2015;Area Rural-1;Atividade Economica Principal;Funcionalismo Publico;2.6
+808;Cheia 2016;Area Rural-1;Atividade Economica Principal;Funcionalismo Publico;14.3
+809;Seca 2016;Area Rural-1;Atividade Economica Principal;Funcionalismo Publico;2.2
+810;Cheia 2017;Area Rural-1;Atividade Economica Principal;Funcionalismo Publico;0
+811;Seca 2017;Area Rural-1;Atividade Economica Principal;Funcionalismo Publico;0
+812;Cheia 2018;Area Rural-1;Atividade Economica Principal;Funcionalismo Publico;0
+813;Seca 2018;Area Rural-1;Atividade Economica Principal;Funcionalismo Publico;4.5
+814;Cheia 2019;Area Rural-1;Atividade Economica Principal;Funcionalismo Publico;2.9
+815;Seca 2019;Area Rural-1;Atividade Economica Principal;Funcionalismo Publico;2.2
+816;Seca 2020;Area Rural-1;Atividade Economica Principal;Funcionalismo Publico;0
+817;Seca 2012;Area Rural-1;Atividade Economica Principal;Piloto de Embarcacao;0
+818;Cheia 2013;Area Rural-1;Atividade Economica Principal;Piloto de Embarcacao;0
+819;Seca 2013;Area Rural-1;Atividade Economica Principal;Piloto de Embarcacao;0
+820;Cheia 2014;Area Rural-1;Atividade Economica Principal;Piloto de Embarcacao;2
+821;Seca 2014;Area Rural-1;Atividade Economica Principal;Piloto de Embarcacao;2.6
+822;Cheia 2015;Area Rural-1;Atividade Economica Principal;Piloto de Embarcacao;0
+823;Seca 2015;Area Rural-1;Atividade Economica Principal;Piloto de Embarcacao;2.6
+824;Cheia 2016;Area Rural-1;Atividade Economica Principal;Piloto de Embarcacao;2.9
+825;Seca 2016;Area Rural-1;Atividade Economica Principal;Piloto de Embarcacao;11.1
+826;Cheia 2017;Area Rural-1;Atividade Economica Principal;Piloto de Embarcacao;8.3
+827;Seca 2017;Area Rural-1;Atividade Economica Principal;Piloto de Embarcacao;11.4
+828;Cheia 2018;Area Rural-1;Atividade Economica Principal;Piloto de Embarcacao;13.2
+829;Seca 2018;Area Rural-1;Atividade Economica Principal;Piloto de Embarcacao;9.1
+830;Cheia 2019;Area Rural-1;Atividade Economica Principal;Piloto de Embarcacao;14.3
+831;Seca 2019;Area Rural-1;Atividade Economica Principal;Piloto de Embarcacao;6.5
+832;Seca 2020;Area Rural-1;Atividade Economica Principal;Piloto de Embarcacao;0
+833;Seca 2012;Area Rural-1;Atividade Economica Principal;Outro;10
+834;Cheia 2013;Area Rural-1;Atividade Economica Principal;Outro;23.5
+835;Seca 2013;Area Rural-1;Atividade Economica Principal;Outro;14.3
+836;Cheia 2014;Area Rural-1;Atividade Economica Principal;Outro;8.2
+837;Seca 2014;Area Rural-1;Atividade Economica Principal;Outro;10.3
+838;Cheia 2015;Area Rural-1;Atividade Economica Principal;Outro;0
+839;Seca 2015;Area Rural-1;Atividade Economica Principal;Outro;5.3
+840;Cheia 2016;Area Rural-1;Atividade Economica Principal;Outro;0
+841;Seca 2016;Area Rural-1;Atividade Economica Principal;Outro;8.9
+842;Cheia 2017;Area Rural-1;Atividade Economica Principal;Outro;2.8
+843;Seca 2017;Area Rural-1;Atividade Economica Principal;Outro;2.9
+844;Cheia 2018;Area Rural-1;Atividade Economica Principal;Outro;2.6
+845;Seca 2018;Area Rural-1;Atividade Economica Principal;Outro;2.3
+846;Cheia 2019;Area Rural-1;Atividade Economica Principal;Outro;5.7
+847;Seca 2019;Area Rural-1;Atividade Economica Principal;Outro;4.3
+848;Seca 2020;Area Rural-1;Atividade Economica Principal;Outro;5.4
+849;Seca 2012;Area Rural-2;Atividade Economica Principal;Agricultura / Agropecuaria;78.3
+850;Cheia 2013;Area Rural-2;Atividade Economica Principal;Agricultura / Agropecuaria;71.4
+851;Seca 2013;Area Rural-2;Atividade Economica Principal;Agricultura / Agropecuaria;73.9
+852;Cheia 2014;Area Rural-2;Atividade Economica Principal;Agricultura / Agropecuaria;66.7
+853;Seca 2014;Area Rural-2;Atividade Economica Principal;Agricultura / Agropecuaria;56
+854;Cheia 2015;Area Rural-2;Atividade Economica Principal;Agricultura / Agropecuaria;79.1
+855;Seca 2015;Area Rural-2;Atividade Economica Principal;Agricultura / Agropecuaria;84.1
+856;Cheia 2016;Area Rural-2;Atividade Economica Principal;Agricultura / Agropecuaria;83
+857;Seca 2016;Area Rural-2;Atividade Economica Principal;Agricultura / Agropecuaria;67.7
+858;Cheia 2017;Area Rural-2;Atividade Economica Principal;Agricultura / Agropecuaria;80
+859;Seca 2017;Area Rural-2;Atividade Economica Principal;Agricultura / Agropecuaria;78.7
+860;Cheia 2018;Area Rural-2;Atividade Economica Principal;Agricultura / Agropecuaria;79.1
+861;Seca 2018;Area Rural-2;Atividade Economica Principal;Agricultura / Agropecuaria;87.8
+862;Cheia 2019;Area Rural-2;Atividade Economica Principal;Agricultura / Agropecuaria;71.4
+863;Seca 2019;Area Rural-2;Atividade Economica Principal;Agricultura / Agropecuaria;63
+864;Seca 2020;Area Rural-2;Atividade Economica Principal;Agricultura / Agropecuaria;49
+865;Seca 2012;Area Rural-2;Atividade Economica Principal;Pesca;4.3
+866;Cheia 2013;Area Rural-2;Atividade Economica Principal;Pesca;14.3
+867;Seca 2013;Area Rural-2;Atividade Economica Principal;Pesca;8.7
+868;Cheia 2014;Area Rural-2;Atividade Economica Principal;Pesca;11.1
+869;Seca 2014;Area Rural-2;Atividade Economica Principal;Pesca;16
+870;Cheia 2015;Area Rural-2;Atividade Economica Principal;Pesca;2.3
+871;Seca 2015;Area Rural-2;Atividade Economica Principal;Pesca;2.3
+872;Cheia 2016;Area Rural-2;Atividade Economica Principal;Pesca;0
+873;Seca 2016;Area Rural-2;Atividade Economica Principal;Pesca;0
+874;Cheia 2017;Area Rural-2;Atividade Economica Principal;Pesca;6.7
+875;Seca 2017;Area Rural-2;Atividade Economica Principal;Pesca;2.1
+876;Cheia 2018;Area Rural-2;Atividade Economica Principal;Pesca;2.3
+877;Seca 2018;Area Rural-2;Atividade Economica Principal;Pesca;0
+878;Cheia 2019;Area Rural-2;Atividade Economica Principal;Pesca;0
+879;Seca 2019;Area Rural-2;Atividade Economica Principal;Pesca;5.6
+880;Seca 2020;Area Rural-2;Atividade Economica Principal;Pesca;4.1
+881;Seca 2012;Area Rural-2;Atividade Economica Principal;Aposentado / Pensionista;8.7
+882;Cheia 2013;Area Rural-2;Atividade Economica Principal;Aposentado / Pensionista;7.1
+883;Seca 2013;Area Rural-2;Atividade Economica Principal;Aposentado / Pensionista;8.7
+884;Cheia 2014;Area Rural-2;Atividade Economica Principal;Aposentado / Pensionista;5.6
+885;Seca 2014;Area Rural-2;Atividade Economica Principal;Aposentado / Pensionista;18
+886;Cheia 2015;Area Rural-2;Atividade Economica Principal;Aposentado / Pensionista;9.3
+887;Seca 2015;Area Rural-2;Atividade Economica Principal;Aposentado / Pensionista;6.8
+888;Cheia 2016;Area Rural-2;Atividade Economica Principal;Aposentado / Pensionista;8.5
+889;Seca 2016;Area Rural-2;Atividade Economica Principal;Aposentado / Pensionista;0
+890;Cheia 2017;Area Rural-2;Atividade Economica Principal;Aposentado / Pensionista;0
+891;Seca 2017;Area Rural-2;Atividade Economica Principal;Aposentado / Pensionista;0
+892;Cheia 2018;Area Rural-2;Atividade Economica Principal;Aposentado / Pensionista;0
+893;Seca 2018;Area Rural-2;Atividade Economica Principal;Aposentado / Pensionista;9.8
+894;Cheia 2019;Area Rural-2;Atividade Economica Principal;Aposentado / Pensionista;5.7
+895;Seca 2019;Area Rural-2;Atividade Economica Principal;Aposentado / Pensionista;0
+896;Seca 2020;Area Rural-2;Atividade Economica Principal;Aposentado / Pensionista;0
+897;Seca 2012;Area Rural-2;Atividade Economica Principal;Outro;0
+898;Cheia 2013;Area Rural-2;Atividade Economica Principal;Outro;3.6
+899;Seca 2013;Area Rural-2;Atividade Economica Principal;Outro;0
+900;Cheia 2014;Area Rural-2;Atividade Economica Principal;Outro;5.6
+901;Seca 2014;Area Rural-2;Atividade Economica Principal;Outro;0
+902;Cheia 2015;Area Rural-2;Atividade Economica Principal;Outro;2.3
+903;Seca 2015;Area Rural-2;Atividade Economica Principal;Outro;2.3
+904;Cheia 2016;Area Rural-2;Atividade Economica Principal;Outro;2.1
+905;Seca 2016;Area Rural-2;Atividade Economica Principal;Outro;9.7
+906;Cheia 2017;Area Rural-2;Atividade Economica Principal;Outro;0
+907;Seca 2017;Area Rural-2;Atividade Economica Principal;Outro;14.9
+908;Cheia 2018;Area Rural-2;Atividade Economica Principal;Outro;11.6
+909;Seca 2018;Area Rural-2;Atividade Economica Principal;Outro;0
+910;Cheia 2019;Area Rural-2;Atividade Economica Principal;Outro;2.9
+911;Seca 2019;Area Rural-2;Atividade Economica Principal;Outro;5.6
+912;Seca 2020;Area Rural-2;Atividade Economica Principal;Outro;4.1
+913;Seca 2012;Area Rural-2;Atividade Economica Principal;Nao Trabalha;0
+914;Cheia 2013;Area Rural-2;Atividade Economica Principal;Nao Trabalha;0
+915;Seca 2013;Area Rural-2;Atividade Economica Principal;Nao Trabalha;0
+916;Cheia 2014;Area Rural-2;Atividade Economica Principal;Nao Trabalha;2.8
+917;Seca 2014;Area Rural-2;Atividade Economica Principal;Nao Trabalha;0
+918;Cheia 2015;Area Rural-2;Atividade Economica Principal;Nao Trabalha;0
+919;Seca 2015;Area Rural-2;Atividade Economica Principal;Nao Trabalha;0
+920;Cheia 2016;Area Rural-2;Atividade Economica Principal;Nao Trabalha;0
+921;Seca 2016;Area Rural-2;Atividade Economica Principal;Nao Trabalha;0
+922;Cheia 2017;Area Rural-2;Atividade Economica Principal;Nao Trabalha;0
+923;Seca 2017;Area Rural-2;Atividade Economica Principal;Nao Trabalha;0
+924;Cheia 2018;Area Rural-2;Atividade Economica Principal;Nao Trabalha;0
+925;Seca 2018;Area Rural-2;Atividade Economica Principal;Nao Trabalha;0
+926;Cheia 2019;Area Rural-2;Atividade Economica Principal;Nao Trabalha;11.4
+927;Seca 2019;Area Rural-2;Atividade Economica Principal;Nao Trabalha;16.7
+928;Seca 2020;Area Rural-2;Atividade Economica Principal;Nao Trabalha;36.7
+929;Seca 2012;Area Urbana-1;Atividade Economica Principal;Agricultura / Agropecuaria;14.8
+930;Cheia 2013;Area Urbana-1;Atividade Economica Principal;Agricultura / Agropecuaria;8.2
+931;Seca 2013;Area Urbana-1;Atividade Economica Principal;Agricultura / Agropecuaria;2.2
+932;Cheia 2014;Area Urbana-1;Atividade Economica Principal;Agricultura / Agropecuaria;4.4
+933;Seca 2014;Area Urbana-1;Atividade Economica Principal;Agricultura / Agropecuaria;4.9
+934;Cheia 2015;Area Urbana-1;Atividade Economica Principal;Agricultura / Agropecuaria;0
+935;Seca 2015;Area Urbana-1;Atividade Economica Principal;Agricultura / Agropecuaria;9.1
+936;Cheia 2016;Area Urbana-1;Atividade Economica Principal;Agricultura / Agropecuaria;12.8
+937;Seca 2016;Area Urbana-1;Atividade Economica Principal;Agricultura / Agropecuaria;8.5
+938;Cheia 2017;Area Urbana-1;Atividade Economica Principal;Agricultura / Agropecuaria;14.8
+939;Seca 2017;Area Urbana-1;Atividade Economica Principal;Agricultura / Agropecuaria;21.4
+940;Cheia 2018;Area Urbana-1;Atividade Economica Principal;Agricultura / Agropecuaria;12.7
+941;Seca 2018;Area Urbana-1;Atividade Economica Principal;Agricultura / Agropecuaria;1.8
+942;Cheia 2019;Area Urbana-1;Atividade Economica Principal;Agricultura / Agropecuaria;15.3
+943;Seca 2019;Area Urbana-1;Atividade Economica Principal;Agricultura / Agropecuaria;16.4
+944;Seca 2020;Area Urbana-1;Atividade Economica Principal;Agricultura / Agropecuaria;9.8
+945;Seca 2012;Area Urbana-1;Atividade Economica Principal;Pesca;5.6
+946;Cheia 2013;Area Urbana-1;Atividade Economica Principal;Pesca;12.2
+947;Seca 2013;Area Urbana-1;Atividade Economica Principal;Pesca;10.9
+948;Cheia 2014;Area Urbana-1;Atividade Economica Principal;Pesca;13.3
+949;Seca 2014;Area Urbana-1;Atividade Economica Principal;Pesca;2.4
+950;Cheia 2015;Area Urbana-1;Atividade Economica Principal;Pesca;2.9
+951;Seca 2015;Area Urbana-1;Atividade Economica Principal;Pesca;4.5
+952;Cheia 2016;Area Urbana-1;Atividade Economica Principal;Pesca;14.9
+953;Seca 2016;Area Urbana-1;Atividade Economica Principal;Pesca;1.7
+954;Cheia 2017;Area Urbana-1;Atividade Economica Principal;Pesca;13
+955;Seca 2017;Area Urbana-1;Atividade Economica Principal;Pesca;14.3
+956;Cheia 2018;Area Urbana-1;Atividade Economica Principal;Pesca;29.1
+957;Seca 2018;Area Urbana-1;Atividade Economica Principal;Pesca;10.9
+958;Cheia 2019;Area Urbana-1;Atividade Economica Principal;Pesca;11.9
+959;Seca 2019;Area Urbana-1;Atividade Economica Principal;Pesca;11.5
+960;Seca 2020;Area Urbana-1;Atividade Economica Principal;Pesca;9.8
+961;Seca 2012;Area Urbana-1;Atividade Economica Principal;Funcionalismo Publico;11.1
+962;Cheia 2013;Area Urbana-1;Atividade Economica Principal;Funcionalismo Publico;12.2
+963;Seca 2013;Area Urbana-1;Atividade Economica Principal;Funcionalismo Publico;15.2
+964;Cheia 2014;Area Urbana-1;Atividade Economica Principal;Funcionalismo Publico;24.4
+965;Seca 2014;Area Urbana-1;Atividade Economica Principal;Funcionalismo Publico;24.4
+966;Cheia 2015;Area Urbana-1;Atividade Economica Principal;Funcionalismo Publico;28.6
+967;Seca 2015;Area Urbana-1;Atividade Economica Principal;Funcionalismo Publico;29.5
+968;Cheia 2016;Area Urbana-1;Atividade Economica Principal;Funcionalismo Publico;14.9
+969;Seca 2016;Area Urbana-1;Atividade Economica Principal;Funcionalismo Publico;10.2
+970;Cheia 2017;Area Urbana-1;Atividade Economica Principal;Funcionalismo Publico;0
+971;Seca 2017;Area Urbana-1;Atividade Economica Principal;Funcionalismo Publico;0
+972;Cheia 2018;Area Urbana-1;Atividade Economica Principal;Funcionalismo Publico;0
+973;Seca 2018;Area Urbana-1;Atividade Economica Principal;Funcionalismo Publico;5.5
+974;Cheia 2019;Area Urbana-1;Atividade Economica Principal;Funcionalismo Publico;6.8
+975;Seca 2019;Area Urbana-1;Atividade Economica Principal;Funcionalismo Publico;1.6
+976;Seca 2020;Area Urbana-1;Atividade Economica Principal;Funcionalismo Publico;0
+977;Seca 2012;Area Urbana-1;Atividade Economica Principal;Garimpo;29.6
+978;Cheia 2013;Area Urbana-1;Atividade Economica Principal;Garimpo;36.7
+979;Seca 2013;Area Urbana-1;Atividade Economica Principal;Garimpo;30.4
+980;Cheia 2014;Area Urbana-1;Atividade Economica Principal;Garimpo;13.3
+981;Seca 2014;Area Urbana-1;Atividade Economica Principal;Garimpo;22
+982;Cheia 2015;Area Urbana-1;Atividade Economica Principal;Garimpo;14.3
+983;Seca 2015;Area Urbana-1;Atividade Economica Principal;Garimpo;20.5
+984;Cheia 2016;Area Urbana-1;Atividade Economica Principal;Garimpo;14.9
+985;Seca 2016;Area Urbana-1;Atividade Economica Principal;Garimpo;3.4
+986;Cheia 2017;Area Urbana-1;Atividade Economica Principal;Garimpo;31.5
+987;Seca 2017;Area Urbana-1;Atividade Economica Principal;Garimpo;21.4
+988;Cheia 2018;Area Urbana-1;Atividade Economica Principal;Garimpo;18.2
+989;Seca 2018;Area Urbana-1;Atividade Economica Principal;Garimpo;30.9
+990;Cheia 2019;Area Urbana-1;Atividade Economica Principal;Garimpo;16.9
+991;Seca 2019;Area Urbana-1;Atividade Economica Principal;Garimpo;13.1
+992;Seca 2020;Area Urbana-1;Atividade Economica Principal;Garimpo;6.6
+993;Seca 2012;Area Urbana-1;Atividade Economica Principal;Outro;7.4
+994;Cheia 2013;Area Urbana-1;Atividade Economica Principal;Outro;0
+995;Seca 2013;Area Urbana-1;Atividade Economica Principal;Outro;8.7
+996;Cheia 2014;Area Urbana-1;Atividade Economica Principal;Outro;6.7
+997;Seca 2014;Area Urbana-1;Atividade Economica Principal;Outro;2.4
+998;Cheia 2015;Area Urbana-1;Atividade Economica Principal;Outro;2.9
+999;Seca 2015;Area Urbana-1;Atividade Economica Principal;Outro;6.8
+1000;Cheia 2016;Area Urbana-1;Atividade Economica Principal;Outro;10.6
+1001;Seca 2016;Area Urbana-1;Atividade Economica Principal;Outro;18.6
+1002;Cheia 2017;Area Urbana-1;Atividade Economica Principal;Outro;22.2
+1003;Seca 2017;Area Urbana-1;Atividade Economica Principal;Outro;16.1
+1004;Cheia 2018;Area Urbana-1;Atividade Economica Principal;Outro;12.7
+1005;Seca 2018;Area Urbana-1;Atividade Economica Principal;Outro;18.2
+1006;Cheia 2019;Area Urbana-1;Atividade Economica Principal;Outro;18.6
+1007;Seca 2019;Area Urbana-1;Atividade Economica Principal;Outro;23
+1008;Seca 2020;Area Urbana-1;Atividade Economica Principal;Outro;31.1
+1009;Seca 2012;Area Urbana-2;Atividade Economica Principal;Agricultura / Agropecuaria;0
+1010;Cheia 2013;Area Urbana-2;Atividade Economica Principal;Agricultura / Agropecuaria;9.6
+1011;Seca 2013;Area Urbana-2;Atividade Economica Principal;Agricultura / Agropecuaria;3
+1012;Cheia 2014;Area Urbana-2;Atividade Economica Principal;Agricultura / Agropecuaria;11.1
+1013;Seca 2014;Area Urbana-2;Atividade Economica Principal;Agricultura / Agropecuaria;1.4
+1014;Cheia 2015;Area Urbana-2;Atividade Economica Principal;Agricultura / Agropecuaria;0
+1015;Seca 2015;Area Urbana-2;Atividade Economica Principal;Agricultura / Agropecuaria;6.7
+1016;Cheia 2016;Area Urbana-2;Atividade Economica Principal;Agricultura / Agropecuaria;4
+1017;Seca 2016;Area Urbana-2;Atividade Economica Principal;Agricultura / Agropecuaria;4.6
+1018;Cheia 2017;Area Urbana-2;Atividade Economica Principal;Agricultura / Agropecuaria;12.3
+1019;Seca 2017;Area Urbana-2;Atividade Economica Principal;Agricultura / Agropecuaria;21.5
+1020;Cheia 2018;Area Urbana-2;Atividade Economica Principal;Agricultura / Agropecuaria;16.9
+1021;Seca 2018;Area Urbana-2;Atividade Economica Principal;Agricultura / Agropecuaria;4.5
+1022;Cheia 2019;Area Urbana-2;Atividade Economica Principal;Agricultura / Agropecuaria;10.4
+1023;Seca 2019;Area Urbana-2;Atividade Economica Principal;Agricultura / Agropecuaria;5.1
+1024;Seca 2020;Area Urbana-2;Atividade Economica Principal;Agricultura / Agropecuaria;18.2
+1025;Seca 2012;Area Urbana-2;Atividade Economica Principal;Pesca;35.6
+1026;Cheia 2013;Area Urbana-2;Atividade Economica Principal;Pesca;21.9
+1027;Seca 2013;Area Urbana-2;Atividade Economica Principal;Pesca;14.9
+1028;Cheia 2014;Area Urbana-2;Atividade Economica Principal;Pesca;6.9
+1029;Seca 2014;Area Urbana-2;Atividade Economica Principal;Pesca;4.3
+1030;Cheia 2015;Area Urbana-2;Atividade Economica Principal;Pesca;4.1
+1031;Seca 2015;Area Urbana-2;Atividade Economica Principal;Pesca;9.3
+1032;Cheia 2016;Area Urbana-2;Atividade Economica Principal;Pesca;4
+1033;Seca 2016;Area Urbana-2;Atividade Economica Principal;Pesca;4.6
+1034;Cheia 2017;Area Urbana-2;Atividade Economica Principal;Pesca;10.8
+1035;Seca 2017;Area Urbana-2;Atividade Economica Principal;Pesca;7.7
+1036;Cheia 2018;Area Urbana-2;Atividade Economica Principal;Pesca;4.6
+1037;Seca 2018;Area Urbana-2;Atividade Economica Principal;Pesca;4.5
+1038;Cheia 2019;Area Urbana-2;Atividade Economica Principal;Pesca;3
+1039;Seca 2019;Area Urbana-2;Atividade Economica Principal;Pesca;5.1
+1040;Seca 2020;Area Urbana-2;Atividade Economica Principal;Pesca;10.9
+1041;Seca 2012;Area Urbana-2;Atividade Economica Principal;Comercio;24.4
+1042;Cheia 2013;Area Urbana-2;Atividade Economica Principal;Comercio;12.3
+1043;Seca 2013;Area Urbana-2;Atividade Economica Principal;Comercio;23.9
+1044;Cheia 2014;Area Urbana-2;Atividade Economica Principal;Comercio;22.2
+1045;Seca 2014;Area Urbana-2;Atividade Economica Principal;Comercio;12.9
+1046;Cheia 2015;Area Urbana-2;Atividade Economica Principal;Comercio;9.5
+1047;Seca 2015;Area Urbana-2;Atividade Economica Principal;Comercio;6.7
+1048;Cheia 2016;Area Urbana-2;Atividade Economica Principal;Comercio;9.3
+1049;Seca 2016;Area Urbana-2;Atividade Economica Principal;Comercio;0
+1050;Cheia 2017;Area Urbana-2;Atividade Economica Principal;Comercio;4.6
+1051;Seca 2017;Area Urbana-2;Atividade Economica Principal;Comercio;7.7
+1052;Cheia 2018;Area Urbana-2;Atividade Economica Principal;Comercio;6.2
+1053;Seca 2018;Area Urbana-2;Atividade Economica Principal;Comercio;7.5
+1054;Cheia 2019;Area Urbana-2;Atividade Economica Principal;Comercio;3
+1055;Seca 2019;Area Urbana-2;Atividade Economica Principal;Comercio;5.1
+1056;Seca 2020;Area Urbana-2;Atividade Economica Principal;Comercio;3.6
+1057;Seca 2012;Area Urbana-2;Atividade Economica Principal;Servicos;0
+1058;Cheia 2013;Area Urbana-2;Atividade Economica Principal;Servicos;11
+1059;Seca 2013;Area Urbana-2;Atividade Economica Principal;Servicos;4.5
+1060;Cheia 2014;Area Urbana-2;Atividade Economica Principal;Servicos;11.1
+1061;Seca 2014;Area Urbana-2;Atividade Economica Principal;Servicos;24.3
+1062;Cheia 2015;Area Urbana-2;Atividade Economica Principal;Servicos;16.2
+1063;Seca 2015;Area Urbana-2;Atividade Economica Principal;Servicos;13.3
+1064;Cheia 2016;Area Urbana-2;Atividade Economica Principal;Servicos;17.3
+1065;Seca 2016;Area Urbana-2;Atividade Economica Principal;Servicos;0
+1066;Cheia 2017;Area Urbana-2;Atividade Economica Principal;Servicos;10.8
+1067;Seca 2017;Area Urbana-2;Atividade Economica Principal;Servicos;4.6
+1068;Cheia 2018;Area Urbana-2;Atividade Economica Principal;Servicos;4.6
+1069;Seca 2018;Area Urbana-2;Atividade Economica Principal;Servicos;1.5
+1070;Cheia 2019;Area Urbana-2;Atividade Economica Principal;Servicos;4.5
+1071;Seca 2019;Area Urbana-2;Atividade Economica Principal;Servicos;10.3
+1072;Seca 2020;Area Urbana-2;Atividade Economica Principal;Servicos;1.8
+1073;Seca 2012;Area Urbana-2;Atividade Economica Principal;Outro;15.6
+1074;Cheia 2013;Area Urbana-2;Atividade Economica Principal;Outro;15.1
+1075;Seca 2013;Area Urbana-2;Atividade Economica Principal;Outro;13.4
+1076;Cheia 2014;Area Urbana-2;Atividade Economica Principal;Outro;18.1
+1077;Seca 2014;Area Urbana-2;Atividade Economica Principal;Outro;28.6
+1078;Cheia 2015;Area Urbana-2;Atividade Economica Principal;Outro;31.1
+1079;Seca 2015;Area Urbana-2;Atividade Economica Principal;Outro;25.3
+1080;Cheia 2016;Area Urbana-2;Atividade Economica Principal;Outro;30.7
+1081;Seca 2016;Area Urbana-2;Atividade Economica Principal;Outro;38.5
+1082;Cheia 2017;Area Urbana-2;Atividade Economica Principal;Outro;52.3
+1083;Seca 2017;Area Urbana-2;Atividade Economica Principal;Outro;49.2
+1084;Cheia 2018;Area Urbana-2;Atividade Economica Principal;Outro;49.2
+1085;Seca 2018;Area Urbana-2;Atividade Economica Principal;Outro;29.9
+1086;Cheia 2019;Area Urbana-2;Atividade Economica Principal;Outro;34.3
+1087;Seca 2019;Area Urbana-2;Atividade Economica Principal;Outro;53.8
+1088;Seca 2020;Area Urbana-2;Atividade Economica Principal;Outro;32.7
+1089;Seca 2012;Area Rural-1;Atividade Economica Complementar;Agricultura / Agropecuaria;0
+1090;Cheia 2013;Area Rural-1;Atividade Economica Complementar;Agricultura / Agropecuaria;7.8
+1091;Seca 2013;Area Rural-1;Atividade Economica Complementar;Agricultura / Agropecuaria;19
+1092;Cheia 2014;Area Rural-1;Atividade Economica Complementar;Agricultura / Agropecuaria;26.5
+1093;Seca 2014;Area Rural-1;Atividade Economica Complementar;Agricultura / Agropecuaria;12.8
+1094;Cheia 2015;Area Rural-1;Atividade Economica Complementar;Agricultura / Agropecuaria;2.4
+1095;Seca 2015;Area Rural-1;Atividade Economica Complementar;Agricultura / Agropecuaria;7.9
+1096;Cheia 2016;Area Rural-1;Atividade Economica Complementar;Agricultura / Agropecuaria;22.9
+1097;Seca 2016;Area Rural-1;Atividade Economica Complementar;Agricultura / Agropecuaria;4.4
+1098;Cheia 2017;Area Rural-1;Atividade Economica Complementar;Agricultura / Agropecuaria;19.4
+1099;Seca 2017;Area Rural-1;Atividade Economica Complementar;Agricultura / Agropecuaria;5.7
+1100;Cheia 2018;Area Rural-1;Atividade Economica Complementar;Agricultura / Agropecuaria;23.7
+1101;Seca 2018;Area Rural-1;Atividade Economica Complementar;Agricultura / Agropecuaria;20.5
+1102;Cheia 2019;Area Rural-1;Atividade Economica Complementar;Agricultura / Agropecuaria;20
+1103;Seca 2019;Area Rural-1;Atividade Economica Complementar;Agricultura / Agropecuaria;19.6
+1104;Seca 2020;Area Rural-1;Atividade Economica Complementar;Agricultura / Agropecuaria;16.2
+1105;Seca 2012;Area Rural-1;Atividade Economica Complementar;Pesca;5
+1106;Cheia 2013;Area Rural-1;Atividade Economica Complementar;Pesca;15.7
+1107;Seca 2013;Area Rural-1;Atividade Economica Complementar;Pesca;7.1
+1108;Cheia 2014;Area Rural-1;Atividade Economica Complementar;Pesca;14.3
+1109;Seca 2014;Area Rural-1;Atividade Economica Complementar;Pesca;15.4
+1110;Cheia 2015;Area Rural-1;Atividade Economica Complementar;Pesca;11.9
+1111;Seca 2015;Area Rural-1;Atividade Economica Complementar;Pesca;10.5
+1112;Cheia 2016;Area Rural-1;Atividade Economica Complementar;Pesca;8.6
+1113;Seca 2016;Area Rural-1;Atividade Economica Complementar;Pesca;37.8
+1114;Cheia 2017;Area Rural-1;Atividade Economica Complementar;Pesca;33.3
+1115;Seca 2017;Area Rural-1;Atividade Economica Complementar;Pesca;40
+1116;Cheia 2018;Area Rural-1;Atividade Economica Complementar;Pesca;21.1
+1117;Seca 2018;Area Rural-1;Atividade Economica Complementar;Pesca;15.9
+1118;Cheia 2019;Area Rural-1;Atividade Economica Complementar;Pesca;22.9
+1119;Seca 2019;Area Rural-1;Atividade Economica Complementar;Pesca;19.6
+1120;Seca 2020;Area Rural-1;Atividade Economica Complementar;Pesca;2.7
+1121;Seca 2012;Area Rural-1;Atividade Economica Complementar;Servicos Gerais / Diarista;5
+1122;Cheia 2013;Area Rural-1;Atividade Economica Complementar;Servicos Gerais / Diarista;0
+1123;Seca 2013;Area Rural-1;Atividade Economica Complementar;Servicos Gerais / Diarista;0
+1124;Cheia 2014;Area Rural-1;Atividade Economica Complementar;Servicos Gerais / Diarista;2
+1125;Seca 2014;Area Rural-1;Atividade Economica Complementar;Servicos Gerais / Diarista;0
+1126;Cheia 2015;Area Rural-1;Atividade Economica Complementar;Servicos Gerais / Diarista;7.1
+1127;Seca 2015;Area Rural-1;Atividade Economica Complementar;Servicos Gerais / Diarista;5.3
+1128;Cheia 2016;Area Rural-1;Atividade Economica Complementar;Servicos Gerais / Diarista;8.6
+1129;Seca 2016;Area Rural-1;Atividade Economica Complementar;Servicos Gerais / Diarista;0
+1130;Cheia 2017;Area Rural-1;Atividade Economica Complementar;Servicos Gerais / Diarista;0
+1131;Seca 2017;Area Rural-1;Atividade Economica Complementar;Servicos Gerais / Diarista;0
+1132;Cheia 2018;Area Rural-1;Atividade Economica Complementar;Servicos Gerais / Diarista;2.6
+1133;Seca 2018;Area Rural-1;Atividade Economica Complementar;Servicos Gerais / Diarista;0
+1134;Cheia 2019;Area Rural-1;Atividade Economica Complementar;Servicos Gerais / Diarista;0
+1135;Seca 2019;Area Rural-1;Atividade Economica Complementar;Servicos Gerais / Diarista;0
+1136;Seca 2020;Area Rural-1;Atividade Economica Complementar;Servicos Gerais / Diarista;0
+1137;Seca 2012;Area Rural-1;Atividade Economica Complementar;Piloto de Embarcacao;0
+1138;Cheia 2013;Area Rural-1;Atividade Economica Complementar;Piloto de Embarcacao;0
+1139;Seca 2013;Area Rural-1;Atividade Economica Complementar;Piloto de Embarcacao;0
+1140;Cheia 2014;Area Rural-1;Atividade Economica Complementar;Piloto de Embarcacao;0
+1141;Seca 2014;Area Rural-1;Atividade Economica Complementar;Piloto de Embarcacao;2.6
+1142;Cheia 2015;Area Rural-1;Atividade Economica Complementar;Piloto de Embarcacao;4.8
+1143;Seca 2015;Area Rural-1;Atividade Economica Complementar;Piloto de Embarcacao;0
+1144;Cheia 2016;Area Rural-1;Atividade Economica Complementar;Piloto de Embarcacao;2.9
+1145;Seca 2016;Area Rural-1;Atividade Economica Complementar;Piloto de Embarcacao;2.2
+1146;Cheia 2017;Area Rural-1;Atividade Economica Complementar;Piloto de Embarcacao;2.8
+1147;Seca 2017;Area Rural-1;Atividade Economica Complementar;Piloto de Embarcacao;2.9
+1148;Cheia 2018;Area Rural-1;Atividade Economica Complementar;Piloto de Embarcacao;2.6
+1149;Seca 2018;Area Rural-1;Atividade Economica Complementar;Piloto de Embarcacao;2.3
+1150;Cheia 2019;Area Rural-1;Atividade Economica Complementar;Piloto de Embarcacao;2.9
+1151;Seca 2019;Area Rural-1;Atividade Economica Complementar;Piloto de Embarcacao;2.2
+1152;Seca 2020;Area Rural-1;Atividade Economica Complementar;Piloto de Embarcacao;0
+1153;Seca 2012;Area Rural-1;Atividade Economica Complementar;Outro;5
+1154;Cheia 2013;Area Rural-1;Atividade Economica Complementar;Outro;7.8
+1155;Seca 2013;Area Rural-1;Atividade Economica Complementar;Outro;2.4
+1156;Cheia 2014;Area Rural-1;Atividade Economica Complementar;Outro;6.1
+1157;Seca 2014;Area Rural-1;Atividade Economica Complementar;Outro;7.7
+1158;Cheia 2015;Area Rural-1;Atividade Economica Complementar;Outro;9.5
+1159;Seca 2015;Area Rural-1;Atividade Economica Complementar;Outro;7.9
+1160;Cheia 2016;Area Rural-1;Atividade Economica Complementar;Outro;0
+1161;Seca 2016;Area Rural-1;Atividade Economica Complementar;Outro;0
+1162;Cheia 2017;Area Rural-1;Atividade Economica Complementar;Outro;0
+1163;Seca 2017;Area Rural-1;Atividade Economica Complementar;Outro;2.9
+1164;Cheia 2018;Area Rural-1;Atividade Economica Complementar;Outro;7.9
+1165;Seca 2018;Area Rural-1;Atividade Economica Complementar;Outro;13.6
+1166;Cheia 2019;Area Rural-1;Atividade Economica Complementar;Outro;11.4
+1167;Seca 2019;Area Rural-1;Atividade Economica Complementar;Outro;10.9
+1168;Seca 2020;Area Rural-1;Atividade Economica Complementar;Outro;2.7
+1169;Seca 2012;Area Rural-2;Atividade Economica Complementar;Agricultura / Agropecuaria;0
+1170;Cheia 2013;Area Rural-2;Atividade Economica Complementar;Agricultura / Agropecuaria;3.6
+1171;Seca 2013;Area Rural-2;Atividade Economica Complementar;Agricultura / Agropecuaria;13
+1172;Cheia 2014;Area Rural-2;Atividade Economica Complementar;Agricultura / Agropecuaria;19.4
+1173;Seca 2014;Area Rural-2;Atividade Economica Complementar;Agricultura / Agropecuaria;34
+1174;Cheia 2015;Area Rural-2;Atividade Economica Complementar;Agricultura / Agropecuaria;23.3
+1175;Seca 2015;Area Rural-2;Atividade Economica Complementar;Agricultura / Agropecuaria;11.4
+1176;Cheia 2016;Area Rural-2;Atividade Economica Complementar;Agricultura / Agropecuaria;4.3
+1177;Seca 2016;Area Rural-2;Atividade Economica Complementar;Agricultura / Agropecuaria;0
+1178;Cheia 2017;Area Rural-2;Atividade Economica Complementar;Agricultura / Agropecuaria;8.9
+1179;Seca 2017;Area Rural-2;Atividade Economica Complementar;Agricultura / Agropecuaria;10.6
+1180;Cheia 2018;Area Rural-2;Atividade Economica Complementar;Agricultura / Agropecuaria;9.3
+1181;Seca 2018;Area Rural-2;Atividade Economica Complementar;Agricultura / Agropecuaria;9.8
+1182;Cheia 2019;Area Rural-2;Atividade Economica Complementar;Agricultura / Agropecuaria;11.4
+1183;Seca 2019;Area Rural-2;Atividade Economica Complementar;Agricultura / Agropecuaria;22.2
+1184;Seca 2020;Area Rural-2;Atividade Economica Complementar;Agricultura / Agropecuaria;6.1
+1185;Seca 2012;Area Rural-2;Atividade Economica Complementar;Pesca;0
+1186;Cheia 2013;Area Rural-2;Atividade Economica Complementar;Pesca;10.7
+1187;Seca 2013;Area Rural-2;Atividade Economica Complementar;Pesca;6.5
+1188;Cheia 2014;Area Rural-2;Atividade Economica Complementar;Pesca;2.8
+1189;Seca 2014;Area Rural-2;Atividade Economica Complementar;Pesca;8
+1190;Cheia 2015;Area Rural-2;Atividade Economica Complementar;Pesca;16.3
+1191;Seca 2015;Area Rural-2;Atividade Economica Complementar;Pesca;20.5
+1192;Cheia 2016;Area Rural-2;Atividade Economica Complementar;Pesca;2.1
+1193;Seca 2016;Area Rural-2;Atividade Economica Complementar;Pesca;3.2
+1194;Cheia 2017;Area Rural-2;Atividade Economica Complementar;Pesca;24.4
+1195;Seca 2017;Area Rural-2;Atividade Economica Complementar;Pesca;10.6
+1196;Cheia 2018;Area Rural-2;Atividade Economica Complementar;Pesca;7
+1197;Seca 2018;Area Rural-2;Atividade Economica Complementar;Pesca;2.4
+1198;Cheia 2019;Area Rural-2;Atividade Economica Complementar;Pesca;5.7
+1199;Seca 2019;Area Rural-2;Atividade Economica Complementar;Pesca;11.1
+1200;Seca 2020;Area Rural-2;Atividade Economica Complementar;Pesca;6.1
+1201;Seca 2012;Area Rural-2;Atividade Economica Complementar;Aposentado / Pensionista;0
+1202;Cheia 2013;Area Rural-2;Atividade Economica Complementar;Aposentado / Pensionista;3.6
+1203;Seca 2013;Area Rural-2;Atividade Economica Complementar;Aposentado / Pensionista;8.7
+1204;Cheia 2014;Area Rural-2;Atividade Economica Complementar;Aposentado / Pensionista;0
+1205;Seca 2014;Area Rural-2;Atividade Economica Complementar;Aposentado / Pensionista;6
+1206;Cheia 2015;Area Rural-2;Atividade Economica Complementar;Aposentado / Pensionista;9.3
+1207;Seca 2015;Area Rural-2;Atividade Economica Complementar;Aposentado / Pensionista;4.5
+1208;Cheia 2016;Area Rural-2;Atividade Economica Complementar;Aposentado / Pensionista;0
+1209;Seca 2016;Area Rural-2;Atividade Economica Complementar;Aposentado / Pensionista;0
+1210;Cheia 2017;Area Rural-2;Atividade Economica Complementar;Aposentado / Pensionista;0
+1211;Seca 2017;Area Rural-2;Atividade Economica Complementar;Aposentado / Pensionista;0
+1212;Cheia 2018;Area Rural-2;Atividade Economica Complementar;Aposentado / Pensionista;0
+1213;Seca 2018;Area Rural-2;Atividade Economica Complementar;Aposentado / Pensionista;2.4
+1214;Cheia 2019;Area Rural-2;Atividade Economica Complementar;Aposentado / Pensionista;0
+1215;Seca 2019;Area Rural-2;Atividade Economica Complementar;Aposentado / Pensionista;0
+1216;Seca 2020;Area Rural-2;Atividade Economica Complementar;Aposentado / Pensionista;0
+1217;Seca 2012;Area Rural-2;Atividade Economica Complementar;Servicos Gerais / Diarista;0
+1218;Cheia 2013;Area Rural-2;Atividade Economica Complementar;Servicos Gerais / Diarista;0
+1219;Seca 2013;Area Rural-2;Atividade Economica Complementar;Servicos Gerais / Diarista;6.5
+1220;Cheia 2014;Area Rural-2;Atividade Economica Complementar;Servicos Gerais / Diarista;13.9
+1221;Seca 2014;Area Rural-2;Atividade Economica Complementar;Servicos Gerais / Diarista;6
+1222;Cheia 2015;Area Rural-2;Atividade Economica Complementar;Servicos Gerais / Diarista;2.3
+1223;Seca 2015;Area Rural-2;Atividade Economica Complementar;Servicos Gerais / Diarista;13.6
+1224;Cheia 2016;Area Rural-2;Atividade Economica Complementar;Servicos Gerais / Diarista;8.5
+1225;Seca 2016;Area Rural-2;Atividade Economica Complementar;Servicos Gerais / Diarista;0
+1226;Cheia 2017;Area Rural-2;Atividade Economica Complementar;Servicos Gerais / Diarista;0
+1227;Seca 2017;Area Rural-2;Atividade Economica Complementar;Servicos Gerais / Diarista;0
+1228;Cheia 2018;Area Rural-2;Atividade Economica Complementar;Servicos Gerais / Diarista;0
+1229;Seca 2018;Area Rural-2;Atividade Economica Complementar;Servicos Gerais / Diarista;2.4
+1230;Cheia 2019;Area Rural-2;Atividade Economica Complementar;Servicos Gerais / Diarista;2.9
+1231;Seca 2019;Area Rural-2;Atividade Economica Complementar;Servicos Gerais / Diarista;0
+1232;Seca 2020;Area Rural-2;Atividade Economica Complementar;Servicos Gerais / Diarista;0
+1233;Seca 2012;Area Rural-2;Atividade Economica Complementar;Outro;0
+1234;Cheia 2013;Area Rural-2;Atividade Economica Complementar;Outro;7.1
+1235;Seca 2013;Area Rural-2;Atividade Economica Complementar;Outro;2.2
+1236;Cheia 2014;Area Rural-2;Atividade Economica Complementar;Outro;5.6
+1237;Seca 2014;Area Rural-2;Atividade Economica Complementar;Outro;0
+1238;Cheia 2015;Area Rural-2;Atividade Economica Complementar;Outro;0
+1239;Seca 2015;Area Rural-2;Atividade Economica Complementar;Outro;6.8
+1240;Cheia 2016;Area Rural-2;Atividade Economica Complementar;Outro;6.4
+1241;Seca 2016;Area Rural-2;Atividade Economica Complementar;Outro;0
+1242;Cheia 2017;Area Rural-2;Atividade Economica Complementar;Outro;8.9
+1243;Seca 2017;Area Rural-2;Atividade Economica Complementar;Outro;2.1
+1244;Cheia 2018;Area Rural-2;Atividade Economica Complementar;Outro;7
+1245;Seca 2018;Area Rural-2;Atividade Economica Complementar;Outro;0
+1246;Cheia 2019;Area Rural-2;Atividade Economica Complementar;Outro;2.9
+1247;Seca 2019;Area Rural-2;Atividade Economica Complementar;Outro;3.7
+1248;Seca 2020;Area Rural-2;Atividade Economica Complementar;Outro;0
+1249;Seca 2012;Area Urbana-1;Atividade Economica Complementar;Agricultura / Agropecuaria;0
+1250;Cheia 2013;Area Urbana-1;Atividade Economica Complementar;Agricultura / Agropecuaria;6.1
+1251;Seca 2013;Area Urbana-1;Atividade Economica Complementar;Agricultura / Agropecuaria;13
+1252;Cheia 2014;Area Urbana-1;Atividade Economica Complementar;Agricultura / Agropecuaria;0
+1253;Seca 2014;Area Urbana-1;Atividade Economica Complementar;Agricultura / Agropecuaria;0
+1254;Cheia 2015;Area Urbana-1;Atividade Economica Complementar;Agricultura / Agropecuaria;2.9
+1255;Seca 2015;Area Urbana-1;Atividade Economica Complementar;Agricultura / Agropecuaria;0
+1256;Cheia 2016;Area Urbana-1;Atividade Economica Complementar;Agricultura / Agropecuaria;4.3
+1257;Seca 2016;Area Urbana-1;Atividade Economica Complementar;Agricultura / Agropecuaria;1.7
+1258;Cheia 2017;Area Urbana-1;Atividade Economica Complementar;Agricultura / Agropecuaria;11.1
+1259;Seca 2017;Area Urbana-1;Atividade Economica Complementar;Agricultura / Agropecuaria;12.5
+1260;Cheia 2018;Area Urbana-1;Atividade Economica Complementar;Agricultura / Agropecuaria;18.2
+1261;Seca 2018;Area Urbana-1;Atividade Economica Complementar;Agricultura / Agropecuaria;5.5
+1262;Cheia 2019;Area Urbana-1;Atividade Economica Complementar;Agricultura / Agropecuaria;8.5
+1263;Seca 2019;Area Urbana-1;Atividade Economica Complementar;Agricultura / Agropecuaria;13.1
+1264;Seca 2020;Area Urbana-1;Atividade Economica Complementar;Agricultura / Agropecuaria;3.3
+1265;Seca 2012;Area Urbana-1;Atividade Economica Complementar;Pesca;3.7
+1266;Cheia 2013;Area Urbana-1;Atividade Economica Complementar;Pesca;6.1
+1267;Seca 2013;Area Urbana-1;Atividade Economica Complementar;Pesca;10.9
+1268;Cheia 2014;Area Urbana-1;Atividade Economica Complementar;Pesca;8.9
+1269;Seca 2014;Area Urbana-1;Atividade Economica Complementar;Pesca;9.8
+1270;Cheia 2015;Area Urbana-1;Atividade Economica Complementar;Pesca;17.1
+1271;Seca 2015;Area Urbana-1;Atividade Economica Complementar;Pesca;9.1
+1272;Cheia 2016;Area Urbana-1;Atividade Economica Complementar;Pesca;4.3
+1273;Seca 2016;Area Urbana-1;Atividade Economica Complementar;Pesca;3.4
+1274;Cheia 2017;Area Urbana-1;Atividade Economica Complementar;Pesca;9.3
+1275;Seca 2017;Area Urbana-1;Atividade Economica Complementar;Pesca;16.1
+1276;Cheia 2018;Area Urbana-1;Atividade Economica Complementar;Pesca;5.5
+1277;Seca 2018;Area Urbana-1;Atividade Economica Complementar;Pesca;7.3
+1278;Cheia 2019;Area Urbana-1;Atividade Economica Complementar;Pesca;6.8
+1279;Seca 2019;Area Urbana-1;Atividade Economica Complementar;Pesca;4.9
+1280;Seca 2020;Area Urbana-1;Atividade Economica Complementar;Pesca;3.3
+1281;Seca 2012;Area Urbana-1;Atividade Economica Complementar;Comercio;3.7
+1282;Cheia 2013;Area Urbana-1;Atividade Economica Complementar;Comercio;6.1
+1283;Seca 2013;Area Urbana-1;Atividade Economica Complementar;Comercio;0
+1284;Cheia 2014;Area Urbana-1;Atividade Economica Complementar;Comercio;4.4
+1285;Seca 2014;Area Urbana-1;Atividade Economica Complementar;Comercio;4.9
+1286;Cheia 2015;Area Urbana-1;Atividade Economica Complementar;Comercio;0
+1287;Seca 2015;Area Urbana-1;Atividade Economica Complementar;Comercio;2.3
+1288;Cheia 2016;Area Urbana-1;Atividade Economica Complementar;Comercio;0
+1289;Seca 2016;Area Urbana-1;Atividade Economica Complementar;Comercio;0
+1290;Cheia 2017;Area Urbana-1;Atividade Economica Complementar;Comercio;1.9
+1291;Seca 2017;Area Urbana-1;Atividade Economica Complementar;Comercio;0
+1292;Cheia 2018;Area Urbana-1;Atividade Economica Complementar;Comercio;3.6
+1293;Seca 2018;Area Urbana-1;Atividade Economica Complementar;Comercio;3.6
+1294;Cheia 2019;Area Urbana-1;Atividade Economica Complementar;Comercio;3.4
+1295;Seca 2019;Area Urbana-1;Atividade Economica Complementar;Comercio;1.6
+1296;Seca 2020;Area Urbana-1;Atividade Economica Complementar;Comercio;1.6
+1297;Seca 2012;Area Urbana-1;Atividade Economica Complementar;Garimpo;1.9
+1298;Cheia 2013;Area Urbana-1;Atividade Economica Complementar;Garimpo;6.1
+1299;Seca 2013;Area Urbana-1;Atividade Economica Complementar;Garimpo;2.2
+1300;Cheia 2014;Area Urbana-1;Atividade Economica Complementar;Garimpo;8.9
+1301;Seca 2014;Area Urbana-1;Atividade Economica Complementar;Garimpo;2.4
+1302;Cheia 2015;Area Urbana-1;Atividade Economica Complementar;Garimpo;5.7
+1303;Seca 2015;Area Urbana-1;Atividade Economica Complementar;Garimpo;0
+1304;Cheia 2016;Area Urbana-1;Atividade Economica Complementar;Garimpo;0
+1305;Seca 2016;Area Urbana-1;Atividade Economica Complementar;Garimpo;0
+1306;Cheia 2017;Area Urbana-1;Atividade Economica Complementar;Garimpo;1.9
+1307;Seca 2017;Area Urbana-1;Atividade Economica Complementar;Garimpo;5.4
+1308;Cheia 2018;Area Urbana-1;Atividade Economica Complementar;Garimpo;3.6
+1309;Seca 2018;Area Urbana-1;Atividade Economica Complementar;Garimpo;0
+1310;Cheia 2019;Area Urbana-1;Atividade Economica Complementar;Garimpo;3.4
+1311;Seca 2019;Area Urbana-1;Atividade Economica Complementar;Garimpo;8.2
+1312;Seca 2020;Area Urbana-1;Atividade Economica Complementar;Garimpo;3.3
+1313;Seca 2012;Area Urbana-1;Atividade Economica Complementar;Outro;1.9
+1314;Cheia 2013;Area Urbana-1;Atividade Economica Complementar;Outro;4.1
+1315;Seca 2013;Area Urbana-1;Atividade Economica Complementar;Outro;0
+1316;Cheia 2014;Area Urbana-1;Atividade Economica Complementar;Outro;2.2
+1317;Seca 2014;Area Urbana-1;Atividade Economica Complementar;Outro;2.4
+1318;Cheia 2015;Area Urbana-1;Atividade Economica Complementar;Outro;0
+1319;Seca 2015;Area Urbana-1;Atividade Economica Complementar;Outro;4.5
+1320;Cheia 2016;Area Urbana-1;Atividade Economica Complementar;Outro;0
+1321;Seca 2016;Area Urbana-1;Atividade Economica Complementar;Outro;1.7
+1322;Cheia 2017;Area Urbana-1;Atividade Economica Complementar;Outro;1.9
+1323;Seca 2017;Area Urbana-1;Atividade Economica Complementar;Outro;7.1
+1324;Cheia 2018;Area Urbana-1;Atividade Economica Complementar;Outro;0
+1325;Seca 2018;Area Urbana-1;Atividade Economica Complementar;Outro;7.3
+1326;Cheia 2019;Area Urbana-1;Atividade Economica Complementar;Outro;3.4
+1327;Seca 2019;Area Urbana-1;Atividade Economica Complementar;Outro;4.9
+1328;Seca 2020;Area Urbana-1;Atividade Economica Complementar;Outro;3.3
+1329;Seca 2012;Area Urbana-2;Atividade Economica Complementar;Agricultura / Agropecuaria;2.2
+1330;Cheia 2013;Area Urbana-2;Atividade Economica Complementar;Agricultura / Agropecuaria;2.7
+1331;Seca 2013;Area Urbana-2;Atividade Economica Complementar;Agricultura / Agropecuaria;0
+1332;Cheia 2014;Area Urbana-2;Atividade Economica Complementar;Agricultura / Agropecuaria;0
+1333;Seca 2014;Area Urbana-2;Atividade Economica Complementar;Agricultura / Agropecuaria;0
+1334;Cheia 2015;Area Urbana-2;Atividade Economica Complementar;Agricultura / Agropecuaria;0
+1335;Seca 2015;Area Urbana-2;Atividade Economica Complementar;Agricultura / Agropecuaria;2.7
+1336;Cheia 2016;Area Urbana-2;Atividade Economica Complementar;Agricultura / Agropecuaria;0
+1337;Seca 2016;Area Urbana-2;Atividade Economica Complementar;Agricultura / Agropecuaria;0
+1338;Cheia 2017;Area Urbana-2;Atividade Economica Complementar;Agricultura / Agropecuaria;0
+1339;Seca 2017;Area Urbana-2;Atividade Economica Complementar;Agricultura / Agropecuaria;3.1
+1340;Cheia 2018;Area Urbana-2;Atividade Economica Complementar;Agricultura / Agropecuaria;1.5
+1341;Seca 2018;Area Urbana-2;Atividade Economica Complementar;Agricultura / Agropecuaria;4.5
+1342;Cheia 2019;Area Urbana-2;Atividade Economica Complementar;Agricultura / Agropecuaria;1.5
+1343;Seca 2019;Area Urbana-2;Atividade Economica Complementar;Agricultura / Agropecuaria;5.1
+1344;Seca 2020;Area Urbana-2;Atividade Economica Complementar;Agricultura / Agropecuaria;0
+1345;Seca 2012;Area Urbana-2;Atividade Economica Complementar;Pesca;0
+1346;Cheia 2013;Area Urbana-2;Atividade Economica Complementar;Pesca;6.8
+1347;Seca 2013;Area Urbana-2;Atividade Economica Complementar;Pesca;6
+1348;Cheia 2014;Area Urbana-2;Atividade Economica Complementar;Pesca;1.4
+1349;Seca 2014;Area Urbana-2;Atividade Economica Complementar;Pesca;0
+1350;Cheia 2015;Area Urbana-2;Atividade Economica Complementar;Pesca;1.4
+1351;Seca 2015;Area Urbana-2;Atividade Economica Complementar;Pesca;0
+1352;Cheia 2016;Area Urbana-2;Atividade Economica Complementar;Pesca;1.3
+1353;Seca 2016;Area Urbana-2;Atividade Economica Complementar;Pesca;0
+1354;Cheia 2017;Area Urbana-2;Atividade Economica Complementar;Pesca;3.1
+1355;Seca 2017;Area Urbana-2;Atividade Economica Complementar;Pesca;3.1
+1356;Cheia 2018;Area Urbana-2;Atividade Economica Complementar;Pesca;9.2
+1357;Seca 2018;Area Urbana-2;Atividade Economica Complementar;Pesca;3
+1358;Cheia 2019;Area Urbana-2;Atividade Economica Complementar;Pesca;3
+1359;Seca 2019;Area Urbana-2;Atividade Economica Complementar;Pesca;2.6
+1360;Seca 2020;Area Urbana-2;Atividade Economica Complementar;Pesca;3.6
+1361;Seca 2012;Area Urbana-2;Atividade Economica Complementar;Comercio;0
+1362;Cheia 2013;Area Urbana-2;Atividade Economica Complementar;Comercio;0
+1363;Seca 2013;Area Urbana-2;Atividade Economica Complementar;Comercio;0
+1364;Cheia 2014;Area Urbana-2;Atividade Economica Complementar;Comercio;1.4
+1365;Seca 2014;Area Urbana-2;Atividade Economica Complementar;Comercio;0
+1366;Cheia 2015;Area Urbana-2;Atividade Economica Complementar;Comercio;1.4
+1367;Seca 2015;Area Urbana-2;Atividade Economica Complementar;Comercio;1.3
+1368;Cheia 2016;Area Urbana-2;Atividade Economica Complementar;Comercio;0
+1369;Seca 2016;Area Urbana-2;Atividade Economica Complementar;Comercio;0
+1370;Cheia 2017;Area Urbana-2;Atividade Economica Complementar;Comercio;0
+1371;Seca 2017;Area Urbana-2;Atividade Economica Complementar;Comercio;1.5
+1372;Cheia 2018;Area Urbana-2;Atividade Economica Complementar;Comercio;0
+1373;Seca 2018;Area Urbana-2;Atividade Economica Complementar;Comercio;6
+1374;Cheia 2019;Area Urbana-2;Atividade Economica Complementar;Comercio;0
+1375;Seca 2019;Area Urbana-2;Atividade Economica Complementar;Comercio;5.1
+1376;Seca 2020;Area Urbana-2;Atividade Economica Complementar;Comercio;0
+1377;Seca 2012;Area Urbana-2;Atividade Economica Complementar;Servicos Gerais / Diarista;0
+1378;Cheia 2013;Area Urbana-2;Atividade Economica Complementar;Servicos Gerais / Diarista;1.4
+1379;Seca 2013;Area Urbana-2;Atividade Economica Complementar;Servicos Gerais / Diarista;1.5
+1380;Cheia 2014;Area Urbana-2;Atividade Economica Complementar;Servicos Gerais / Diarista;2.8
+1381;Seca 2014;Area Urbana-2;Atividade Economica Complementar;Servicos Gerais / Diarista;0
+1382;Cheia 2015;Area Urbana-2;Atividade Economica Complementar;Servicos Gerais / Diarista;2.7
+1383;Seca 2015;Area Urbana-2;Atividade Economica Complementar;Servicos Gerais / Diarista;5.3
+1384;Cheia 2016;Area Urbana-2;Atividade Economica Complementar;Servicos Gerais / Diarista;2.7
+1385;Seca 2016;Area Urbana-2;Atividade Economica Complementar;Servicos Gerais / Diarista;0
+1386;Cheia 2017;Area Urbana-2;Atividade Economica Complementar;Servicos Gerais / Diarista;0
+1387;Seca 2017;Area Urbana-2;Atividade Economica Complementar;Servicos Gerais / Diarista;1.5
+1388;Cheia 2018;Area Urbana-2;Atividade Economica Complementar;Servicos Gerais / Diarista;0
+1389;Seca 2018;Area Urbana-2;Atividade Economica Complementar;Servicos Gerais / Diarista;7.5
+1390;Cheia 2019;Area Urbana-2;Atividade Economica Complementar;Servicos Gerais / Diarista;1.5
+1391;Seca 2019;Area Urbana-2;Atividade Economica Complementar;Servicos Gerais / Diarista;0
+1392;Seca 2020;Area Urbana-2;Atividade Economica Complementar;Servicos Gerais / Diarista;1.8
+1393;Seca 2012;Area Urbana-2;Atividade Economica Complementar;Outro;2.2
+1394;Cheia 2013;Area Urbana-2;Atividade Economica Complementar;Outro;2.7
+1395;Seca 2013;Area Urbana-2;Atividade Economica Complementar;Outro;6
+1396;Cheia 2014;Area Urbana-2;Atividade Economica Complementar;Outro;0
+1397;Seca 2014;Area Urbana-2;Atividade Economica Complementar;Outro;1.4
+1398;Cheia 2015;Area Urbana-2;Atividade Economica Complementar;Outro;4.1
+1399;Seca 2015;Area Urbana-2;Atividade Economica Complementar;Outro;6.7
+1400;Cheia 2016;Area Urbana-2;Atividade Economica Complementar;Outro;2.7
+1401;Seca 2016;Area Urbana-2;Atividade Economica Complementar;Outro;1.5
+1402;Cheia 2017;Area Urbana-2;Atividade Economica Complementar;Outro;1.5
+1403;Seca 2017;Area Urbana-2;Atividade Economica Complementar;Outro;10.8
+1404;Cheia 2018;Area Urbana-2;Atividade Economica Complementar;Outro;21.5
+1405;Seca 2018;Area Urbana-2;Atividade Economica Complementar;Outro;47.8
+1406;Cheia 2019;Area Urbana-2;Atividade Economica Complementar;Outro;9
+1407;Seca 2019;Area Urbana-2;Atividade Economica Complementar;Outro;48.7
+1408;Seca 2020;Area Urbana-2;Atividade Economica Complementar;Outro;9.1

@@ -1,0 +1,881 @@
+Id;Periodicidade;Extrato_Hipoteses;Variavel_Hipoteses;Niveis_Hipoteses;Percentual_Hipoteses
+1;2012;Area Rural-1;Aumento do n de residencias com banheiro;Residencias com banheiro;70
+2;2013;Area Rural-1;Aumento do n de residencias com banheiro;Residencias com banheiro;90.3
+3;2014;Area Rural-1;Aumento do n de residencias com banheiro;Residencias com banheiro;79.6
+4;2015;Area Rural-1;Aumento do n de residencias com banheiro;Residencias com banheiro;93.8
+5;2016;Area Rural-1;Aumento do n de residencias com banheiro;Residencias com banheiro;92.5
+6;2017;Area Rural-1;Aumento do n de residencias com banheiro;Residencias com banheiro;93
+7;2018;Area Rural-1;Aumento do n de residencias com banheiro;Residencias com banheiro;86.6
+8;2019;Area Rural-1;Aumento do n de residencias com banheiro;Residencias com banheiro;86.4
+9;2020;Area Rural-1;Aumento do n de residencias com banheiro;Residencias com banheiro;89.2
+10;2012;Area Rural-1;Aumento do n de residencias com banheiro;Residencias sem banheiro;30
+11;2013;Area Rural-1;Aumento do n de residencias com banheiro;Residencias sem banheiro;9.7
+12;2014;Area Rural-1;Aumento do n de residencias com banheiro;Residencias sem banheiro;20.5
+13;2015;Area Rural-1;Aumento do n de residencias com banheiro;Residencias sem banheiro;6.3
+14;2016;Area Rural-1;Aumento do n de residencias com banheiro;Residencias sem banheiro;7.5
+15;2017;Area Rural-1;Aumento do n de residencias com banheiro;Residencias sem banheiro;7
+16;2018;Area Rural-1;Aumento do n de residencias com banheiro;Residencias sem banheiro;13.4
+17;2019;Area Rural-1;Aumento do n de residencias com banheiro;Residencias sem banheiro;13.6
+18;2020;Area Rural-1;Aumento do n de residencias com banheiro;Residencias sem banheiro;10.8
+19;2012;Area Rural-2;Aumento do n de residencias com banheiro;Residencias com banheiro;95.7
+20;2013;Area Rural-2;Aumento do n de residencias com banheiro;Residencias com banheiro;83.8
+21;2014;Area Rural-2;Aumento do n de residencias com banheiro;Residencias com banheiro;66.3
+22;2015;Area Rural-2;Aumento do n de residencias com banheiro;Residencias com banheiro;89.7
+23;2016;Area Rural-2;Aumento do n de residencias com banheiro;Residencias com banheiro;92.3
+24;2017;Area Rural-2;Aumento do n de residencias com banheiro;Residencias com banheiro;82.6
+25;2018;Area Rural-2;Aumento do n de residencias com banheiro;Residencias com banheiro;88.1
+26;2019;Area Rural-2;Aumento do n de residencias com banheiro;Residencias com banheiro;86.5
+27;2020;Area Rural-2;Aumento do n de residencias com banheiro;Residencias com banheiro;59.2
+28;2012;Area Rural-2;Aumento do n de residencias com banheiro;Residencias sem banheiro;4.4
+29;2013;Area Rural-2;Aumento do n de residencias com banheiro;Residencias sem banheiro;16.2
+30;2014;Area Rural-2;Aumento do n de residencias com banheiro;Residencias sem banheiro;33.7
+31;2015;Area Rural-2;Aumento do n de residencias com banheiro;Residencias sem banheiro;10.3
+32;2016;Area Rural-2;Aumento do n de residencias com banheiro;Residencias sem banheiro;7.7
+33;2017;Area Rural-2;Aumento do n de residencias com banheiro;Residencias sem banheiro;17.4
+34;2018;Area Rural-2;Aumento do n de residencias com banheiro;Residencias sem banheiro;11.9
+35;2019;Area Rural-2;Aumento do n de residencias com banheiro;Residencias sem banheiro;13.5
+36;2020;Area Rural-2;Aumento do n de residencias com banheiro;Residencias sem banheiro;40.8
+37;2012;Area Urbana-1;Aumento do n de residencias com banheiro;Residencias com banheiro;85.2
+38;2013;Area Urbana-1;Aumento do n de residencias com banheiro;Residencias com banheiro;93.7
+39;2014;Area Urbana-1;Aumento do n de residencias com banheiro;Residencias com banheiro;90.7
+40;2015;Area Urbana-1;Aumento do n de residencias com banheiro;Residencias com banheiro;97.5
+41;2016;Area Urbana-1;Aumento do n de residencias com banheiro;Residencias com banheiro;90.6
+42;2017;Area Urbana-1;Aumento do n de residencias com banheiro;Residencias com banheiro;88.2
+43;2018;Area Urbana-1;Aumento do n de residencias com banheiro;Residencias com banheiro;94.6
+44;2019;Area Urbana-1;Aumento do n de residencias com banheiro;Residencias com banheiro;82.5
+45;2020;Area Urbana-1;Aumento do n de residencias com banheiro;Residencias com banheiro;85.3
+46;2012;Area Urbana-1;Aumento do n de residencias com banheiro;Residencias sem banheiro;14.8
+47;2013;Area Urbana-1;Aumento do n de residencias com banheiro;Residencias sem banheiro;6.3
+48;2014;Area Urbana-1;Aumento do n de residencias com banheiro;Residencias sem banheiro;9.3
+49;2015;Area Urbana-1;Aumento do n de residencias com banheiro;Residencias sem banheiro;2.5
+50;2016;Area Urbana-1;Aumento do n de residencias com banheiro;Residencias sem banheiro;9.4
+51;2017;Area Urbana-1;Aumento do n de residencias com banheiro;Residencias sem banheiro;11.8
+52;2018;Area Urbana-1;Aumento do n de residencias com banheiro;Residencias sem banheiro;5.5
+53;2019;Area Urbana-1;Aumento do n de residencias com banheiro;Residencias sem banheiro;17.5
+54;2020;Area Urbana-1;Aumento do n de residencias com banheiro;Residencias sem banheiro;14.8
+55;2012;Area Urbana-2;Aumento do n de residencias com banheiro;Residencias com banheiro;97.8
+56;2013;Area Urbana-2;Aumento do n de residencias com banheiro;Residencias com banheiro;96.4
+57;2014;Area Urbana-2;Aumento do n de residencias com banheiro;Residencias com banheiro;99.3
+58;2015;Area Urbana-2;Aumento do n de residencias com banheiro;Residencias com banheiro;94.6
+59;2016;Area Urbana-2;Aumento do n de residencias com banheiro;Residencias com banheiro;95.7
+60;2017;Area Urbana-2;Aumento do n de residencias com banheiro;Residencias com banheiro;96.9
+61;2018;Area Urbana-2;Aumento do n de residencias com banheiro;Residencias com banheiro;98.5
+62;2019;Area Urbana-2;Aumento do n de residencias com banheiro;Residencias com banheiro;98.1
+63;2020;Area Urbana-2;Aumento do n de residencias com banheiro;Residencias com banheiro;83.6
+64;2012;Area Urbana-2;Aumento do n de residencias com banheiro;Residencias sem banheiro;2.2
+65;2013;Area Urbana-2;Aumento do n de residencias com banheiro;Residencias sem banheiro;3.6
+66;2014;Area Urbana-2;Aumento do n de residencias com banheiro;Residencias sem banheiro;0.7
+67;2015;Area Urbana-2;Aumento do n de residencias com banheiro;Residencias sem banheiro;5.4
+68;2016;Area Urbana-2;Aumento do n de residencias com banheiro;Residencias sem banheiro;4.3
+69;2017;Area Urbana-2;Aumento do n de residencias com banheiro;Residencias sem banheiro;3.1
+70;2018;Area Urbana-2;Aumento do n de residencias com banheiro;Residencias sem banheiro;1.5
+71;2019;Area Urbana-2;Aumento do n de residencias com banheiro;Residencias sem banheiro;1.9
+72;2020;Area Urbana-2;Aumento do n de residencias com banheiro;Residencias sem banheiro;16.4
+73;2012;Area Rural-1;Aumento do n de propriedades abastecidas por rede geral;Propriedade abastecida por rede geral;0
+74;2013;Area Rural-1;Aumento do n de propriedades abastecidas por rede geral;Propriedade abastecida por rede geral;2.2
+75;2014;Area Rural-1;Aumento do n de propriedades abastecidas por rede geral;Propriedade abastecida por rede geral;1.1
+76;2015;Area Rural-1;Aumento do n de propriedades abastecidas por rede geral;Propriedade abastecida por rede geral;1.3
+77;2016;Area Rural-1;Aumento do n de propriedades abastecidas por rede geral;Propriedade abastecida por rede geral;0
+78;2017;Area Rural-1;Aumento do n de propriedades abastecidas por rede geral;Propriedade abastecida por rede geral;0
+79;2018;Area Rural-1;Aumento do n de propriedades abastecidas por rede geral;Propriedade abastecida por rede geral;0
+80;2019;Area Rural-1;Aumento do n de propriedades abastecidas por rede geral;Propriedade abastecida por rede geral;0
+81;2020;Area Rural-1;Aumento do n de propriedades abastecidas por rede geral;Propriedade abastecida por rede geral;0
+82;2012;Area Rural-1;Aumento do n de propriedades abastecidas por rede geral;Propriedade nao abastecida por rede geral;100
+83;2013;Area Rural-1;Aumento do n de propriedades abastecidas por rede geral;Propriedade nao abastecida por rede geral;97.9
+84;2014;Area Rural-1;Aumento do n de propriedades abastecidas por rede geral;Propriedade nao abastecida por rede geral;98.9
+85;2015;Area Rural-1;Aumento do n de propriedades abastecidas por rede geral;Propriedade nao abastecida por rede geral;98.8
+86;2016;Area Rural-1;Aumento do n de propriedades abastecidas por rede geral;Propriedade nao abastecida por rede geral;100
+87;2017;Area Rural-1;Aumento do n de propriedades abastecidas por rede geral;Propriedade nao abastecida por rede geral;100
+88;2018;Area Rural-1;Aumento do n de propriedades abastecidas por rede geral;Propriedade nao abastecida por rede geral;100
+89;2019;Area Rural-1;Aumento do n de propriedades abastecidas por rede geral;Propriedade nao abastecida por rede geral;100
+90;2020;Area Rural-1;Aumento do n de propriedades abastecidas por rede geral;Propriedade nao abastecida por rede geral;100
+91;2012;Area Rural-2;Aumento do n de propriedades abastecidas por rede geral;Propriedade abastecida por rede geral;0
+92;2013;Area Rural-2;Aumento do n de propriedades abastecidas por rede geral;Propriedade abastecida por rede geral;1.4
+93;2014;Area Rural-2;Aumento do n de propriedades abastecidas por rede geral;Propriedade abastecida por rede geral;1.2
+94;2015;Area Rural-2;Aumento do n de propriedades abastecidas por rede geral;Propriedade abastecida por rede geral;0
+95;2016;Area Rural-2;Aumento do n de propriedades abastecidas por rede geral;Propriedade abastecida por rede geral;0
+96;2017;Area Rural-2;Aumento do n de propriedades abastecidas por rede geral;Propriedade abastecida por rede geral;0
+97;2018;Area Rural-2;Aumento do n de propriedades abastecidas por rede geral;Propriedade abastecida por rede geral;0
+98;2019;Area Rural-2;Aumento do n de propriedades abastecidas por rede geral;Propriedade abastecida por rede geral;2.3
+99;2020;Area Rural-2;Aumento do n de propriedades abastecidas por rede geral;Propriedade abastecida por rede geral;0
+100;2012;Area Rural-2;Aumento do n de propriedades abastecidas por rede geral;Propriedade nao abastecida por rede geral;100
+101;2013;Area Rural-2;Aumento do n de propriedades abastecidas por rede geral;Propriedade nao abastecida por rede geral;98.7
+102;2014;Area Rural-2;Aumento do n de propriedades abastecidas por rede geral;Propriedade nao abastecida por rede geral;98.8
+103;2015;Area Rural-2;Aumento do n de propriedades abastecidas por rede geral;Propriedade nao abastecida por rede geral;100
+104;2016;Area Rural-2;Aumento do n de propriedades abastecidas por rede geral;Propriedade nao abastecida por rede geral;100
+105;2017;Area Rural-2;Aumento do n de propriedades abastecidas por rede geral;Propriedade nao abastecida por rede geral;100
+106;2018;Area Rural-2;Aumento do n de propriedades abastecidas por rede geral;Propriedade nao abastecida por rede geral;100
+107;2019;Area Rural-2;Aumento do n de propriedades abastecidas por rede geral;Propriedade nao abastecida por rede geral;97.8
+108;2020;Area Rural-2;Aumento do n de propriedades abastecidas por rede geral;Propriedade nao abastecida por rede geral;100
+109;2012;Area Urbana-1;Aumento do n de propriedades abastecidas por rede geral;Propriedade abastecida por rede geral;1.9
+110;2013;Area Urbana-1;Aumento do n de propriedades abastecidas por rede geral;Propriedade abastecida por rede geral;0
+111;2014;Area Urbana-1;Aumento do n de propriedades abastecidas por rede geral;Propriedade abastecida por rede geral;5.8
+112;2015;Area Urbana-1;Aumento do n de propriedades abastecidas por rede geral;Propriedade abastecida por rede geral;17.7
+113;2016;Area Urbana-1;Aumento do n de propriedades abastecidas por rede geral;Propriedade abastecida por rede geral;16
+114;2017;Area Urbana-1;Aumento do n de propriedades abastecidas por rede geral;Propriedade abastecida por rede geral;10.9
+115;2018;Area Urbana-1;Aumento do n de propriedades abastecidas por rede geral;Propriedade abastecida por rede geral;13.6
+116;2019;Area Urbana-1;Aumento do n de propriedades abastecidas por rede geral;Propriedade abastecida por rede geral;29.2
+117;2020;Area Urbana-1;Aumento do n de propriedades abastecidas por rede geral;Propriedade abastecida por rede geral;49.2
+118;2012;Area Urbana-1;Aumento do n de propriedades abastecidas por rede geral;Propriedade nao abastecida por rede geral;98.2
+119;2013;Area Urbana-1;Aumento do n de propriedades abastecidas por rede geral;Propriedade nao abastecida por rede geral;100
+120;2014;Area Urbana-1;Aumento do n de propriedades abastecidas por rede geral;Propriedade nao abastecida por rede geral;94.2
+121;2015;Area Urbana-1;Aumento do n de propriedades abastecidas por rede geral;Propriedade nao abastecida por rede geral;82.3
+122;2016;Area Urbana-1;Aumento do n de propriedades abastecidas por rede geral;Propriedade nao abastecida por rede geral;84
+123;2017;Area Urbana-1;Aumento do n de propriedades abastecidas por rede geral;Propriedade nao abastecida por rede geral;89.1
+124;2018;Area Urbana-1;Aumento do n de propriedades abastecidas por rede geral;Propriedade nao abastecida por rede geral;86.4
+125;2019;Area Urbana-1;Aumento do n de propriedades abastecidas por rede geral;Propriedade nao abastecida por rede geral;70.8
+126;2020;Area Urbana-1;Aumento do n de propriedades abastecidas por rede geral;Propriedade nao abastecida por rede geral;50.8
+127;2012;Area Urbana-2;Aumento do n de propriedades abastecidas por rede geral;Propriedade abastecida por rede geral;42.2
+128;2013;Area Urbana-2;Aumento do n de propriedades abastecidas por rede geral;Propriedade abastecida por rede geral;52.9
+129;2014;Area Urbana-2;Aumento do n de propriedades abastecidas por rede geral;Propriedade abastecida por rede geral;59.2
+130;2015;Area Urbana-2;Aumento do n de propriedades abastecidas por rede geral;Propriedade abastecida por rede geral;60.4
+131;2016;Area Urbana-2;Aumento do n de propriedades abastecidas por rede geral;Propriedade abastecida por rede geral;72.1
+132;2017;Area Urbana-2;Aumento do n de propriedades abastecidas por rede geral;Propriedade abastecida por rede geral;56.2
+133;2018;Area Urbana-2;Aumento do n de propriedades abastecidas por rede geral;Propriedade abastecida por rede geral;76.5
+134;2019;Area Urbana-2;Aumento do n de propriedades abastecidas por rede geral;Propriedade abastecida por rede geral;60.4
+135;2020;Area Urbana-2;Aumento do n de propriedades abastecidas por rede geral;Propriedade abastecida por rede geral;56.4
+136;2012;Area Urbana-2;Aumento do n de propriedades abastecidas por rede geral;Propriedade nao abastecida por rede geral;57.8
+137;2013;Area Urbana-2;Aumento do n de propriedades abastecidas por rede geral;Propriedade nao abastecida por rede geral;47.1
+138;2014;Area Urbana-2;Aumento do n de propriedades abastecidas por rede geral;Propriedade nao abastecida por rede geral;40.9
+139;2015;Area Urbana-2;Aumento do n de propriedades abastecidas por rede geral;Propriedade nao abastecida por rede geral;39.6
+140;2016;Area Urbana-2;Aumento do n de propriedades abastecidas por rede geral;Propriedade nao abastecida por rede geral;27.9
+141;2017;Area Urbana-2;Aumento do n de propriedades abastecidas por rede geral;Propriedade nao abastecida por rede geral;43.9
+142;2018;Area Urbana-2;Aumento do n de propriedades abastecidas por rede geral;Propriedade nao abastecida por rede geral;23.5
+143;2019;Area Urbana-2;Aumento do n de propriedades abastecidas por rede geral;Propriedade nao abastecida por rede geral;39.6
+144;2020;Area Urbana-2;Aumento do n de propriedades abastecidas por rede geral;Propriedade nao abastecida por rede geral;43.6
+145;2012;Area Rural-1;Destino dos efluentes domesticos rede geral ou fossa septica;Nao;95
+146;2013;Area Rural-1;Destino dos efluentes domesticos rede geral ou fossa septica;Nao;93.6
+147;2014;Area Rural-1;Destino dos efluentes domesticos rede geral ou fossa septica;Nao;100
+148;2015;Area Rural-1;Destino dos efluentes domesticos rede geral ou fossa septica;Nao;100
+149;2016;Area Rural-1;Destino dos efluentes domesticos rede geral ou fossa septica;Nao;92.5
+150;2017;Area Rural-1;Destino dos efluentes domesticos rede geral ou fossa septica;Nao;70.4
+151;2018;Area Rural-1;Destino dos efluentes domesticos rede geral ou fossa septica;Nao;89
+152;2019;Area Rural-1;Destino dos efluentes domesticos rede geral ou fossa septica;Nao;75.3
+153;2020;Area Rural-1;Destino dos efluentes domesticos rede geral ou fossa septica;Nao;56.8
+154;2012;Area Rural-1;Destino dos efluentes domesticos rede geral ou fossa septica;Sim;5
+155;2013;Area Rural-1;Destino dos efluentes domesticos rede geral ou fossa septica;Sim;6.5
+156;2014;Area Rural-1;Destino dos efluentes domesticos rede geral ou fossa septica;Sim;0
+157;2015;Area Rural-1;Destino dos efluentes domesticos rede geral ou fossa septica;Sim;0
+158;2016;Area Rural-1;Destino dos efluentes domesticos rede geral ou fossa septica;Sim;7.5
+159;2017;Area Rural-1;Destino dos efluentes domesticos rede geral ou fossa septica;Sim;29.6
+160;2018;Area Rural-1;Destino dos efluentes domesticos rede geral ou fossa septica;Sim;11
+161;2019;Area Rural-1;Destino dos efluentes domesticos rede geral ou fossa septica;Sim;24.7
+162;2020;Area Rural-1;Destino dos efluentes domesticos rede geral ou fossa septica;Sim;43.2
+163;2012;Area Rural-2;Destino dos efluentes domesticos rede geral ou fossa septica;Nao;100
+164;2013;Area Rural-2;Destino dos efluentes domesticos rede geral ou fossa septica;Nao;100
+165;2014;Area Rural-2;Destino dos efluentes domesticos rede geral ou fossa septica;Nao;100
+166;2015;Area Rural-2;Destino dos efluentes domesticos rede geral ou fossa septica;Nao;100
+167;2016;Area Rural-2;Destino dos efluentes domesticos rede geral ou fossa septica;Nao;93.6
+168;2017;Area Rural-2;Destino dos efluentes domesticos rede geral ou fossa septica;Nao;90.2
+169;2018;Area Rural-2;Destino dos efluentes domesticos rede geral ou fossa septica;Nao;94.1
+170;2019;Area Rural-2;Destino dos efluentes domesticos rede geral ou fossa septica;Nao;79.8
+171;2020;Area Rural-2;Destino dos efluentes domesticos rede geral ou fossa septica;Nao;75.5
+172;2012;Area Rural-2;Destino dos efluentes domesticos rede geral ou fossa septica;Sim;0
+173;2013;Area Rural-2;Destino dos efluentes domesticos rede geral ou fossa septica;Sim;0
+174;2014;Area Rural-2;Destino dos efluentes domesticos rede geral ou fossa septica;Sim;0
+175;2015;Area Rural-2;Destino dos efluentes domesticos rede geral ou fossa septica;Sim;0
+176;2016;Area Rural-2;Destino dos efluentes domesticos rede geral ou fossa septica;Sim;6.4
+177;2017;Area Rural-2;Destino dos efluentes domesticos rede geral ou fossa septica;Sim;9.8
+178;2018;Area Rural-2;Destino dos efluentes domesticos rede geral ou fossa septica;Sim;6
+179;2019;Area Rural-2;Destino dos efluentes domesticos rede geral ou fossa septica;Sim;20.2
+180;2020;Area Rural-2;Destino dos efluentes domesticos rede geral ou fossa septica;Sim;24.5
+181;2012;Area Urbana-1;Destino dos efluentes domesticos rede geral ou fossa septica;Nao;79.6
+182;2013;Area Urbana-1;Destino dos efluentes domesticos rede geral ou fossa septica;Nao;83.2
+183;2014;Area Urbana-1;Destino dos efluentes domesticos rede geral ou fossa septica;Nao;98.8
+184;2015;Area Urbana-1;Destino dos efluentes domesticos rede geral ou fossa septica;Nao;100
+185;2016;Area Urbana-1;Destino dos efluentes domesticos rede geral ou fossa septica;Nao;85.9
+186;2017;Area Urbana-1;Destino dos efluentes domesticos rede geral ou fossa septica;Nao;78.2
+187;2018;Area Urbana-1;Destino dos efluentes domesticos rede geral ou fossa septica;Nao;80.9
+188;2019;Area Urbana-1;Destino dos efluentes domesticos rede geral ou fossa septica;Nao;68.3
+189;2020;Area Urbana-1;Destino dos efluentes domesticos rede geral ou fossa septica;Nao;49.2
+190;2012;Area Urbana-1;Destino dos efluentes domesticos rede geral ou fossa septica;Sim;20.4
+191;2013;Area Urbana-1;Destino dos efluentes domesticos rede geral ou fossa septica;Sim;16.8
+192;2014;Area Urbana-1;Destino dos efluentes domesticos rede geral ou fossa septica;Sim;1.2
+193;2015;Area Urbana-1;Destino dos efluentes domesticos rede geral ou fossa septica;Sim;0
+194;2016;Area Urbana-1;Destino dos efluentes domesticos rede geral ou fossa septica;Sim;14.2
+195;2017;Area Urbana-1;Destino dos efluentes domesticos rede geral ou fossa septica;Sim;21.8
+196;2018;Area Urbana-1;Destino dos efluentes domesticos rede geral ou fossa septica;Sim;19.1
+197;2019;Area Urbana-1;Destino dos efluentes domesticos rede geral ou fossa septica;Sim;31.7
+198;2020;Area Urbana-1;Destino dos efluentes domesticos rede geral ou fossa septica;Sim;50.8
+199;2012;Area Urbana-2;Destino dos efluentes domesticos rede geral ou fossa septica;Nao;68.9
+200;2013;Area Urbana-2;Destino dos efluentes domesticos rede geral ou fossa septica;Nao;85.7
+201;2014;Area Urbana-2;Destino dos efluentes domesticos rede geral ou fossa septica;Nao;100
+202;2015;Area Urbana-2;Destino dos efluentes domesticos rede geral ou fossa septica;Nao;100
+203;2016;Area Urbana-2;Destino dos efluentes domesticos rede geral ou fossa septica;Nao;64.3
+204;2017;Area Urbana-2;Destino dos efluentes domesticos rede geral ou fossa septica;Nao;40
+205;2018;Area Urbana-2;Destino dos efluentes domesticos rede geral ou fossa septica;Nao;26.5
+206;2019;Area Urbana-2;Destino dos efluentes domesticos rede geral ou fossa septica;Nao;44.3
+207;2020;Area Urbana-2;Destino dos efluentes domesticos rede geral ou fossa septica;Nao;25.5
+208;2012;Area Urbana-2;Destino dos efluentes domesticos rede geral ou fossa septica;Sim;31.1
+209;2013;Area Urbana-2;Destino dos efluentes domesticos rede geral ou fossa septica;Sim;14.3
+210;2014;Area Urbana-2;Destino dos efluentes domesticos rede geral ou fossa septica;Sim;0
+211;2015;Area Urbana-2;Destino dos efluentes domesticos rede geral ou fossa septica;Sim;0
+212;2016;Area Urbana-2;Destino dos efluentes domesticos rede geral ou fossa septica;Sim;35.7
+213;2017;Area Urbana-2;Destino dos efluentes domesticos rede geral ou fossa septica;Sim;60
+214;2018;Area Urbana-2;Destino dos efluentes domesticos rede geral ou fossa septica;Sim;73.5
+215;2019;Area Urbana-2;Destino dos efluentes domesticos rede geral ou fossa septica;Sim;55.7
+216;2020;Area Urbana-2;Destino dos efluentes domesticos rede geral ou fossa septica;Sim;74.6
+217;Seca 2012;Area Rural-1;Pratica pesca;Nao;15
+218;Cheia 2013;Area Rural-1;Pratica pesca;Nao;15.7
+219;Seca 2013;Area Rural-1;Pratica pesca;Nao;23.8
+220;Cheia 2014;Area Rural-1;Pratica pesca;Nao;12.2
+221;Seca 2014;Area Rural-1;Pratica pesca;Nao;17.9
+222;Cheia 2015;Area Rural-1;Pratica pesca;Nao;31
+223;Seca 2015;Area Rural-1;Pratica pesca;Nao;28.9
+224;Cheia 2016;Area Rural-1;Pratica pesca;Nao;31.4
+225;Seca 2016;Area Rural-1;Pratica pesca;Nao;8.9
+226;Cheia 2017;Area Rural-1;Pratica pesca;Nao;2.8
+227;Seca 2017;Area Rural-1;Pratica pesca;Nao;0
+228;Cheia 2018;Area Rural-1;Pratica pesca;Nao;0
+229;Seca 2018;Area Rural-1;Pratica pesca;Nao;20.5
+230;Cheia 2019;Area Rural-1;Pratica pesca;Nao;5.7
+231;Seca 2019;Area Rural-1;Pratica pesca;Nao;8.7
+232;Seca 2020;Area Rural-1;Pratica pesca;Nao;10.8
+233;Seca 2012;Area Rural-1;Pratica pesca;Sim;85
+234;Cheia 2013;Area Rural-1;Pratica pesca;Sim;84.3
+235;Seca 2013;Area Rural-1;Pratica pesca;Sim;76.2
+236;Cheia 2014;Area Rural-1;Pratica pesca;Sim;87.8
+237;Seca 2014;Area Rural-1;Pratica pesca;Sim;82.1
+238;Cheia 2015;Area Rural-1;Pratica pesca;Sim;69
+239;Seca 2015;Area Rural-1;Pratica pesca;Sim;71.1
+240;Cheia 2016;Area Rural-1;Pratica pesca;Sim;68.6
+241;Seca 2016;Area Rural-1;Pratica pesca;Sim;91.1
+242;Cheia 2017;Area Rural-1;Pratica pesca;Sim;97.2
+243;Seca 2017;Area Rural-1;Pratica pesca;Sim;100
+244;Cheia 2018;Area Rural-1;Pratica pesca;Sim;100
+245;Seca 2018;Area Rural-1;Pratica pesca;Sim;79.5
+246;Cheia 2019;Area Rural-1;Pratica pesca;Sim;94.3
+247;Seca 2019;Area Rural-1;Pratica pesca;Sim;91.3
+248;Seca 2020;Area Rural-1;Pratica pesca;Sim;89.2
+249;Seca 2012;Area Rural-2;Pratica pesca;Nao;21.7
+250;Cheia 2013;Area Rural-2;Pratica pesca;Nao;14.3
+251;Seca 2013;Area Rural-2;Pratica pesca;Nao;19.6
+252;Cheia 2014;Area Rural-2;Pratica pesca;Nao;13.9
+253;Seca 2014;Area Rural-2;Pratica pesca;Nao;10
+254;Cheia 2015;Area Rural-2;Pratica pesca;Nao;30.2
+255;Seca 2015;Area Rural-2;Pratica pesca;Nao;9.1
+256;Cheia 2016;Area Rural-2;Pratica pesca;Nao;42.6
+257;Seca 2016;Area Rural-2;Pratica pesca;Nao;9.7
+258;Cheia 2017;Area Rural-2;Pratica pesca;Nao;8.9
+259;Seca 2017;Area Rural-2;Pratica pesca;Nao;27.7
+260;Cheia 2018;Area Rural-2;Pratica pesca;Nao;7
+261;Seca 2018;Area Rural-2;Pratica pesca;Nao;34.1
+262;Cheia 2019;Area Rural-2;Pratica pesca;Nao;14.3
+263;Seca 2019;Area Rural-2;Pratica pesca;Nao;20.4
+264;Seca 2020;Area Rural-2;Pratica pesca;Nao;18.4
+265;Seca 2012;Area Rural-2;Pratica pesca;Sim;78.3
+266;Cheia 2013;Area Rural-2;Pratica pesca;Sim;85.7
+267;Seca 2013;Area Rural-2;Pratica pesca;Sim;80.4
+268;Cheia 2014;Area Rural-2;Pratica pesca;Sim;86.1
+269;Seca 2014;Area Rural-2;Pratica pesca;Sim;90
+270;Cheia 2015;Area Rural-2;Pratica pesca;Sim;69.8
+271;Seca 2015;Area Rural-2;Pratica pesca;Sim;90.9
+272;Cheia 2016;Area Rural-2;Pratica pesca;Sim;57.4
+273;Seca 2016;Area Rural-2;Pratica pesca;Sim;90.3
+274;Cheia 2017;Area Rural-2;Pratica pesca;Sim;91.1
+275;Seca 2017;Area Rural-2;Pratica pesca;Sim;72.3
+276;Cheia 2018;Area Rural-2;Pratica pesca;Sim;93
+277;Seca 2018;Area Rural-2;Pratica pesca;Sim;65.9
+278;Cheia 2019;Area Rural-2;Pratica pesca;Sim;85.7
+279;Seca 2019;Area Rural-2;Pratica pesca;Sim;79.6
+280;Seca 2020;Area Rural-2;Pratica pesca;Sim;81.6
+281;Seca 2012;Area Urbana-1;Pratica pesca;Nao;25.9
+282;Cheia 2013;Area Urbana-1;Pratica pesca;Nao;24.5
+283;Seca 2013;Area Urbana-1;Pratica pesca;Nao;26.1
+284;Cheia 2014;Area Urbana-1;Pratica pesca;Nao;20
+285;Seca 2014;Area Urbana-1;Pratica pesca;Nao;22
+286;Cheia 2015;Area Urbana-1;Pratica pesca;Nao;57.1
+287;Seca 2015;Area Urbana-1;Pratica pesca;Nao;50
+288;Cheia 2016;Area Urbana-1;Pratica pesca;Nao;53.2
+289;Seca 2016;Area Urbana-1;Pratica pesca;Nao;35.6
+290;Cheia 2017;Area Urbana-1;Pratica pesca;Nao;18.5
+291;Seca 2017;Area Urbana-1;Pratica pesca;Nao;12.5
+292;Cheia 2018;Area Urbana-1;Pratica pesca;Nao;10.9
+293;Seca 2018;Area Urbana-1;Pratica pesca;Nao;45.5
+294;Cheia 2019;Area Urbana-1;Pratica pesca;Nao;28.8
+295;Seca 2019;Area Urbana-1;Pratica pesca;Nao;24.6
+296;Seca 2020;Area Urbana-1;Pratica pesca;Nao;45.9
+297;Seca 2012;Area Urbana-1;Pratica pesca;Sim;74.1
+298;Cheia 2013;Area Urbana-1;Pratica pesca;Sim;75.5
+299;Seca 2013;Area Urbana-1;Pratica pesca;Sim;73.9
+300;Cheia 2014;Area Urbana-1;Pratica pesca;Sim;80
+301;Seca 2014;Area Urbana-1;Pratica pesca;Sim;78
+302;Cheia 2015;Area Urbana-1;Pratica pesca;Sim;42.9
+303;Seca 2015;Area Urbana-1;Pratica pesca;Sim;50
+304;Cheia 2016;Area Urbana-1;Pratica pesca;Sim;46.8
+305;Seca 2016;Area Urbana-1;Pratica pesca;Sim;64.4
+306;Cheia 2017;Area Urbana-1;Pratica pesca;Sim;81.5
+307;Seca 2017;Area Urbana-1;Pratica pesca;Sim;87.5
+308;Cheia 2018;Area Urbana-1;Pratica pesca;Sim;89.1
+309;Seca 2018;Area Urbana-1;Pratica pesca;Sim;54.5
+310;Cheia 2019;Area Urbana-1;Pratica pesca;Sim;71.2
+311;Seca 2019;Area Urbana-1;Pratica pesca;Sim;75.4
+312;Seca 2020;Area Urbana-1;Pratica pesca;Sim;54.1
+313;Seca 2012;Area Urbana-2;Pratica pesca;Nao;31.1
+314;Cheia 2013;Area Urbana-2;Pratica pesca;Nao;28.8
+315;Seca 2013;Area Urbana-2;Pratica pesca;Nao;50.7
+316;Cheia 2014;Area Urbana-2;Pratica pesca;Nao;61.1
+317;Seca 2014;Area Urbana-2;Pratica pesca;Nao;84.3
+318;Cheia 2015;Area Urbana-2;Pratica pesca;Nao;73
+319;Seca 2015;Area Urbana-2;Pratica pesca;Nao;65.3
+320;Cheia 2016;Area Urbana-2;Pratica pesca;Nao;70.7
+321;Seca 2016;Area Urbana-2;Pratica pesca;Nao;47.7
+322;Cheia 2017;Area Urbana-2;Pratica pesca;Nao;41.5
+323;Seca 2017;Area Urbana-2;Pratica pesca;Nao;67.7
+324;Cheia 2018;Area Urbana-2;Pratica pesca;Nao;63.1
+325;Seca 2018;Area Urbana-2;Pratica pesca;Nao;80.6
+326;Cheia 2019;Area Urbana-2;Pratica pesca;Nao;43.3
+327;Seca 2019;Area Urbana-2;Pratica pesca;Nao;48.7
+328;Seca 2020;Area Urbana-2;Pratica pesca;Nao;34.5
+329;Seca 2012;Area Urbana-2;Pratica pesca;Sim;68.9
+330;Cheia 2013;Area Urbana-2;Pratica pesca;Sim;71.2
+331;Seca 2013;Area Urbana-2;Pratica pesca;Sim;49.3
+332;Cheia 2014;Area Urbana-2;Pratica pesca;Sim;38.9
+333;Seca 2014;Area Urbana-2;Pratica pesca;Sim;15.7
+334;Cheia 2015;Area Urbana-2;Pratica pesca;Sim;27
+335;Seca 2015;Area Urbana-2;Pratica pesca;Sim;34.7
+336;Cheia 2016;Area Urbana-2;Pratica pesca;Sim;29.3
+337;Seca 2016;Area Urbana-2;Pratica pesca;Sim;52.3
+338;Cheia 2017;Area Urbana-2;Pratica pesca;Sim;58.5
+339;Seca 2017;Area Urbana-2;Pratica pesca;Sim;32.3
+340;Cheia 2018;Area Urbana-2;Pratica pesca;Sim;36.9
+341;Seca 2018;Area Urbana-2;Pratica pesca;Sim;19.4
+342;Cheia 2019;Area Urbana-2;Pratica pesca;Sim;56.7
+343;Seca 2019;Area Urbana-2;Pratica pesca;Sim;51.3
+344;Seca 2020;Area Urbana-2;Pratica pesca;Sim;65.5
+345;Seca 2012;Area Rural-1;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;10.75
+346;Cheia 2013;Area Rural-1;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;4.96
+347;Seca 2013;Area Rural-1;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;4.93
+348;Cheia 2014;Area Rural-1;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;5.19
+349;Seca 2014;Area Rural-1;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;3.53
+350;Cheia 2015;Area Rural-1;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;2.05
+351;Seca 2015;Area Rural-1;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;2.46
+352;Cheia 2016;Area Rural-1;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;2.44
+353;Seca 2016;Area Rural-1;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;
+354;Cheia 2017;Area Rural-1;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;7.31
+355;Seca 2017;Area Rural-1;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;5.63
+356;Cheia 2018;Area Rural-1;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;3.25
+357;Seca 2018;Area Rural-1;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;5.15
+358;Cheia 2019;Area Rural-1;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;5.24
+359;Seca 2019;Area Rural-1;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;5.72
+360;Seca 2020;Area Rural-1;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;
+361;Seca 2012;Area Rural-2;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;15.42
+362;Cheia 2013;Area Rural-2;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;4.29
+363;Seca 2013;Area Rural-2;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;7.95
+364;Cheia 2014;Area Rural-2;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;3.28
+365;Seca 2014;Area Rural-2;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;4.82
+366;Cheia 2015;Area Rural-2;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;3.32
+367;Seca 2015;Area Rural-2;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;3.61
+368;Cheia 2016;Area Rural-2;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;3.06
+369;Seca 2016;Area Rural-2;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;90.71
+370;Cheia 2017;Area Rural-2;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;22.47
+371;Seca 2017;Area Rural-2;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;3.15
+372;Cheia 2018;Area Rural-2;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;3.82
+373;Seca 2018;Area Rural-2;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;3.76
+374;Cheia 2019;Area Rural-2;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;3.34
+375;Seca 2019;Area Rural-2;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;22.34
+376;Seca 2020;Area Rural-2;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;
+377;Seca 2012;Area Urbana-1;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;12.06
+378;Cheia 2013;Area Urbana-1;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;7.34
+379;Seca 2013;Area Urbana-1;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;7.7
+380;Cheia 2014;Area Urbana-1;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;6.1
+381;Seca 2014;Area Urbana-1;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;5.77
+382;Cheia 2015;Area Urbana-1;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;3.49
+383;Seca 2015;Area Urbana-1;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;7
+384;Cheia 2016;Area Urbana-1;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;7.21
+385;Seca 2016;Area Urbana-1;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;63.7
+386;Cheia 2017;Area Urbana-1;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;7.38
+387;Seca 2017;Area Urbana-1;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;6.68
+388;Cheia 2018;Area Urbana-1;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;12.95
+389;Seca 2018;Area Urbana-1;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;8.28
+390;Cheia 2019;Area Urbana-1;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;7.14
+391;Seca 2019;Area Urbana-1;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;11.9
+392;Seca 2020;Area Urbana-1;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;
+393;Seca 2012;Area Urbana-2;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;18.35
+394;Cheia 2013;Area Urbana-2;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;6.64
+395;Seca 2013;Area Urbana-2;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;7.9
+396;Cheia 2014;Area Urbana-2;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;4.06
+397;Seca 2014;Area Urbana-2;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;4.68
+398;Cheia 2015;Area Urbana-2;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;3.09
+399;Seca 2015;Area Urbana-2;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;8.4
+400;Cheia 2016;Area Urbana-2;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;5.14
+401;Seca 2016;Area Urbana-2;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;
+402;Cheia 2017;Area Urbana-2;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;8.89
+403;Seca 2017;Area Urbana-2;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;8.96
+404;Cheia 2018;Area Urbana-2;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;10.58
+405;Seca 2018;Area Urbana-2;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;6.85
+406;Cheia 2019;Area Urbana-2;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;8.03
+407;Seca 2019;Area Urbana-2;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;4.55
+408;Seca 2020;Area Urbana-2;Quantidade media diaria pescada KG;Quantidade Media Pescada Dia KG;
+409;2012;Area Rural-1;Melhor epoca do ano para pesca;Cheia;30
+410;2012;Area Rural-1;Melhor epoca do ano para pesca;Seca;30
+411;2012;Area Rural-1;Melhor epoca do ano para pesca;Enchente;40
+412;2012;Area Rural-1;Melhor epoca do ano para pesca;Vazante;35
+413;2012;Area Rural-1;Melhor epoca do ano para pesca;Ano Todo;10
+414;2012;Area Rural-1;Melhor epoca do ano para pesca;Nao Pescam;15
+415;2013;Area Rural-1;Melhor epoca do ano para pesca;Cheia;51.47
+416;2013;Area Rural-1;Melhor epoca do ano para pesca;Seca;42.65
+417;2013;Area Rural-1;Melhor epoca do ano para pesca;Enchente;23.53
+418;2013;Area Rural-1;Melhor epoca do ano para pesca;Vazante;32.35
+419;2013;Area Rural-1;Melhor epoca do ano para pesca;Ano Todo;2.94
+420;2013;Area Rural-1;Melhor epoca do ano para pesca;Nao Pescam;22.06
+421;2014;Area Rural-1;Melhor epoca do ano para pesca;Cheia;50
+422;2014;Area Rural-1;Melhor epoca do ano para pesca;Seca;55
+423;2014;Area Rural-1;Melhor epoca do ano para pesca;Enchente;0
+424;2014;Area Rural-1;Melhor epoca do ano para pesca;Vazante;0
+425;2014;Area Rural-1;Melhor epoca do ano para pesca;Ano Todo;1.67
+426;2014;Area Rural-1;Melhor epoca do ano para pesca;Nao Pescam;16.67
+427;2015;Area Rural-1;Melhor epoca do ano para pesca;Cheia;50
+428;2015;Area Rural-1;Melhor epoca do ano para pesca;Seca;22.22
+429;2015;Area Rural-1;Melhor epoca do ano para pesca;Enchente;1.85
+430;2015;Area Rural-1;Melhor epoca do ano para pesca;Vazante;1.85
+431;2015;Area Rural-1;Melhor epoca do ano para pesca;Ano Todo;7.41
+432;2015;Area Rural-1;Melhor epoca do ano para pesca;Nao Pescam;37.04
+433;2016;Area Rural-1;Melhor epoca do ano para pesca;Cheia;53.13
+434;2016;Area Rural-1;Melhor epoca do ano para pesca;Seca;25
+435;2016;Area Rural-1;Melhor epoca do ano para pesca;Enchente;29.69
+436;2016;Area Rural-1;Melhor epoca do ano para pesca;Vazante;28.13
+437;2016;Area Rural-1;Melhor epoca do ano para pesca;Ano Todo;17.19
+438;2016;Area Rural-1;Melhor epoca do ano para pesca;Nao Pescam;23.44
+439;2017;Area Rural-1;Melhor epoca do ano para pesca;Cheia;85.42
+440;2017;Area Rural-1;Melhor epoca do ano para pesca;Seca;37.5
+441;2017;Area Rural-1;Melhor epoca do ano para pesca;Enchente;72.92
+442;2017;Area Rural-1;Melhor epoca do ano para pesca;Vazante;68.75
+443;2017;Area Rural-1;Melhor epoca do ano para pesca;Ano Todo;16.67
+444;2017;Area Rural-1;Melhor epoca do ano para pesca;Nao Pescam;2.08
+445;2018;Area Rural-1;Melhor epoca do ano para pesca;Cheia;62.71
+446;2018;Area Rural-1;Melhor epoca do ano para pesca;Seca;47.46
+447;2018;Area Rural-1;Melhor epoca do ano para pesca;Enchente;25.42
+448;2018;Area Rural-1;Melhor epoca do ano para pesca;Vazante;69.49
+449;2018;Area Rural-1;Melhor epoca do ano para pesca;Ano Todo;6.78
+450;2018;Area Rural-1;Melhor epoca do ano para pesca;Nao Pescam;15.25
+451;2019;Area Rural-1;Melhor epoca do ano para pesca;Cheia;48
+452;2019;Area Rural-1;Melhor epoca do ano para pesca;Seca;32
+453;2019;Area Rural-1;Melhor epoca do ano para pesca;Enchente;66
+454;2019;Area Rural-1;Melhor epoca do ano para pesca;Vazante;46
+455;2019;Area Rural-1;Melhor epoca do ano para pesca;Ano Todo;14
+456;2019;Area Rural-1;Melhor epoca do ano para pesca;Nao Pescam;10
+457;2020;Area Rural-1;Melhor epoca do ano para pesca;Cheia;52.78
+458;2020;Area Rural-1;Melhor epoca do ano para pesca;Seca;25
+459;2020;Area Rural-1;Melhor epoca do ano para pesca;Enchente;58.33
+460;2020;Area Rural-1;Melhor epoca do ano para pesca;Vazante;36.11
+461;2020;Area Rural-1;Melhor epoca do ano para pesca;Ano Todo;8.33
+462;2020;Area Rural-1;Melhor epoca do ano para pesca;Nao Pescam;11.11
+463;2012;Area Rural-2;Melhor epoca do ano para pesca;Cheia;45.45
+464;2012;Area Rural-2;Melhor epoca do ano para pesca;Seca;22.73
+465;2012;Area Rural-2;Melhor epoca do ano para pesca;Enchente;45.45
+466;2012;Area Rural-2;Melhor epoca do ano para pesca;Vazante;22.73
+467;2012;Area Rural-2;Melhor epoca do ano para pesca;Ano Todo;9.09
+468;2012;Area Rural-2;Melhor epoca do ano para pesca;Nao Pescam;22.73
+469;2013;Area Rural-2;Melhor epoca do ano para pesca;Cheia;40.68
+470;2013;Area Rural-2;Melhor epoca do ano para pesca;Seca;47.46
+471;2013;Area Rural-2;Melhor epoca do ano para pesca;Enchente;37.29
+472;2013;Area Rural-2;Melhor epoca do ano para pesca;Vazante;1.69
+473;2013;Area Rural-2;Melhor epoca do ano para pesca;Ano Todo;10.17
+474;2013;Area Rural-2;Melhor epoca do ano para pesca;Nao Pescam;20.34
+475;2014;Area Rural-2;Melhor epoca do ano para pesca;Cheia;28.36
+476;2014;Area Rural-2;Melhor epoca do ano para pesca;Seca;65.67
+477;2014;Area Rural-2;Melhor epoca do ano para pesca;Enchente;0
+478;2014;Area Rural-2;Melhor epoca do ano para pesca;Vazante;0
+479;2014;Area Rural-2;Melhor epoca do ano para pesca;Ano Todo;4.48
+480;2014;Area Rural-2;Melhor epoca do ano para pesca;Nao Pescam;11.94
+481;2015;Area Rural-2;Melhor epoca do ano para pesca;Cheia;30.3
+482;2015;Area Rural-2;Melhor epoca do ano para pesca;Seca;50
+483;2015;Area Rural-2;Melhor epoca do ano para pesca;Enchente;0
+484;2015;Area Rural-2;Melhor epoca do ano para pesca;Vazante;0
+485;2015;Area Rural-2;Melhor epoca do ano para pesca;Ano Todo;1.52
+486;2015;Area Rural-2;Melhor epoca do ano para pesca;Nao Pescam;25.76
+487;2016;Area Rural-2;Melhor epoca do ano para pesca;Cheia;38.1
+488;2016;Area Rural-2;Melhor epoca do ano para pesca;Seca;34.92
+489;2016;Area Rural-2;Melhor epoca do ano para pesca;Enchente;9.52
+490;2016;Area Rural-2;Melhor epoca do ano para pesca;Vazante;25.4
+491;2016;Area Rural-2;Melhor epoca do ano para pesca;Ano Todo;11.11
+492;2016;Area Rural-2;Melhor epoca do ano para pesca;Nao Pescam;34.92
+493;2017;Area Rural-2;Melhor epoca do ano para pesca;Cheia;63.64
+494;2017;Area Rural-2;Melhor epoca do ano para pesca;Seca;36.36
+495;2017;Area Rural-2;Melhor epoca do ano para pesca;Enchente;39.39
+496;2017;Area Rural-2;Melhor epoca do ano para pesca;Vazante;59.09
+497;2017;Area Rural-2;Melhor epoca do ano para pesca;Ano Todo;10.61
+498;2017;Area Rural-2;Melhor epoca do ano para pesca;Nao Pescam;22.73
+499;2018;Area Rural-2;Melhor epoca do ano para pesca;Cheia;51.72
+500;2018;Area Rural-2;Melhor epoca do ano para pesca;Seca;51.72
+501;2018;Area Rural-2;Melhor epoca do ano para pesca;Enchente;18.97
+502;2018;Area Rural-2;Melhor epoca do ano para pesca;Vazante;68.97
+503;2018;Area Rural-2;Melhor epoca do ano para pesca;Ano Todo;8.62
+504;2018;Area Rural-2;Melhor epoca do ano para pesca;Nao Pescam;29.31
+505;2019;Area Rural-2;Melhor epoca do ano para pesca;Cheia;29.17
+506;2019;Area Rural-2;Melhor epoca do ano para pesca;Seca;34.72
+507;2019;Area Rural-2;Melhor epoca do ano para pesca;Enchente;38.89
+508;2019;Area Rural-2;Melhor epoca do ano para pesca;Vazante;55.56
+509;2019;Area Rural-2;Melhor epoca do ano para pesca;Ano Todo;4.17
+510;2019;Area Rural-2;Melhor epoca do ano para pesca;Nao Pescam;20.83
+511;2020;Area Rural-2;Melhor epoca do ano para pesca;Cheia;30.61
+512;2020;Area Rural-2;Melhor epoca do ano para pesca;Seca;26.53
+513;2020;Area Rural-2;Melhor epoca do ano para pesca;Enchente;28.57
+514;2020;Area Rural-2;Melhor epoca do ano para pesca;Vazante;55.1
+515;2020;Area Rural-2;Melhor epoca do ano para pesca;Ano Todo;2.04
+516;2020;Area Rural-2;Melhor epoca do ano para pesca;Nao Pescam;18.37
+517;2012;Area Urbana-1;Melhor epoca do ano para pesca;Cheia;22.64
+518;2012;Area Urbana-1;Melhor epoca do ano para pesca;Seca;28.3
+519;2012;Area Urbana-1;Melhor epoca do ano para pesca;Enchente;35.85
+520;2012;Area Urbana-1;Melhor epoca do ano para pesca;Vazante;32.08
+521;2012;Area Urbana-1;Melhor epoca do ano para pesca;Ano Todo;7.55
+522;2012;Area Urbana-1;Melhor epoca do ano para pesca;Nao Pescam;26.42
+523;2013;Area Urbana-1;Melhor epoca do ano para pesca;Cheia;45.12
+524;2013;Area Urbana-1;Melhor epoca do ano para pesca;Seca;35.37
+525;2013;Area Urbana-1;Melhor epoca do ano para pesca;Enchente;34.15
+526;2013;Area Urbana-1;Melhor epoca do ano para pesca;Vazante;8.54
+527;2013;Area Urbana-1;Melhor epoca do ano para pesca;Ano Todo;0
+528;2013;Area Urbana-1;Melhor epoca do ano para pesca;Nao Pescam;28.05
+529;2014;Area Urbana-1;Melhor epoca do ano para pesca;Cheia;34.78
+530;2014;Area Urbana-1;Melhor epoca do ano para pesca;Seca;47.83
+531;2014;Area Urbana-1;Melhor epoca do ano para pesca;Enchente;0
+532;2014;Area Urbana-1;Melhor epoca do ano para pesca;Vazante;0
+533;2014;Area Urbana-1;Melhor epoca do ano para pesca;Ano Todo;2.9
+534;2014;Area Urbana-1;Melhor epoca do ano para pesca;Nao Pescam;21.74
+535;2015;Area Urbana-1;Melhor epoca do ano para pesca;Cheia;23.08
+536;2015;Area Urbana-1;Melhor epoca do ano para pesca;Seca;24.62
+537;2015;Area Urbana-1;Melhor epoca do ano para pesca;Enchente;0
+538;2015;Area Urbana-1;Melhor epoca do ano para pesca;Vazante;1.54
+539;2015;Area Urbana-1;Melhor epoca do ano para pesca;Ano Todo;1.54
+540;2015;Area Urbana-1;Melhor epoca do ano para pesca;Nao Pescam;60
+541;2016;Area Urbana-1;Melhor epoca do ano para pesca;Cheia;27.91
+542;2016;Area Urbana-1;Melhor epoca do ano para pesca;Seca;15.12
+543;2016;Area Urbana-1;Melhor epoca do ano para pesca;Enchente;12.79
+544;2016;Area Urbana-1;Melhor epoca do ano para pesca;Vazante;9.3
+545;2016;Area Urbana-1;Melhor epoca do ano para pesca;Ano Todo;24.42
+546;2016;Area Urbana-1;Melhor epoca do ano para pesca;Nao Pescam;47.67
+547;2017;Area Urbana-1;Melhor epoca do ano para pesca;Cheia;67.82
+548;2017;Area Urbana-1;Melhor epoca do ano para pesca;Seca;26.44
+549;2017;Area Urbana-1;Melhor epoca do ano para pesca;Enchente;49.43
+550;2017;Area Urbana-1;Melhor epoca do ano para pesca;Vazante;50.57
+551;2017;Area Urbana-1;Melhor epoca do ano para pesca;Ano Todo;9.2
+552;2017;Area Urbana-1;Melhor epoca do ano para pesca;Nao Pescam;18.39
+553;2018;Area Urbana-1;Melhor epoca do ano para pesca;Cheia;37.89
+554;2018;Area Urbana-1;Melhor epoca do ano para pesca;Seca;36.84
+555;2018;Area Urbana-1;Melhor epoca do ano para pesca;Enchente;30.53
+556;2018;Area Urbana-1;Melhor epoca do ano para pesca;Vazante;43.16
+557;2018;Area Urbana-1;Melhor epoca do ano para pesca;Ano Todo;9.47
+558;2018;Area Urbana-1;Melhor epoca do ano para pesca;Nao Pescam;32.63
+559;2019;Area Urbana-1;Melhor epoca do ano para pesca;Cheia;34.38
+560;2019;Area Urbana-1;Melhor epoca do ano para pesca;Seca;21.88
+561;2019;Area Urbana-1;Melhor epoca do ano para pesca;Enchente;37.5
+562;2019;Area Urbana-1;Melhor epoca do ano para pesca;Vazante;37.5
+563;2019;Area Urbana-1;Melhor epoca do ano para pesca;Ano Todo;3.13
+564;2019;Area Urbana-1;Melhor epoca do ano para pesca;Nao Pescam;32.29
+565;2020;Area Urbana-1;Melhor epoca do ano para pesca;Cheia;15
+566;2020;Area Urbana-1;Melhor epoca do ano para pesca;Seca;11.67
+567;2020;Area Urbana-1;Melhor epoca do ano para pesca;Enchente;26.67
+568;2020;Area Urbana-1;Melhor epoca do ano para pesca;Vazante;20
+569;2020;Area Urbana-1;Melhor epoca do ano para pesca;Ano Todo;3.33
+570;2020;Area Urbana-1;Melhor epoca do ano para pesca;Nao Pescam;45
+571;2012;Area Urbana-2;Melhor epoca do ano para pesca;Cheia;36.36
+572;2012;Area Urbana-2;Melhor epoca do ano para pesca;Seca;31.82
+573;2012;Area Urbana-2;Melhor epoca do ano para pesca;Enchente;34.09
+574;2012;Area Urbana-2;Melhor epoca do ano para pesca;Vazante;31.82
+575;2012;Area Urbana-2;Melhor epoca do ano para pesca;Ano Todo;2.27
+576;2012;Area Urbana-2;Melhor epoca do ano para pesca;Nao Pescam;34.09
+577;2013;Area Urbana-2;Melhor epoca do ano para pesca;Cheia;40.16
+578;2013;Area Urbana-2;Melhor epoca do ano para pesca;Seca;20.47
+579;2013;Area Urbana-2;Melhor epoca do ano para pesca;Enchente;19.69
+580;2013;Area Urbana-2;Melhor epoca do ano para pesca;Vazante;14.17
+581;2013;Area Urbana-2;Melhor epoca do ano para pesca;Ano Todo;1.57
+582;2013;Area Urbana-2;Melhor epoca do ano para pesca;Nao Pescam;39.37
+583;2014;Area Urbana-2;Melhor epoca do ano para pesca;Cheia;10.53
+584;2014;Area Urbana-2;Melhor epoca do ano para pesca;Seca;18.05
+585;2014;Area Urbana-2;Melhor epoca do ano para pesca;Enchente;0
+586;2014;Area Urbana-2;Melhor epoca do ano para pesca;Vazante;0
+587;2014;Area Urbana-2;Melhor epoca do ano para pesca;Ano Todo;0
+588;2014;Area Urbana-2;Melhor epoca do ano para pesca;Nao Pescam;73.68
+589;2015;Area Urbana-2;Melhor epoca do ano para pesca;Cheia;19.31
+590;2015;Area Urbana-2;Melhor epoca do ano para pesca;Seca;11.72
+591;2015;Area Urbana-2;Melhor epoca do ano para pesca;Enchente;0
+592;2015;Area Urbana-2;Melhor epoca do ano para pesca;Vazante;0
+593;2015;Area Urbana-2;Melhor epoca do ano para pesca;Ano Todo;0
+594;2015;Area Urbana-2;Melhor epoca do ano para pesca;Nao Pescam;68.97
+595;2016;Area Urbana-2;Melhor epoca do ano para pesca;Cheia;16.67
+596;2016;Area Urbana-2;Melhor epoca do ano para pesca;Seca;12.12
+597;2016;Area Urbana-2;Melhor epoca do ano para pesca;Enchente;8.33
+598;2016;Area Urbana-2;Melhor epoca do ano para pesca;Vazante;11.36
+599;2016;Area Urbana-2;Melhor epoca do ano para pesca;Ano Todo;11.36
+600;2016;Area Urbana-2;Melhor epoca do ano para pesca;Nao Pescam;62.12
+601;2017;Area Urbana-2;Melhor epoca do ano para pesca;Cheia;29.27
+602;2017;Area Urbana-2;Melhor epoca do ano para pesca;Seca;10.57
+603;2017;Area Urbana-2;Melhor epoca do ano para pesca;Enchente;23.58
+604;2017;Area Urbana-2;Melhor epoca do ano para pesca;Vazante;12.2
+605;2017;Area Urbana-2;Melhor epoca do ano para pesca;Ano Todo;8.13
+606;2017;Area Urbana-2;Melhor epoca do ano para pesca;Nao Pescam;56.91
+607;2018;Area Urbana-2;Melhor epoca do ano para pesca;Cheia;14.75
+608;2018;Area Urbana-2;Melhor epoca do ano para pesca;Seca;9.84
+609;2018;Area Urbana-2;Melhor epoca do ano para pesca;Enchente;15.57
+610;2018;Area Urbana-2;Melhor epoca do ano para pesca;Vazante;8.2
+611;2018;Area Urbana-2;Melhor epoca do ano para pesca;Ano Todo;4.1
+612;2018;Area Urbana-2;Melhor epoca do ano para pesca;Nao Pescam;73.77
+613;2019;Area Urbana-2;Melhor epoca do ano para pesca;Cheia;19.39
+614;2019;Area Urbana-2;Melhor epoca do ano para pesca;Seca;17.35
+615;2019;Area Urbana-2;Melhor epoca do ano para pesca;Enchente;35.71
+616;2019;Area Urbana-2;Melhor epoca do ano para pesca;Vazante;12.24
+617;2019;Area Urbana-2;Melhor epoca do ano para pesca;Ano Todo;3.06
+618;2019;Area Urbana-2;Melhor epoca do ano para pesca;Nao Pescam;45.92
+619;2020;Area Urbana-2;Melhor epoca do ano para pesca;Cheia;22.22
+620;2020;Area Urbana-2;Melhor epoca do ano para pesca;Seca;20.37
+621;2020;Area Urbana-2;Melhor epoca do ano para pesca;Enchente;48.15
+622;2020;Area Urbana-2;Melhor epoca do ano para pesca;Vazante;16.67
+623;2020;Area Urbana-2;Melhor epoca do ano para pesca;Ano Todo;0
+624;2020;Area Urbana-2;Melhor epoca do ano para pesca;Nao Pescam;35.19
+625;Seca 2012;Area Rural-1;Tipo de pesca praticada;Comercializacao;45.0
+626;Seca 2012;Area Rural-1;Tipo de pesca praticada;Subsistencia;45.0
+627;Seca 2012;Area Rural-1;Tipo de pesca praticada;Lazer;0.0
+628;Seca 2012;Area Rural-1;Tipo de pesca praticada;Nao Pesca;15.0
+629;Cheia 2013;Area Rural-1;Tipo de pesca praticada;Comercializacao;28.9
+630;Cheia 2013;Area Rural-1;Tipo de pesca praticada;Subsistencia;60.0
+631;Cheia 2013;Area Rural-1;Tipo de pesca praticada;Lazer;0.0
+632;Cheia 2013;Area Rural-1;Tipo de pesca praticada;Nao Pesca;17.8
+633;Seca 2013;Area Rural-1;Tipo de pesca praticada;Comercializacao;24.4
+634;Seca 2013;Area Rural-1;Tipo de pesca praticada;Subsistencia;56.1
+635;Seca 2013;Area Rural-1;Tipo de pesca praticada;Lazer;0.0
+636;Seca 2013;Area Rural-1;Tipo de pesca praticada;Nao Pesca;24.4
+637;Cheia 2014;Area Rural-1;Tipo de pesca praticada;Comercializacao;26.5
+638;Cheia 2014;Area Rural-1;Tipo de pesca praticada;Subsistencia;67.3
+639;Cheia 2014;Area Rural-1;Tipo de pesca praticada;Lazer;0.0
+640;Cheia 2014;Area Rural-1;Tipo de pesca praticada;Nao Pesca;12.2
+641;Seca 2014;Area Rural-1;Tipo de pesca praticada;Comercializacao;30.8
+642;Seca 2014;Area Rural-1;Tipo de pesca praticada;Subsistencia;71.8
+643;Seca 2014;Area Rural-1;Tipo de pesca praticada;Lazer;0.0
+644;Seca 2014;Area Rural-1;Tipo de pesca praticada;Nao Pesca;17.9
+645;Cheia 2015;Area Rural-1;Tipo de pesca praticada;Comercializacao;26.2
+646;Cheia 2015;Area Rural-1;Tipo de pesca praticada;Subsistencia;54.8
+647;Cheia 2015;Area Rural-1;Tipo de pesca praticada;Lazer;2.4
+648;Cheia 2015;Area Rural-1;Tipo de pesca praticada;Nao Pesca;31.0
+649;Seca 2015;Area Rural-1;Tipo de pesca praticada;Comercializacao;37.8
+650;Seca 2015;Area Rural-1;Tipo de pesca praticada;Subsistencia;35.1
+651;Seca 2015;Area Rural-1;Tipo de pesca praticada;Lazer;0.0
+652;Seca 2015;Area Rural-1;Tipo de pesca praticada;Nao Pesca;29.7
+653;Cheia 2016;Area Rural-1;Tipo de pesca praticada;Comercializacao;14.7
+654;Cheia 2016;Area Rural-1;Tipo de pesca praticada;Subsistencia;61.8
+655;Cheia 2016;Area Rural-1;Tipo de pesca praticada;Lazer;0.0
+656;Cheia 2016;Area Rural-1;Tipo de pesca praticada;Nao Pesca;32.4
+657;Seca 2016;Area Rural-1;Tipo de pesca praticada;Comercializacao;34.1
+658;Seca 2016;Area Rural-1;Tipo de pesca praticada;Subsistencia;86.4
+659;Seca 2016;Area Rural-1;Tipo de pesca praticada;Lazer;9.1
+660;Seca 2016;Area Rural-1;Tipo de pesca praticada;Nao Pesca;9.1
+661;Cheia 2017;Area Rural-1;Tipo de pesca praticada;Comercializacao;38.9
+662;Cheia 2017;Area Rural-1;Tipo de pesca praticada;Subsistencia;94.4
+663;Cheia 2017;Area Rural-1;Tipo de pesca praticada;Lazer;30.6
+664;Cheia 2017;Area Rural-1;Tipo de pesca praticada;Nao Pesca;2.8
+665;Seca 2017;Area Rural-1;Tipo de pesca praticada;Comercializacao;38.2
+666;Seca 2017;Area Rural-1;Tipo de pesca praticada;Subsistencia;91.2
+667;Seca 2017;Area Rural-1;Tipo de pesca praticada;Lazer;38.2
+668;Seca 2017;Area Rural-1;Tipo de pesca praticada;Nao Pesca;0.0
+669;Cheia 2018;Area Rural-1;Tipo de pesca praticada;Comercializacao;26.3
+670;Cheia 2018;Area Rural-1;Tipo de pesca praticada;Subsistencia;97.4
+671;Cheia 2018;Area Rural-1;Tipo de pesca praticada;Lazer;28.9
+672;Cheia 2018;Area Rural-1;Tipo de pesca praticada;Nao Pesca;0.0
+673;Seca 2018;Area Rural-1;Tipo de pesca praticada;Comercializacao;15.9
+674;Seca 2018;Area Rural-1;Tipo de pesca praticada;Subsistencia;79.5
+675;Seca 2018;Area Rural-1;Tipo de pesca praticada;Lazer;0.0
+676;Seca 2018;Area Rural-1;Tipo de pesca praticada;Nao Pesca;20.5
+677;Cheia 2019;Area Rural-1;Tipo de pesca praticada;Comercializacao;22.9
+678;Cheia 2019;Area Rural-1;Tipo de pesca praticada;Subsistencia;88.6
+679;Cheia 2019;Area Rural-1;Tipo de pesca praticada;Lazer;0.0
+680;Cheia 2019;Area Rural-1;Tipo de pesca praticada;Nao Pesca;5.7
+681;Seca 2019;Area Rural-1;Tipo de pesca praticada;Comercializacao;38.6
+682;Seca 2019;Area Rural-1;Tipo de pesca praticada;Subsistencia;90.9
+683;Seca 2019;Area Rural-1;Tipo de pesca praticada;Lazer;15.9
+684;Seca 2019;Area Rural-1;Tipo de pesca praticada;Nao Pesca;9.1
+685;Seca 2020;Area Rural-1;Tipo de pesca praticada;Comercializacao;13.9
+686;Seca 2020;Area Rural-1;Tipo de pesca praticada;Subsistencia;88.9
+687;Seca 2020;Area Rural-1;Tipo de pesca praticada;Lazer;19.4
+688;Seca 2020;Area Rural-1;Tipo de pesca praticada;Nao Pesca;11.1
+689;Seca 2012;Area Rural-2;Tipo de pesca praticada;Comercializacao;13.6
+690;Seca 2012;Area Rural-2;Tipo de pesca praticada;Subsistencia;72.7
+691;Seca 2012;Area Rural-2;Tipo de pesca praticada;Lazer;0.0
+692;Seca 2012;Area Rural-2;Tipo de pesca praticada;Nao Pesca;22.7
+693;Cheia 2013;Area Rural-2;Tipo de pesca praticada;Comercializacao;17.9
+694;Cheia 2013;Area Rural-2;Tipo de pesca praticada;Subsistencia;67.9
+695;Cheia 2013;Area Rural-2;Tipo de pesca praticada;Lazer;0.0
+696;Cheia 2013;Area Rural-2;Tipo de pesca praticada;Nao Pesca;14.3
+697;Seca 2013;Area Rural-2;Tipo de pesca praticada;Comercializacao;22.7
+698;Seca 2013;Area Rural-2;Tipo de pesca praticada;Subsistencia;70.5
+699;Seca 2013;Area Rural-2;Tipo de pesca praticada;Lazer;2.3
+700;Seca 2013;Area Rural-2;Tipo de pesca praticada;Nao Pesca;20.5
+701;Cheia 2014;Area Rural-2;Tipo de pesca praticada;Comercializacao;14.3
+702;Cheia 2014;Area Rural-2;Tipo de pesca praticada;Subsistencia;80.0
+703;Cheia 2014;Area Rural-2;Tipo de pesca praticada;Lazer;0.0
+704;Cheia 2014;Area Rural-2;Tipo de pesca praticada;Nao Pesca;11.4
+705;Seca 2014;Area Rural-2;Tipo de pesca praticada;Comercializacao;26.0
+706;Seca 2014;Area Rural-2;Tipo de pesca praticada;Subsistencia;74.0
+707;Seca 2014;Area Rural-2;Tipo de pesca praticada;Lazer;0.0
+708;Seca 2014;Area Rural-2;Tipo de pesca praticada;Nao Pesca;10.0
+709;Cheia 2015;Area Rural-2;Tipo de pesca praticada;Comercializacao;16.7
+710;Cheia 2015;Area Rural-2;Tipo de pesca praticada;Subsistencia;66.7
+711;Cheia 2015;Area Rural-2;Tipo de pesca praticada;Lazer;0.0
+712;Cheia 2015;Area Rural-2;Tipo de pesca praticada;Nao Pesca;31.0
+713;Seca 2015;Area Rural-2;Tipo de pesca praticada;Comercializacao;31.8
+714;Seca 2015;Area Rural-2;Tipo de pesca praticada;Subsistencia;70.5
+715;Seca 2015;Area Rural-2;Tipo de pesca praticada;Lazer;0.0
+716;Seca 2015;Area Rural-2;Tipo de pesca praticada;Nao Pesca;9.1
+717;Cheia 2016;Area Rural-2;Tipo de pesca praticada;Comercializacao;12.8
+718;Cheia 2016;Area Rural-2;Tipo de pesca praticada;Subsistencia;46.8
+719;Cheia 2016;Area Rural-2;Tipo de pesca praticada;Lazer;0.0
+720;Cheia 2016;Area Rural-2;Tipo de pesca praticada;Nao Pesca;42.6
+721;Seca 2016;Area Rural-2;Tipo de pesca praticada;Comercializacao;6.5
+722;Seca 2016;Area Rural-2;Tipo de pesca praticada;Subsistencia;90.3
+723;Seca 2016;Area Rural-2;Tipo de pesca praticada;Lazer;6.5
+724;Seca 2016;Area Rural-2;Tipo de pesca praticada;Nao Pesca;9.7
+725;Cheia 2017;Area Rural-2;Tipo de pesca praticada;Comercializacao;26.7
+726;Cheia 2017;Area Rural-2;Tipo de pesca praticada;Subsistencia;91.1
+727;Cheia 2017;Area Rural-2;Tipo de pesca praticada;Lazer;20.0
+728;Cheia 2017;Area Rural-2;Tipo de pesca praticada;Nao Pesca;8.9
+729;Seca 2017;Area Rural-2;Tipo de pesca praticada;Comercializacao;12.8
+730;Seca 2017;Area Rural-2;Tipo de pesca praticada;Subsistencia;68.1
+731;Seca 2017;Area Rural-2;Tipo de pesca praticada;Lazer;14.9
+732;Seca 2017;Area Rural-2;Tipo de pesca praticada;Nao Pesca;27.7
+733;Cheia 2018;Area Rural-2;Tipo de pesca praticada;Comercializacao;9.3
+734;Cheia 2018;Area Rural-2;Tipo de pesca praticada;Subsistencia;93.0
+735;Cheia 2018;Area Rural-2;Tipo de pesca praticada;Lazer;34.9
+736;Cheia 2018;Area Rural-2;Tipo de pesca praticada;Nao Pesca;7.0
+737;Seca 2018;Area Rural-2;Tipo de pesca praticada;Comercializacao;4.9
+738;Seca 2018;Area Rural-2;Tipo de pesca praticada;Subsistencia;65.9
+739;Seca 2018;Area Rural-2;Tipo de pesca praticada;Lazer;0.0
+740;Seca 2018;Area Rural-2;Tipo de pesca praticada;Nao Pesca;34.1
+741;Cheia 2019;Area Rural-2;Tipo de pesca praticada;Comercializacao;2.9
+742;Cheia 2019;Area Rural-2;Tipo de pesca praticada;Subsistencia;85.7
+743;Cheia 2019;Area Rural-2;Tipo de pesca praticada;Lazer;0.0
+744;Cheia 2019;Area Rural-2;Tipo de pesca praticada;Nao Pesca;14.3
+745;Seca 2019;Area Rural-2;Tipo de pesca praticada;Comercializacao;20.4
+746;Seca 2019;Area Rural-2;Tipo de pesca praticada;Subsistencia;79.6
+747;Seca 2019;Area Rural-2;Tipo de pesca praticada;Lazer;18.5
+748;Seca 2019;Area Rural-2;Tipo de pesca praticada;Nao Pesca;20.4
+749;Seca 2020;Area Rural-2;Tipo de pesca praticada;Comercializacao;8.2
+750;Seca 2020;Area Rural-2;Tipo de pesca praticada;Subsistencia;81.6
+751;Seca 2020;Area Rural-2;Tipo de pesca praticada;Lazer;8.2
+752;Seca 2020;Area Rural-2;Tipo de pesca praticada;Nao Pesca;18.4
+753;Seca 2012;Area Urbana-1;Tipo de pesca praticada;Comercializacao;20.4
+754;Seca 2012;Area Urbana-1;Tipo de pesca praticada;Subsistencia;59.3
+755;Seca 2012;Area Urbana-1;Tipo de pesca praticada;Lazer;0.0
+756;Seca 2012;Area Urbana-1;Tipo de pesca praticada;Nao Pesca;25.9
+757;Cheia 2013;Area Urbana-1;Tipo de pesca praticada;Comercializacao;12.5
+758;Cheia 2013;Area Urbana-1;Tipo de pesca praticada;Subsistencia;62.5
+759;Cheia 2013;Area Urbana-1;Tipo de pesca praticada;Lazer;0.0
+760;Cheia 2013;Area Urbana-1;Tipo de pesca praticada;Nao Pesca;25.0
+761;Seca 2013;Area Urbana-1;Tipo de pesca praticada;Comercializacao;21.7
+762;Seca 2013;Area Urbana-1;Tipo de pesca praticada;Subsistencia;58.7
+763;Seca 2013;Area Urbana-1;Tipo de pesca praticada;Lazer;2.2
+764;Seca 2013;Area Urbana-1;Tipo de pesca praticada;Nao Pesca;26.1
+765;Cheia 2014;Area Urbana-1;Tipo de pesca praticada;Comercializacao;20.0
+766;Cheia 2014;Area Urbana-1;Tipo de pesca praticada;Subsistencia;64.4
+767;Cheia 2014;Area Urbana-1;Tipo de pesca praticada;Lazer;0.0
+768;Cheia 2014;Area Urbana-1;Tipo de pesca praticada;Nao Pesca;20.0
+769;Seca 2014;Area Urbana-1;Tipo de pesca praticada;Comercializacao;15.0
+770;Seca 2014;Area Urbana-1;Tipo de pesca praticada;Subsistencia;75.0
+771;Seca 2014;Area Urbana-1;Tipo de pesca praticada;Lazer;10.0
+772;Seca 2014;Area Urbana-1;Tipo de pesca praticada;Nao Pesca;20.0
+773;Cheia 2015;Area Urbana-1;Tipo de pesca praticada;Comercializacao;21.2
+774;Cheia 2015;Area Urbana-1;Tipo de pesca praticada;Subsistencia;30.3
+775;Cheia 2015;Area Urbana-1;Tipo de pesca praticada;Lazer;0.0
+776;Cheia 2015;Area Urbana-1;Tipo de pesca praticada;Nao Pesca;60.6
+777;Seca 2015;Area Urbana-1;Tipo de pesca praticada;Comercializacao;11.6
+778;Seca 2015;Area Urbana-1;Tipo de pesca praticada;Subsistencia;39.5
+779;Seca 2015;Area Urbana-1;Tipo de pesca praticada;Lazer;0.0
+780;Seca 2015;Area Urbana-1;Tipo de pesca praticada;Nao Pesca;51.2
+781;Cheia 2016;Area Urbana-1;Tipo de pesca praticada;Comercializacao;21.3
+782;Cheia 2016;Area Urbana-1;Tipo de pesca praticada;Subsistencia;29.8
+783;Cheia 2016;Area Urbana-1;Tipo de pesca praticada;Lazer;0.0
+784;Cheia 2016;Area Urbana-1;Tipo de pesca praticada;Nao Pesca;53.2
+785;Seca 2016;Area Urbana-1;Tipo de pesca praticada;Comercializacao;15.5
+786;Seca 2016;Area Urbana-1;Tipo de pesca praticada;Subsistencia;58.6
+787;Seca 2016;Area Urbana-1;Tipo de pesca praticada;Lazer;3.4
+788;Seca 2016;Area Urbana-1;Tipo de pesca praticada;Nao Pesca;36.2
+789;Cheia 2017;Area Urbana-1;Tipo de pesca praticada;Comercializacao;20.4
+790;Cheia 2017;Area Urbana-1;Tipo de pesca praticada;Subsistencia;79.6
+791;Cheia 2017;Area Urbana-1;Tipo de pesca praticada;Lazer;16.7
+792;Cheia 2017;Area Urbana-1;Tipo de pesca praticada;Nao Pesca;18.5
+793;Seca 2017;Area Urbana-1;Tipo de pesca praticada;Comercializacao;17.9
+794;Seca 2017;Area Urbana-1;Tipo de pesca praticada;Subsistencia;80.4
+795;Seca 2017;Area Urbana-1;Tipo de pesca praticada;Lazer;12.5
+796;Seca 2017;Area Urbana-1;Tipo de pesca praticada;Nao Pesca;12.5
+797;Cheia 2018;Area Urbana-1;Tipo de pesca praticada;Comercializacao;32.7
+798;Cheia 2018;Area Urbana-1;Tipo de pesca praticada;Subsistencia;85.5
+799;Cheia 2018;Area Urbana-1;Tipo de pesca praticada;Lazer;7.3
+800;Cheia 2018;Area Urbana-1;Tipo de pesca praticada;Nao Pesca;10.9
+801;Seca 2018;Area Urbana-1;Tipo de pesca praticada;Comercializacao;16.4
+802;Seca 2018;Area Urbana-1;Tipo de pesca praticada;Subsistencia;43.6
+803;Seca 2018;Area Urbana-1;Tipo de pesca praticada;Lazer;0.0
+804;Seca 2018;Area Urbana-1;Tipo de pesca praticada;Nao Pesca;45.5
+805;Cheia 2019;Area Urbana-1;Tipo de pesca praticada;Comercializacao;13.6
+806;Cheia 2019;Area Urbana-1;Tipo de pesca praticada;Subsistencia;69.5
+807;Cheia 2019;Area Urbana-1;Tipo de pesca praticada;Lazer;3.4
+808;Cheia 2019;Area Urbana-1;Tipo de pesca praticada;Nao Pesca;28.8
+809;Seca 2019;Area Urbana-1;Tipo de pesca praticada;Comercializacao;13.1
+810;Seca 2019;Area Urbana-1;Tipo de pesca praticada;Subsistencia;70.5
+811;Seca 2019;Area Urbana-1;Tipo de pesca praticada;Lazer;3.3
+812;Seca 2019;Area Urbana-1;Tipo de pesca praticada;Nao Pesca;24.6
+813;Seca 2020;Area Urbana-1;Tipo de pesca praticada;Comercializacao;6.7
+814;Seca 2020;Area Urbana-1;Tipo de pesca praticada;Subsistencia;55.0
+815;Seca 2020;Area Urbana-1;Tipo de pesca praticada;Lazer;0.0
+816;Seca 2020;Area Urbana-1;Tipo de pesca praticada;Nao Pesca;28.3
+817;Seca 2012;Area Urbana-2;Tipo de pesca praticada;Comercializacao;47.7
+818;Seca 2012;Area Urbana-2;Tipo de pesca praticada;Subsistencia;15.9
+819;Seca 2012;Area Urbana-2;Tipo de pesca praticada;Lazer;9.1
+820;Seca 2012;Area Urbana-2;Tipo de pesca praticada;Nao Pesca;31.8
+821;Cheia 2013;Area Urbana-2;Tipo de pesca praticada;Comercializacao;29.2
+822;Cheia 2013;Area Urbana-2;Tipo de pesca praticada;Subsistencia;47.2
+823;Cheia 2013;Area Urbana-2;Tipo de pesca praticada;Lazer;1.4
+824;Cheia 2013;Area Urbana-2;Tipo de pesca praticada;Nao Pesca;29.2
+825;Seca 2013;Area Urbana-2;Tipo de pesca praticada;Comercializacao;24.2
+826;Seca 2013;Area Urbana-2;Tipo de pesca praticada;Subsistencia;24.2
+827;Seca 2013;Area Urbana-2;Tipo de pesca praticada;Lazer;7.6
+828;Seca 2013;Area Urbana-2;Tipo de pesca praticada;Nao Pesca;51.5
+829;Cheia 2014;Area Urbana-2;Tipo de pesca praticada;Comercializacao;12.7
+830;Cheia 2014;Area Urbana-2;Tipo de pesca praticada;Subsistencia;28.2
+831;Cheia 2014;Area Urbana-2;Tipo de pesca praticada;Lazer;1.4
+832;Cheia 2014;Area Urbana-2;Tipo de pesca praticada;Nao Pesca;62.0
+833;Seca 2014;Area Urbana-2;Tipo de pesca praticada;Comercializacao;5.7
+834;Seca 2014;Area Urbana-2;Tipo de pesca praticada;Subsistencia;5.7
+835;Seca 2014;Area Urbana-2;Tipo de pesca praticada;Lazer;5.7
+836;Seca 2014;Area Urbana-2;Tipo de pesca praticada;Nao Pesca;84.3
+837;Cheia 2015;Area Urbana-2;Tipo de pesca praticada;Comercializacao;5.4
+838;Cheia 2015;Area Urbana-2;Tipo de pesca praticada;Subsistencia;24.3
+839;Cheia 2015;Area Urbana-2;Tipo de pesca praticada;Lazer;0.0
+840;Cheia 2015;Area Urbana-2;Tipo de pesca praticada;Nao Pesca;73.0
+841;Seca 2015;Area Urbana-2;Tipo de pesca praticada;Comercializacao;12.0
+842;Seca 2015;Area Urbana-2;Tipo de pesca praticada;Subsistencia;24.0
+843;Seca 2015;Area Urbana-2;Tipo de pesca praticada;Lazer;0.0
+844;Seca 2015;Area Urbana-2;Tipo de pesca praticada;Nao Pesca;65.3
+845;Cheia 2016;Area Urbana-2;Tipo de pesca praticada;Comercializacao;5.3
+846;Cheia 2016;Area Urbana-2;Tipo de pesca praticada;Subsistencia;24.0
+847;Cheia 2016;Area Urbana-2;Tipo de pesca praticada;Lazer;0.0
+848;Cheia 2016;Area Urbana-2;Tipo de pesca praticada;Nao Pesca;70.7
+849;Seca 2016;Area Urbana-2;Tipo de pesca praticada;Comercializacao;9.2
+850;Seca 2016;Area Urbana-2;Tipo de pesca praticada;Subsistencia;44.6
+851;Seca 2016;Area Urbana-2;Tipo de pesca praticada;Lazer;4.6
+852;Seca 2016;Area Urbana-2;Tipo de pesca praticada;Nao Pesca;47.7
+853;Cheia 2017;Area Urbana-2;Tipo de pesca praticada;Comercializacao;7.7
+854;Cheia 2017;Area Urbana-2;Tipo de pesca praticada;Subsistencia;55.4
+855;Cheia 2017;Area Urbana-2;Tipo de pesca praticada;Lazer;4.6
+856;Cheia 2017;Area Urbana-2;Tipo de pesca praticada;Nao Pesca;41.5
+857;Seca 2017;Area Urbana-2;Tipo de pesca praticada;Comercializacao;7.7
+858;Seca 2017;Area Urbana-2;Tipo de pesca praticada;Subsistencia;29.2
+859;Seca 2017;Area Urbana-2;Tipo de pesca praticada;Lazer;9.2
+860;Seca 2017;Area Urbana-2;Tipo de pesca praticada;Nao Pesca;67.7
+861;Cheia 2018;Area Urbana-2;Tipo de pesca praticada;Comercializacao;4.6
+862;Cheia 2018;Area Urbana-2;Tipo de pesca praticada;Subsistencia;35.4
+863;Cheia 2018;Area Urbana-2;Tipo de pesca praticada;Lazer;1.5
+864;Cheia 2018;Area Urbana-2;Tipo de pesca praticada;Nao Pesca;63.1
+865;Seca 2018;Area Urbana-2;Tipo de pesca praticada;Comercializacao;6.0
+866;Seca 2018;Area Urbana-2;Tipo de pesca praticada;Subsistencia;17.9
+867;Seca 2018;Area Urbana-2;Tipo de pesca praticada;Lazer;0.0
+868;Seca 2018;Area Urbana-2;Tipo de pesca praticada;Nao Pesca;80.6
+869;Cheia 2019;Area Urbana-2;Tipo de pesca praticada;Comercializacao;9.0
+870;Cheia 2019;Area Urbana-2;Tipo de pesca praticada;Subsistencia;55.2
+871;Cheia 2019;Area Urbana-2;Tipo de pesca praticada;Lazer;4.5
+872;Cheia 2019;Area Urbana-2;Tipo de pesca praticada;Nao Pesca;43.3
+873;Seca 2019;Area Urbana-2;Tipo de pesca praticada;Comercializacao;15.4
+874;Seca 2019;Area Urbana-2;Tipo de pesca praticada;Subsistencia;48.7
+875;Seca 2019;Area Urbana-2;Tipo de pesca praticada;Lazer;5.1
+876;Seca 2019;Area Urbana-2;Tipo de pesca praticada;Nao Pesca;48.7
+877;Seca 2020;Area Urbana-2;Tipo de pesca praticada;Comercializacao;9.3
+878;Seca 2020;Area Urbana-2;Tipo de pesca praticada;Subsistencia;63.0
+879;Seca 2020;Area Urbana-2;Tipo de pesca praticada;Lazer;3.7
+880;Seca 2020;Area Urbana-2;Tipo de pesca praticada;Nao Pesca;35.2
