@@ -1,6 +1,4 @@
-# README
-
-## Painel de Resultados - Aplicação Shiny
+# README - Painel de Resultados - Aplicação Shiny
 
 Este é um aplicativo Shiny que visualiza dados de diferentes categorias, apresentando gráficos, tabelas e mapas interativos. Abaixo está uma explicação detalhada sobre os componentes do aplicativo e como ele funciona.
 
